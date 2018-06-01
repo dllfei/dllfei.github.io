@@ -19,11 +19,17 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 Education
 ======
 Tsinghua University (THU) 2012-2017, Ph.D.
+=
+
 Center for Brain Inspired Computing Research
+
 Research Domains: Neuromorphic Chip, Machine Learning, Non-Volatile Memory, Complex Networks
 
 University of Science and Technology of China (USTC) 2008-2012, Bachelor
+=
+
 Department of Precision Machinery and Precision Instrument
+
 Research Domains: Robotics, Photoelectrics
 
 Awards
