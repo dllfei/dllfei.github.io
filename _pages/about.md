@@ -24,8 +24,8 @@ Bachelor - University of Science and Technology of China (USTC) 2008-2012, Depar
 
 Awards
 ======
-THU: 
+THU: Selection into THU ‘Bauhinia Scholar’ Program (2017), Department Academic Star (2017), Best Oral Award on 1st PhD Forum of Beijing Innovation Center for Future Chip (2017), First Prize of Comprehensive Scholarship (2016), THU (China)-NSK (Japan) Friendship Best Paper Award (2016), Department Best Paper Award for Graduate Student (2016), National Scholarship (2015), Student Work Scholarship (2015), First Prize of Graduate Student Intern (2015), Excellent Student Leader Scholarship (2014)    
 
-USTC:
+USTC: Runner-up of USTC Robot Competition (2010), National Encouragement Scholarship (2010)
 
 
