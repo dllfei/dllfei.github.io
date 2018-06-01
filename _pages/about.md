@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Deng is ... [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Lei Deng received his B.E. degree and Ph.D. degree from University of Science and Technology of China, Hefei, China, and Tsinghua University, Beijing, China, in 2012 and 2017, respectively. He is currently a Postdoc at Department of Electrical and Computer Engineering, University of California, Santa Barbara, CA, USA. His research interests include brain-inspired computing, machine learning algorithm and architecture, neuromorphic system, computational neuroscience, and complex networks.
 
 A data-driven personal website
 ======
