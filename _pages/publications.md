@@ -20,5 +20,9 @@ Yujie Wu, **Lei Deng** (co-first author), Guoqi Li, Jun Zhu, Luping Shi <br />
 **Lei Deng**, Peng Jiao, Jing Pei, Zhenzhi Wu, Guoqi Li <br />
 *Neural Networks* 100, 49-58 (2018).
 
+### Enabling Controlling Complex Networks with Local Topological Information. ([Link](https://www.nature.com/articles/s41598-018-22655-5.pdf)) <br />
+Guoqi Li, **Lei Deng** (co-first author), Gaoxi Xiao, Pei Tang, Changyun Wen, Wuhua Hu, Jing Pei, Luping Shi, H. Eugene Stanley <br />
+*Scientific Reports* 8, 4593 (2018).
+
 
 ## Conferences
