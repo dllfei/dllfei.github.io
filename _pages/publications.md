@@ -44,5 +44,29 @@ Guoqi Li, **Lei Deng** (co-first author), Yi Xu, Changyun Wen, Wei Wang, Jing Pe
 Guoqi Li, **Lei Deng** (co-first author), Dong Wang, Wei Wang, Fei Zeng, Ziyang Zhang, Huanglong Li, Sen Song, Jing Pei, Luping Shi <br />
 *Frontiers in Computional Neuroscience* 10, 136 (2016).
 
+### Minimum-cost Control of Complex Networks. ([link](http://iopscience.iop.org/article/10.1088/1367-2630/18/1/013012/meta)) <br />
+Guoqi Li, Wuhua Hu, Gaoxi Xiao, **Lei Deng**, Pei Tang, Jing Pei, Luping Shi <br />
+*New Journal of Physics* 10, 013012 (2016).
+
+### Complex Learning in Bio-plausible Memristive Networks. ([pdf](https://www.nature.com/articles/srep10684.pdf)) <br />
+**Lei Deng**, Guoqi Li, Ning Deng, Dong Wang, Ziyang Zhang, Wei He, Huanglong Li, Jing Pei, Luping Shi <br />
+*Scientific Reports* 5, 10684 (2015).
+
 
 ## Conferences
+
+### Development of A Neuromorphic Computing System. ([link](https://ieeexplore.ieee.org/document/7409624/)) <br />
+Luping Shi, Jing Pei, Ning Deng, Dong Wang, **Lei Deng**, Yu Wang, Youhui Zhang, Feng Chen, Mingguo Zhao, Sen Song, Fei Zeng, Guoqi Li, Huanglong Li, Cheng Ma <br />
+in *IEEE International Electron Devices Meeting (IEDM)*, Washington, DC, USA, December 2015.
+
+### A New Computing Rule for Neuromorphic Engineering. ([link](https://ieeexplore.ieee.org/abstract/document/7457497/)) <br />
+**Lei Deng**, Dong Wang, Ziyang Zhang, Guoqi Li, Jing Pei <br />
+in *15th Non-Volatile Memory Technology Symposium (NVMTS)*, Beijing, China, October 2015.
+
+### FPGA-based Neuromorphic Computing System with a Scalable Routing Network. ([link](https://ieeexplore.ieee.org/abstract/document/7457432/)) <br />
+Dong Wang, **Lei Deng**, Pei Tang, Cheng Ma, Jing Pei <br />
+in *15th Non-Volatile Memory Technology Symposium (NVMTS)*, Beijing, China, October 2015.
+
+### Ultra Low Power of Artificial Cognitive Memory for Brain-like Computation. ([link](https://ieeexplore.ieee.org/abstract/document/7460428/)) <br />
+**Lei Deng**, Ziyang Zhang, Dong Wang, Jing Pei, Luping Shi <br />
+in *6th IEEE International Nanoelectronics Conference (INEC)*, Sapporo, Japan, July 2014.
