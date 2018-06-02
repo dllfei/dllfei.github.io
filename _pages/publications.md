@@ -42,7 +42,7 @@ Guoqi Li, **Lei Deng** (co-first author), Yi Xu, Changyun Wen, Wei Wang, Jing Pe
 
 ### Hierarchical Chunking of Sequential Memory on Neuromorphic Architecture with Reduced Synaptic Plasticity. ([link](https://www.frontiersin.org/articles/10.3389/fncom.2016.00136/full)) <br />
 Guoqi Li, **Lei Deng** (co-first author), Dong Wang, Wei Wang, Fei Zeng, Ziyang Zhang, Huanglong Li, Sen Song, Jing Pei, Luping Shi <br />
-*Frontiers in Computional Neuroscience* 10, 136 (2016).
+*Frontiers in Computational Neuroscience* 10, 136 (2016).
 
 ### Minimum-cost Control of Complex Networks. ([link](http://iopscience.iop.org/article/10.1088/1367-2630/18/1/013012/meta)) <br />
 Guoqi Li, Wuhua Hu, Gaoxi Xiao, **Lei Deng**, Pei Tang, Jing Pei, Luping Shi <br />
