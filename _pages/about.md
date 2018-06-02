@@ -32,6 +32,14 @@ My research interests include algorithms and hardwares for brain-inspired comput
 
 Research Projects:
 
-### Project 1: 
+### ASIC Chip for Artificial and Spiking Neural Networks
+
+### Neural Network Compression
+
+### Spiking Neural Network Learning and Applications
+
+### Computing Architecture for Tensor Operations
+
+### Complex Network Control
 
 
