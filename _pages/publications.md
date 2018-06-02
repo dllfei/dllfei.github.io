@@ -4,29 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+[Google Scholar](https://scholar.google.com/citations?user=vlqhAN4AAAAJ&hl=zh-CN)
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+### L1-Norm Batch Normalization for Efficient Training of Deep Neural Networks. ([pdf](https://arxiv.org/pdf/1802.09769.pdf)) <br />
+Shuang Wu, Guoqi Li, **Lei Deng**, Liu Liu, Yuan Xie, Luping Shi <br />
+arXiv:1802.09769
 
-{% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
----
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+in *the 22nd Asia and South Pacific Design Automation Conference (ASP-DAC)*, Jan. 2017
