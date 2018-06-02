@@ -28,5 +28,9 @@ Guoqi Li, **Lei Deng** (co-first author), Gaoxi Xiao, Pei Tang, Changyun Wen, Wu
 **Lei Deng**, Guoqi Li, Jing Pei, Jiangshuai Huang <br />
 *ISA Transactions* 76, 88-96 (2018).
 
+### Training Deep Neural Networks with Discrete State Transition. ([link](https://www.sciencedirect.com/science/article/pii/S0925231217311864)) <br />
+Guoqi Li, **Lei Deng** (co-first author), Lei Tian, Haotian Cui, Wentao Han, Jing Pei, Luping Shi <br />
+*Neurocomputing* 272, 154-162 (2018).
+
 
 ## Conferences
