@@ -32,5 +32,17 @@ Guoqi Li, **Lei Deng** (co-first author), Gaoxi Xiao, Pei Tang, Changyun Wen, Wu
 Guoqi Li, **Lei Deng** (co-first author), Lei Tian, Haotian Cui, Wentao Han, Jing Pei, Luping Shi <br />
 *Neurocomputing* 272, 154-162 (2018).
 
+### Temperature based Restricted Boltzmann Machines. ([pdf](https://www.nature.com/articles/srep19133.pdf)) <br />
+Guoqi Li, **Lei Deng** (co-first author), Yi Xu, Changyun Wen, Wei Wang, Jing Pei, Luping Shi <br />
+*Scientific Reports* 6, 19133 (2016).
+
+### Energy Consumption Analysis for Various Memristive Networks under Different Learning Strategies. ([link](https://www.sciencedirect.com/science/article/pii/S0375960115010609)) <br />
+**Lei Deng**, Dong Wang, Ziyang Zhang, Pei Tang, Guoqi Li, Jing Pei <br />
+*Physics Letters A* 380, 903-909 (2016).
+
+### Hierarchical Chunking of Sequential Memory on Neuromorphic Architecture with Reduced Synaptic Plasticity. ([link](https://www.frontiersin.org/articles/10.3389/fncom.2016.00136/full)) <br />
+Guoqi Li, **Lei Deng** (co-first author), Dong Wang, Wei Wang, Fei Zeng, Ziyang Zhang, Huanglong Li, Sen Song, Jing Pei, Luping Shi <br />
+*Frontiers in Computional Neuroscience* 10, 136 (2016).
+
 
 ## Conferences
