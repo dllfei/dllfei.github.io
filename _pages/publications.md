@@ -12,6 +12,10 @@ author_profile: true
 Shuang Wu, Guoqi Li, **Lei Deng**, Liu Liu, Yuan Xie, Luping Shi <br />
 arXiv:1802.09769 (Submitted to *IEEE Transactions on Neural Networks and Learning Systems*).
 
+### Correlation between Dzyaloshinskii–Moriya Interaction and Spin Mixing Conductance at Antiferromagnet / Ferromagnet Interface. ([pdf](https://arxiv.org/ftp/arxiv/papers/1804/1804.05151.pdf)) <br />
+Xin Ma, Guoqiang Yu, Seyed A. Razavi, Congli He, Zhaodong Chu, **Lei Deng**, Kang L. Wang, Xiaoqin Li <br />
+arXiv:1804.05151 (Submitted to *Physical Review E*).
+
 ### Spatio-Temporal Backpropagation for Training High-Performance Spiking Neural Networks. ([link](https://www.frontiersin.org/articles/10.3389/fnins.2018.00331/full)) <br />
 Yujie Wu, **Lei Deng** (co-first author), Guoqi Li, Jun Zhu, Luping Shi <br />
 *Frontiers in Neuroscience* 12, 331 (2018).
