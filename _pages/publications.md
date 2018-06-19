@@ -33,7 +33,7 @@ Guoqi Li, **Lei Deng**, Gaoxi Xiao, Pei Tang, Changyun Wen, Wuhua Hu, Jing Pei, 
 *ISA Transactions* 76, 88-96 (2018).
 
 ### Training Deep Neural Networks with Discrete State Transition. ([link](https://www.sciencedirect.com/science/article/pii/S0925231217311864)) <br />
-Guoqi Li, **Lei Deng** (co-first author), Lei Tian, Haotian Cui, Wentao Han, Jing Pei, Luping Shi. (equal contribution: GL, LD) <br />
+Guoqi Li, **Lei Deng**, Lei Tian, Haotian Cui, Wentao Han, Jing Pei, Luping Shi. (equal contribution: GL, LD) <br />
 *Neurocomputing* 272, 154-162 (2018).
 
 ### Temperature based Restricted Boltzmann Machines. ([pdf](https://www.nature.com/articles/srep19133.pdf)) <br />
