@@ -30,7 +30,7 @@ Second Place in USTC Robot Competition (2010), National Encouragement Scholarshi
 
 Research Summary
 ======
-My research interests include algorithms and hardwares for brain-inspired computing, machine learning, tensor operation, as well as graph processing.
+My research interests include Computer Architecture, Machine Learning, Computational Neuroscience, Tensor Computing, Complex Systems, etc.
 
 Research Projects:
 
