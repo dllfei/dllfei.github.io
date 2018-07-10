@@ -14,7 +14,7 @@ arXiv:1802.09769 (Submitted to *IEEE Transactions on Neural Networks and Learnin
 
 ### Correlation between Dzyaloshinskii–Moriya Interaction and Spin Mixing Conductance at Antiferromagnet / Ferromagnet Interface. ([pdf](https://arxiv.org/ftp/arxiv/papers/1804/1804.05151.pdf)) <br />
 Xin Ma, Guoqiang Yu, Seyed A. Razavi, Congli He, Zhaodong Chu, **Lei Deng**, Kang L. Wang, Xiaoqin Li. <br />
-arXiv:1804.05151 (Submitted to *Physical Review E*).
+arXiv:1804.05151 (Submitted to *Physical Review B*).
 
 ### Spatio-Temporal Backpropagation for Training High-Performance Spiking Neural Networks. ([link](https://www.frontiersin.org/articles/10.3389/fnins.2018.00331/full)) <br />
 Yujie Wu, **Lei Deng**, Guoqi Li, Jun Zhu, Luping Shi. (equal contribution: YW, LD, GL) <br />
