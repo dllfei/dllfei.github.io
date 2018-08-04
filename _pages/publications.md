@@ -41,7 +41,7 @@ Guoqi Li, **Lei Deng**, Lei Tian, Haotian Cui, Wentao Han, Jing Pei, Luping Shi.
 *Neurocomputing* 272, 154-162 (2018).
 
 ### Temperature based Restricted Boltzmann Machines. ([pdf](https://www.nature.com/articles/srep19133.pdf)) <br />
-Guoqi Li, **Lei Deng**, Yi Xu, Changyun Wen, Wei Wang, Jing Pei, Luping Shi. (equal contribution: GL, LD) <br />
+Guoqi Li, **Lei Deng**, Yi Xu, Changyun Wen, Wei Wang, Jing Pei, Luping Shi. (equal contribution: GL, LD, YX) <br />
 *Scientific Reports* 6, 19133 (2016).
 
 ### Energy Consumption Analysis for Various Memristive Networks under Different Learning Strategies. ([link](https://www.sciencedirect.com/science/article/pii/S0375960115010609)) <br />
