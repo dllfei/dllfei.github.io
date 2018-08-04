@@ -9,7 +9,7 @@ author_profile: true
 ## Journals
 
 ### Crossbar-aware Neural Network Pruning. ([pdf](https://arxiv.org/pdf/1807.10816.pdf)) <br />
-Ling Liang, **Lei Deng**, Yueling Zeng, Xing Hu, Yu Ji, Xin Ma, Guoqi Li, Yuan Xie. <br />
+Ling Liang, **Lei Deng**, Yueling Zeng, Xing Hu, Yu Ji, Xin Ma, Guoqi Li, Yuan Xie. (equal contribution: LL, LD) <br />
 arXiv:1807.10816 (Submitted to *IEEE Access*).
 
 ### L1-Norm Batch Normalization for Efficient Training of Deep Neural Networks. ([pdf](https://arxiv.org/pdf/1802.09769.pdf)) <br />
