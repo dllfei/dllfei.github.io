@@ -8,6 +8,10 @@ author_profile: true
 
 ## Journals
 
+### Towards the Minimum-cost Control of Target Nodes in Directed Networks with Linear Dynamics. ([link](https://www.sciencedirect.com/science/article/pii/S0016003218305441)) <br />
+Leitao Gao, Guangshe Zhao, Guoqi Li, **Lei Deng**. <br />
+*FJournal of the Franklin Institute* (2018).
+
 ### Crossbar-aware Neural Network Pruning. ([pdf](https://arxiv.org/pdf/1807.10816.pdf)) <br />
 Ling Liang, **Lei Deng**, Yueling Zeng, Xing Hu, Yu Ji, Xin Ma, Guoqi Li, Yuan Xie. (equal contribution: LL, LD) <br />
 arXiv:1807.10816 (Submitted to *IEEE Access*).
@@ -18,7 +22,7 @@ arXiv:1802.09769 (Submitted to *IEEE Transactions on Neural Networks and Learnin
 
 ### Correlation between Dzyaloshinskii–Moriya Interaction and Spin Mixing Conductance at Antiferromagnet / Ferromagnet Interface. ([pdf](https://arxiv.org/ftp/arxiv/papers/1804/1804.05151.pdf)) <br />
 Xin Ma, Guoqiang Yu, Seyed A. Razavi, Congli He, Zhaodong Chu, **Lei Deng**, Kang L. Wang, Xiaoqin Li. <br />
-arXiv:1804.05151 (Submitted to *Physical Review B*).
+arXiv:1804.05151 (accepted by *Physical Review B*).
 
 ### Spatio-Temporal Backpropagation for Training High-Performance Spiking Neural Networks. ([link](https://www.frontiersin.org/articles/10.3389/fnins.2018.00331/full)) <br />
 Yujie Wu, **Lei Deng**, Guoqi Li, Jun Zhu, Luping Shi. (equal contribution: YW, LD, GL) <br />
