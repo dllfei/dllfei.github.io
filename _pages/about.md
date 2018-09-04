@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Lei Deng received his B.E. degree and Ph.D. degree from University of Science and Technology of China, Hefei, China, and Tsinghua University, Beijing, China, in 2012 and 2017, respectively. He is currently a Postdoc at [Scalable Energy-Efficient Architecture Lab (SEAL)](https://seal.ece.ucsb.edu/), Department of Electrical and Computer Engineering, University of California, Santa Barbara, CA, USA. His research interests include computer architecture, machine learning, computational neuroscience, tensor computing, and complex systems.
+Lei Deng received his B.E. degree and Ph.D. degree from University of Science and Technology of China, Hefei, China, and Tsinghua University, Beijing, China, in 2012 and 2017, respectively. He is currently a Postdoc at [Scalable Energy-Efficient Architecture Lab (SEAL)](https://seal.ece.ucsb.edu/), Department of Electrical and Computer Engineering, University of California, Santa Barbara, CA, USA. His research interests include computer architecture, machine learning, computational neuroscience, tensor computing, and complex systems. Now he is a guest associate editor for Frontiers in Neuroscience.
 
 **Email**: leideng@ucsb.edu
 
@@ -23,7 +23,7 @@ University of Science and Technology of China (USTC) 2008-2012, Department of Pr
 Awards
 ======
 ### THU: 
-Selection into THU ‘Bauhinia Scholar’ Program (2017), Department Academic Star (2017), Best Oral Award on 1st PhD Forum of Beijing Innovation Center for Future Chip (2017), First Prize of Comprehensive Scholarship (2016), THU (China)-NSK (Japan) Friendship Best Paper Award (2016), Department Best Paper Award for Graduate Student (2016), National Scholarship (2015), Student Work Scholarship (2015), First Prize of Graduate Student Summer Intern (2015), Excellent Student Leader Scholarship (2014)    
+Selection into THU ‘Bauhinia Scholar’ Postdoctoral Program (top-10, 2017), Department Academic Star (2017), Best Oral Award on 1st PhD Forum of Beijing Innovation Center for Future Chip (2017), First Prize of Comprehensive Scholarship (2016), THU (China)-NSK (Japan) Friendship Best Paper Award (2016), Department Best Paper Award for Graduate Student (2016), National Scholarship (2015), Student Work Scholarship (2015), First Prize of Graduate Student Summer Intern (2015), Excellent Student Leader Scholarship (2014)    
 
 ### USTC: 
 Second Place in USTC Robot Competition (2010), National Encouragement Scholarship (2010)
