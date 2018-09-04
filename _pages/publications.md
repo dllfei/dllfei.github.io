@@ -8,6 +8,10 @@ author_profile: true
 
 ## Journals
 
+### Towards a Unified Framework of Matrix Derivatives. ([link](https://ieeexplore.ieee.org/abstract/document/8453264/)) <br />
+Jianyu Xu, Guoqi Li, Changyun Wen, Kun Wu, **Lei Deng**. <br />
+*IEEE Access* (2018).
+
 ### Towards the Minimum-cost Control of Target Nodes in Directed Networks with Linear Dynamics. ([link](https://www.sciencedirect.com/science/article/pii/S0016003218305441)) <br />
 Leitao Gao, Guangshe Zhao, Guoqi Li, **Lei Deng**. <br />
 *Journal of the Franklin Institute* (2018).
