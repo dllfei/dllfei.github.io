@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Lei Deng received his B.E. degree and Ph.D. degree from University of Science and Technology of China, Hefei, China, and Tsinghua University, Beijing, China, in 2012 and 2017, respectively. He is currently a Postdoc at [Scalable Energy-Efficient Architecture Lab (SEAL)](https://seal.ece.ucsb.edu/), Department of Electrical and Computer Engineering, University of California, Santa Barbara, CA, USA. His research interests include computer architecture, machine learning, computational neuroscience, tensor computing, and complex systems. Now he is a guest associate editor for Frontiers in Neuroscience.
+Lei Deng received his B.E. degree and Ph.D. degree from University of Science and Technology of China, Hefei, China, and Tsinghua University, Beijing, China, in 2012 and 2017, respectively. He is currently a Postdoc at [Scalable Energy-Efficient Architecture Lab (SEAL)](https://seal.ece.ucsb.edu/), Department of Electrical and Computer Engineering, University of California, Santa Barbara, CA, USA. His research interests include computer architecture, machine learning, computational neuroscience, tensor computing, and complex systems. Now he is a guest associate editor for *Frontiers in Neuroscience*.
 
 **Email**: leideng@ucsb.edu
 
