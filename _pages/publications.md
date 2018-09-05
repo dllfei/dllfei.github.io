@@ -71,6 +71,14 @@ Guoqi Li, Wuhua Hu, Gaoxi Xiao, **Lei Deng**, Pei Tang, Jing Pei, Luping Shi. <b
 
 ## Conferences
 
+### TETRIS: Tile-matching the Tremendous Irregular Sparsity. (accepted) <br />
+Yu Ji, Ling Liang, **Lei Deng**, Youyang Zhang, Youhui Zhang, Yuan Xie. <br />
+in *Advances in Neural Information Processing Systems (NIPS)*, Montreal, Canada, December 2018.
+
+### HitNet: Hybrid Ternary Recurrent Neural Network. (accepted) <br />
+Peiqi Wang, Xinfeng Xie, **Lei Deng**, Guoqi Li, Dongsheng Wang, Yuan Xie. <br />
+in *Advances in Neural Information Processing Systems (NIPS)*, Montreal, Canada, December 2018.
+
 ### Development of A Neuromorphic Computing System. ([link](https://ieeexplore.ieee.org/document/7409624/)) <br />
 Luping Shi, Jing Pei, Ning Deng, Dong Wang, **Lei Deng**, Yu Wang, Youhui Zhang, Feng Chen, Mingguo Zhao, Sen Song, Fei Zeng, Guoqi Li, Huanglong Li, Cheng Ma. <br />
 in *IEEE International Electron Devices Meeting (IEDM)*, Washington, DC, USA, December 2015.
