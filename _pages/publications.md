@@ -71,6 +71,10 @@ Guoqi Li, Wuhua Hu, Gaoxi Xiao, **Lei Deng**, Pei Tang, Jing Pei, Luping Shi. <b
 
 ## Conferences
 
+### Direct Training for Spiking Neural Networks: Faster, Larger, Better. ([pdf](https://arxiv.org/pdf/1809.05793.pdf))<br />
+Yujie Wu, **Lei Deng**, Guoqi Li, Jun Zhu, Luping Shi. <br />
+arXiv:1809.05793 (Submitted to *Association for the Advancement of Artificial Intelligence (AAAI 2019)*).
+
 ### TETRIS: Tile-matching the Tremendous Irregular Sparsity. (accepted) <br />
 Yu Ji, Ling Liang, **Lei Deng**, Youyang Zhang, Youhui Zhang, Yuan Xie. <br />
 in *Advances in Neural Information Processing Systems (NIPS)*, Montreal, Canada, December 2018.
