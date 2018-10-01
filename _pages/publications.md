@@ -24,7 +24,7 @@ arXiv:1807.10816 (Accepted by *IEEE Access*).
 Shuang Wu, Guoqi Li, **Lei Deng**, Liu Liu, Dong Wu, Yuan Xie, Luping Shi. <br />
 arXiv:1802.09769 (Submitted to *IEEE Transactions on Neural Networks and Learning Systems*).
 
-### Correlation between Dzyaloshinskii–Moriya Interaction and Spin Mixing Conductance at Antiferromagnet / Ferromagnet Interface. ([link](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.104428)) <br />
+### Correlation between the Dzyaloshinskii–Moriya Interaction and Spin-mixing Conductance at an Antiferromagnet / Ferromagnet Interface. ([link](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.104428)) <br />
 Xin Ma, Guoqiang Yu, Seyed A. Razavi, Liang Chang, **Lei Deng**, Zhaodong Chu, Congli He, Kang L. Wang, Xiaoqin Li. <br />
 *Physical Review B* 98, 104428 (2018).
 
