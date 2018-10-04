@@ -22,7 +22,7 @@ arXiv:1807.10816 (Accepted by *IEEE Access*).
 
 ### L1-Norm Batch Normalization for Efficient Training of Deep Neural Networks. ([pdf](https://arxiv.org/pdf/1802.09769.pdf)) <br />
 Shuang Wu, Guoqi Li, **Lei Deng**, Liu Liu, Dong Wu, Yuan Xie, Luping Shi. <br />
-arXiv:1802.09769 (Submitted to *IEEE Transactions on Neural Networks and Learning Systems*).
+arXiv:1802.09769 (Accepted by *IEEE Transactions on Neural Networks and Learning Systems*).
 
 ### Correlation between the Dzyaloshinskii–Moriya Interaction and Spin-mixing Conductance at an Antiferromagnet / Ferromagnet Interface. ([link](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.104428)) <br />
 Xin Ma, Guoqiang Yu, Seyed A. Razavi, Liang Chang, **Lei Deng**, Zhaodong Chu, Congli He, Kang L. Wang, Xiaoqin Li. <br />
