@@ -10,13 +10,13 @@ author_profile: true
 
 ### Towards a Unified Framework of Matrix Derivatives. ([link](https://ieeexplore.ieee.org/abstract/document/8453264/)) <br />
 Jianyu Xu, Guoqi Li, Changyun Wen, Kun Wu, **Lei Deng**. <br />
-*IEEE Access* 6, (2018).
+*IEEE Access* 6, 47922-47934 (2018).
 
 ### Towards the Minimum-cost Control of Target Nodes in Directed Networks with Linear Dynamics. ([link](https://www.sciencedirect.com/science/article/pii/S0016003218305441)) <br />
 Leitao Gao, Guangshe Zhao, Guoqi Li, **Lei Deng**, Fei Zeng. <br />
 *Journal of the Franklin Institute* (2018).
 
-### Crossbar-aware Neural Network Pruning. ([pdf](https://arxiv.org/pdf/1807.10816.pdf)) <br />
+### Neural Network Pruning for Crossbar Architecture. ([pdf](https://arxiv.org/pdf/1807.10816.pdf)) <br />
 Ling Liang, **Lei Deng**, Yueling Zeng, Xing Hu, Yu Ji, Xin Ma, Guoqi Li, Yuan Xie. (equal contribution: LL, LD) <br />
 arXiv:1807.10816 (Accepted by *IEEE Access*).
 
