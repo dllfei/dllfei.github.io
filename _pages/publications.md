@@ -14,7 +14,7 @@ Jianyu Xu, Guoqi Li, Changyun Wen, Kun Wu, **Lei Deng**. <br />
 
 ### Towards the Minimum-cost Control of Target Nodes in Directed Networks with Linear Dynamics. ([link](https://www.sciencedirect.com/science/article/pii/S0016003218305441)) <br />
 Leitao Gao, Guangshe Zhao, Guoqi Li, **Lei Deng**, Fei Zeng. <br />
-*Journal of the Franklin Institute* (2018).
+*Journal of the Franklin Institute* 355, 8141-8157 (2018).
 
 ### Neural Network Pruning for Crossbar Architecture. ([pdf](https://arxiv.org/pdf/1807.10816.pdf)) <br />
 Ling Liang, **Lei Deng**, Yueling Zeng, Xing Hu, Yu Ji, Xin Ma, Guoqi Li, Yuan Xie. (equal contribution: LL, LD) <br />
