@@ -72,16 +72,16 @@ Guoqi Li, Wuhua Hu, Gaoxi Xiao, **Lei Deng**, Pei Tang, Jing Pei, Luping Shi. <b
 ## Conferences
 
 ### Direct Training for Spiking Neural Networks: Faster, Larger, Better. ([pdf](https://arxiv.org/pdf/1809.05793.pdf))<br />
-Yujie Wu, **Lei Deng**, Guoqi Li, Jun Zhu, Luping Shi. <br />
-arXiv:1809.05793 (Submitted to *Association for the Advancement of Artificial Intelligence (AAAI 2019)*).
+Yujie Wu, **Lei Deng**, Guoqi Li, Jun Zhu, Luping Shi. (equal contribution: YW, LD) <br />
+in *Association for the Advancement of Artificial Intelligence (AAAI)*, Howaii, USA, January 2019. (acceptance rate: 16.2\%)
 
 ### TETRIS: Tile-matching the Tremendous Irregular Sparsity. (accepted) <br />
 Yu Ji, Ling Liang, **Lei Deng**, Youyang Zhang, Youhui Zhang, Yuan Xie. <br />
-in *Advances in Neural Information Processing Systems (NIPS)*, Montreal, Canada, December 2018.
+in *Advances in Neural Information Processing Systems (NIPS)*, Montreal, Canada, December 2018. (acceptance rate: 20.8\%)
 
 ### HitNet: Hybrid Ternary Recurrent Neural Network. (accepted) <br />
 Peiqi Wang, Xinfeng Xie, **Lei Deng**, Guoqi Li, Dongsheng Wang, Yuan Xie. <br />
-in *Advances in Neural Information Processing Systems (NIPS)*, Montreal, Canada, December 2018.
+in *Advances in Neural Information Processing Systems (NIPS)*, Montreal, Canada, December 2018. (acceptance rate: 20.8\%)
 
 ### Development of A Neuromorphic Computing System. ([link](https://ieeexplore.ieee.org/document/7409624/)) <br />
 Luping Shi, Jing Pei, Ning Deng, Dong Wang, **Lei Deng**, Yu Wang, Youhui Zhang, Feng Chen, Mingguo Zhao, Sen Song, Fei Zeng, Guoqi Li, Huanglong Li, Cheng Ma. <br />
