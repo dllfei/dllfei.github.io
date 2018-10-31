@@ -20,7 +20,7 @@ Jianyu Xu, Guoqi Li, Changyun Wen, Kun Wu, **Lei Deng**. <br />
 Leitao Gao, Guangshe Zhao, Guoqi Li, **Lei Deng**, Fei Zeng. <br />
 *Journal of the Franklin Institute* 355, 8141-8157 (2018).
 
-### Neural Network Pruning for Crossbar Architecture. ([pdf](https://arxiv.org/pdf/1807.10816.pdf)) <br />
+### Neural Network Pruning for Crossbar Architecture. ([link](https://ieeexplore.ieee.org/document/8485680)) <br />
 Ling Liang, **Lei Deng**, Yueling Zeng, Xing Hu, Yu Ji, Xin Ma, Guoqi Li, Yuan Xie. (equal contribution: LL, LD) <br />
 arXiv:1807.10816 (Accepted by *IEEE Access*).
 
