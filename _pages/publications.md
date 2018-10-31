@@ -8,6 +8,10 @@ author_profile: true
 
 ## Journals
 
+### Fast Object Tracking on a Many-core Neural Network Chip. ([link](https://www.frontiersin.org/articles/10.3389/fnins.2018.00841/abstract)) <br />
+**Lei Deng**, Zhe Zou, Xin Ma, Ling Liang, Guanrui Wang, Xing Hu, Liu Liu, Jing Pei, Guoqi Li, Yuan Xie. <br />
+*Frontiers in Neuroscience* (2018 accepted).
+
 ### Towards a Unified Framework of Matrix Derivatives. ([link](https://ieeexplore.ieee.org/abstract/document/8453264/)) <br />
 Jianyu Xu, Guoqi Li, Changyun Wen, Kun Wu, **Lei Deng**. <br />
 *IEEE Access* 6, 47922-47934 (2018).
