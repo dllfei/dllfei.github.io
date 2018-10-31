@@ -97,12 +97,12 @@ in *IEEE International Electron Devices Meeting (IEDM)*, Washington, DC, USA, De
 
 ### A New Computing Rule for Neuromorphic Engineering. ([link](https://ieeexplore.ieee.org/abstract/document/7457497/)) <br />
 **Lei Deng**, Dong Wang, Ziyang Zhang, Guoqi Li, Jing Pei. <br />
-in *15th Non-Volatile Memory Technology Symposium (NVMTS)*, Beijing, China, October 2015.
+in *Non-Volatile Memory Technology Symposium (NVMTS)*, Beijing, China, October 2015.
 
 ### FPGA-based Neuromorphic Computing System with a Scalable Routing Network. ([link](https://ieeexplore.ieee.org/abstract/document/7457432/)) <br />
 Dong Wang, **Lei Deng**, Pei Tang, Cheng Ma, Jing Pei. <br />
-in *15th Non-Volatile Memory Technology Symposium (NVMTS)*, Beijing, China, October 2015.
+in *Non-Volatile Memory Technology Symposium (NVMTS)*, Beijing, China, October 2015.
 
 ### Ultra Low Power of Artificial Cognitive Memory for Brain-like Computation. ([link](https://ieeexplore.ieee.org/abstract/document/7460428/)) <br />
 **Lei Deng**, Ziyang Zhang, Dong Wang, Jing Pei, Luping Shi. <br />
-in *6th IEEE International Nanoelectronics Conference (INEC)*, Sapporo, Japan, July 2014.
+in *IEEE International Nanoelectronics Conference (INEC)*, Sapporo, Japan, July 2014.
