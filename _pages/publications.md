@@ -12,7 +12,7 @@ author_profile: true
 **Lei Deng**, Zhe Zou, Xin Ma, Ling Liang, Guanrui Wang, Xing Hu, Liu Liu, Jing Pei, Guoqi Li, Yuan Xie. <br />
 *Frontiers in Neuroscience* (2018 accepted).
 
-### Towards a Unified Framework of Matrix Derivatives. ([link](https://ieeexplore.ieee.org/abstract/document/8453264/)) <br />
+### Towards a Unified Framework of Matrix Derivatives. ([pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8453264)) <br />
 Jianyu Xu, Guoqi Li, Changyun Wen, Kun Wu, **Lei Deng**. <br />
 *IEEE Access* 6, 47922-47934 (2018).
 
