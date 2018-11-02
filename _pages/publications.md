@@ -20,9 +20,9 @@ Jianyu Xu, Guoqi Li, Changyun Wen, Kun Wu, **Lei Deng**. <br />
 Leitao Gao, Guangshe Zhao, Guoqi Li, **Lei Deng**, Fei Zeng. <br />
 *Journal of the Franklin Institute* 355, 8141-8157 (2018).
 
-### Neural Network Pruning for Crossbar Architecture. ([link](https://ieeexplore.ieee.org/document/8485680)) <br />
+### Crossbar-aware Neural Network Pruning. ([pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8485680)) <br />
 Ling Liang, **Lei Deng**, Yueling Zeng, Xing Hu, Yu Ji, Xin Ma, Guoqi Li, Yuan Xie. (equal contribution: LL, LD) <br />
-arXiv:1807.10816 (Accepted by *IEEE Access*).
+*IEEE Access* 6, 58324-58337 (2018).
 
 ### L1-Norm Batch Normalization for Efficient Training of Deep Neural Networks. ([pdf](https://arxiv.org/pdf/1802.09769.pdf)) <br />
 Shuang Wu, Guoqi Li, **Lei Deng**, Liu Liu, Dong Wu, Yuan Xie, Luping Shi. <br />
