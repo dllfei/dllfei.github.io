@@ -10,7 +10,7 @@ author_profile: true
 
 ### Fast Object Tracking on a Many-core Neural Network Chip. ([link](https://www.frontiersin.org/articles/10.3389/fnins.2018.00841/abstract)) <br />
 **Lei Deng**, Zhe Zou, Xin Ma, Ling Liang, Guanrui Wang, Xing Hu, Liu Liu, Jing Pei, Guoqi Li, Yuan Xie. <br />
-*Frontiers in Neuroscience* (2018 accepted).
+*Frontiers in Neuroscience* 12, 841 (2018).
 
 ### Towards a Unified Framework of Matrix Derivatives. ([pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8453264)) <br />
 Jianyu Xu, Guoqi Li, Changyun Wen, Kun Wu, **Lei Deng**. <br />
@@ -85,15 +85,15 @@ arXiv:1810.00859 (Submitted to *International Conference on Learning Representat
 
 ### Direct Training for Spiking Neural Networks: Faster, Larger, Better. ([pdf](https://arxiv.org/pdf/1809.05793.pdf))<br />
 Yujie Wu, **Lei Deng**, Guoqi Li, Jun Zhu, Luping Shi. (equal contribution: YW, LD) <br />
-in *Association for the Advancement of Artificial Intelligence (AAAI)*, Howaii, USA, January 2019. (acceptance rate: 16.2\%)
+in *Association for the Advancement of Artificial Intelligence (AAAI)*, Howaii, USA, January 2019. (acceptance rate: 16.2%)
 
 ### TETRIS: Tile-matching the Tremendous Irregular Sparsity. (accepted) <br />
 Yu Ji, Ling Liang, **Lei Deng**, Youyang Zhang, Youhui Zhang, Yuan Xie. <br />
-in *Advances in Neural Information Processing Systems (NIPS)*, Montreal, Canada, December 2018. (acceptance rate: 20.8\%)
+in *Advances in Neural Information Processing Systems (NIPS)*, Montreal, Canada, December 2018. (acceptance rate: 20.8%)
 
 ### HitNet: Hybrid Ternary Recurrent Neural Network. (accepted) <br />
 Peiqi Wang, Xinfeng Xie, **Lei Deng**, Guoqi Li, Dongsheng Wang, Yuan Xie. <br />
-in *Advances in Neural Information Processing Systems (NIPS)*, Montreal, Canada, December 2018. (acceptance rate: 20.8\%)
+in *Advances in Neural Information Processing Systems (NIPS)*, Montreal, Canada, December 2018. (acceptance rate: 20.8%)
 
 ### Development of A Neuromorphic Computing System. ([link](https://ieeexplore.ieee.org/document/7409624/)) <br />
 Luping Shi, Jing Pei, Ning Deng, Dong Wang, **Lei Deng**, Yu Wang, Youhui Zhang, Feng Chen, Mingguo Zhao, Sen Song, Fei Zeng, Guoqi Li, Huanglong Li, Cheng Ma. <br />
