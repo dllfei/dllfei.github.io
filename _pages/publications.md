@@ -88,7 +88,7 @@ Liu Liu, **Lei Deng**, Xing Hu, Maohua Zhu, Guoqi Li, Yufei Ding, Yuan Xie. (equ
 arXiv:1810.00859 (Submitted to *International Conference on Learning Representations (ICLR 2019)*).
 
 ### Direct Training for Spiking Neural Networks: Faster, Larger, Better. ([pdf](https://arxiv.org/pdf/1809.05793.pdf))<br />
-Yujie Wu, **Lei Deng**, Guoqi Li, Jun Zhu, Luping Shi. (equal contribution: YW, LD) <br />
+Yujie Wu, **Lei Deng**, Guoqi Li, Jun Zhu, Luping Shi. <br />
 in *Association for the Advancement of Artificial Intelligence (AAAI)*, Howaii, USA, January 2019. (acceptance rate: 16.2%)
 
 ### TETRIS: Tile-matching the Tremendous Irregular Sparsity. (accepted) <br />
