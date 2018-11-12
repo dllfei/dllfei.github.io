@@ -28,9 +28,9 @@ Leitao Gao, Guangshe Zhao, Guoqi Li, **Lei Deng**, Fei Zeng. <br />
 Ling Liang, **Lei Deng**, Yueling Zeng, Xing Hu, Yu Ji, Xin Ma, Guoqi Li, Yuan Xie. (equal contribution: LL, LD) <br />
 *IEEE Access* 6, 58324-58337 (2018).
 
-### L1-Norm Batch Normalization for Efficient Training of Deep Neural Networks. ([pdf](https://arxiv.org/pdf/1802.09769.pdf)) <br />
+### L1-Norm Batch Normalization for Efficient Training of Deep Neural Networks. ([link](https://ieeexplore.ieee.org/document/8528524)) <br />
 Shuang Wu, Guoqi Li, **Lei Deng**, Liu Liu, Dong Wu, Yuan Xie, Luping Shi. <br />
-arXiv:1802.09769 (Accepted by *IEEE Transactions on Neural Networks and Learning Systems*).
+*IEEE Transactions on Neural Networks and Learning Systems*, 2018.
 
 ### Correlation between the Dzyaloshinskii–Moriya Interaction and Spin-mixing Conductance at an Antiferromagnet / Ferromagnet Interface. ([link](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.104428)) <br />
 Xin Ma, Guoqiang Yu, Seyed A. Razavi, Liang Chang, **Lei Deng**, Zhaodong Chu, Congli He, Kang L. Wang, Xiaoqin Li. <br />
@@ -90,6 +90,10 @@ arXiv:1810.00859 (Submitted to *International Conference on Learning Representat
 ### Direct Training for Spiking Neural Networks: Faster, Larger, Better. ([pdf](https://arxiv.org/pdf/1809.05793.pdf))<br />
 Yujie Wu, **Lei Deng**, Guoqi Li, Jun Zhu, Luping Shi. <br />
 in *Association for the Advancement of Artificial Intelligence (AAAI)*, Howaii, USA, January 2019. (acceptance rate: 16.2%)
+
+### Memory Trojan Attack on Neural Network Accelerators. <br />
+Yang Zhao, Xing Hu, Shuangchen Li, Jing Ye, **Lei Deng**, Yu Ji, Jianyu Xu, Dong Wu, Yuan Xie. <br />
+in *Design, Automation and Test in Europe (DATE)*, Florence, Italy, March 2019.
 
 ### TETRIS: Tile-matching the Tremendous Irregular Sparsity. (accepted) <br />
 Yu Ji, Ling Liang, **Lei Deng**, Youyang Zhang, Youhui Zhang, Yuan Xie. <br />
