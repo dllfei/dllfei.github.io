@@ -97,11 +97,11 @@ in *Design, Automation and Test in Europe (DATE)*, Florence, Italy, March 2019.
 
 ### TETRIS: Tile-matching the Tremendous Irregular Sparsity. (accepted) <br />
 Yu Ji, Ling Liang, **Lei Deng**, Youyang Zhang, Youhui Zhang, Yuan Xie. <br />
-in *Advances in Neural Information Processing Systems (NIPS)*, Montreal, Canada, December 2018. (acceptance rate: 20.8%)
+in *Advances in Neural Information Processing Systems (NIPS)* 4115-4125, Montreal, Canada, December 2018. (acceptance rate: 20.8%)
 
 ### HitNet: Hybrid Ternary Recurrent Neural Network. (accepted) <br />
 Peiqi Wang, Xinfeng Xie, **Lei Deng**, Guoqi Li, Dongsheng Wang, Yuan Xie. <br />
-in *Advances in Neural Information Processing Systems (NIPS)*, Montreal, Canada, December 2018. (acceptance rate: 20.8%)
+in *Advances in Neural Information Processing Systems (NIPS)* 601-611, Montreal, Canada, December 2018. (acceptance rate: 20.8%)
 
 ### Development of A Neuromorphic Computing System. ([link](https://ieeexplore.ieee.org/document/7409624/)) <br />
 Luping Shi, Jing Pei, Ning Deng, Dong Wang, **Lei Deng**, Yu Wang, Youhui Zhang, Feng Chen, Mingguo Zhao, Sen Song, Fei Zeng, Guoqi Li, Huanglong Li, Cheng Ma. <br />
