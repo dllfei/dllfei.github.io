@@ -89,17 +89,17 @@ arXiv:1810.00859 (Submitted to *International Conference on Learning Representat
 
 ### Direct Training for Spiking Neural Networks: Faster, Larger, Better. ([pdf](https://arxiv.org/pdf/1809.05793.pdf))<br />
 Yujie Wu, **Lei Deng**, Guoqi Li, Jun Zhu, Luping Shi. <br />
-in *Association for the Advancement of Artificial Intelligence (AAAI)*, Howaii, USA, January 2019. (acceptance rate: 16.2%)
+in *Association for the Advancement of Artificial Intelligence (AAAI)*, Howaii, USA, January (2019). (acceptance rate: 16.2%)
 
 ### Memory Trojan Attack on Neural Network Accelerators. <br />
 Yang Zhao, Xing Hu, Shuangchen Li, Jing Ye, **Lei Deng**, Yu Ji, Jianyu Xu, Dong Wu, Yuan Xie. <br />
 in *Design, Automation and Test in Europe (DATE)*, Florence, Italy, March 2019.
 
-### TETRIS: Tile-matching the Tremendous Irregular Sparsity. (accepted) <br />
+### TETRIS: Tile-matching the Tremendous Irregular Sparsity. <br />
 Yu Ji, Ling Liang, **Lei Deng**, Youyang Zhang, Youhui Zhang, Yuan Xie. <br />
 in *Advances in Neural Information Processing Systems (NIPS)* 4115-4125, Montreal, Canada, December 2018. (acceptance rate: 20.8%)
 
-### HitNet: Hybrid Ternary Recurrent Neural Network. (accepted) <br />
+### HitNet: Hybrid Ternary Recurrent Neural Network. <br />
 Peiqi Wang, Xinfeng Xie, **Lei Deng**, Guoqi Li, Dongsheng Wang, Yuan Xie. <br />
 in *Advances in Neural Information Processing Systems (NIPS)* 601-611, Montreal, Canada, December 2018. (acceptance rate: 20.8%)
 
