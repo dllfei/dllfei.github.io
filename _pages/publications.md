@@ -8,7 +8,7 @@ author_profile: true
 
 ## Journals
 
-### SemiMap: A Semi-folded Convolution Mapping for Speed-Overhead Balance on Crossbars. <br />
+### SemiMap: A Semi-folded Convolution Mapping for Speed-Overhead Balance on Crossbars. ([link](https://ieeexplore.ieee.org/abstract/document/8556049)) <br />
 **Lei Deng**, Ling Liang, Guanrui Wang, Liang Chang, Xing Hu, Xin Ma, Liu Liu, Jing Pei, Guoqi Li, Yuan Xie. <br />
 *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (2018).
 
