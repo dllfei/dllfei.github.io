@@ -83,9 +83,9 @@ Guoqi Li, Wuhua Hu, Gaoxi Xiao, **Lei Deng**, Pei Tang, Jing Pei, Luping Shi. <b
 Zhaodong Chen, **Lei Deng**, Guoqi Li, Jiawei Sun, Xing Hu, Xin Ma, Yuan Xie. (equal contribution: ZC, LD) <br />
 arXiv:1810.10962 (Submitted to *International Conference on Learning Representations (ICLR 2019)*).
 
-### Dynamic Sparse Graph for Efficient Deep Learning. ([pdf](https://arxiv.org/pdf/1810.00859.pdf)) <br />
+### Dynamic Sparse Graph for Efficient Deep Learning. ([pdf](https://openreview.net/pdf?id=H1goBoR9F7)) <br />
 Liu Liu, **Lei Deng**, Xing Hu, Maohua Zhu, Guoqi Li, Yufei Ding, Yuan Xie. (equal contribution: LL, LD) <br />
-arXiv:1810.00859 (Submitted to *International Conference on Learning Representations (ICLR 2019)*).
+in *International Conference on Learning Representations (ICLR)*, New Orleans, USA, May 2019.
 
 ### Direct Training for Spiking Neural Networks: Faster, Larger, Better. ([pdf](https://arxiv.org/pdf/1809.05793.pdf))<br />
 Yujie Wu, **Lei Deng**, Guoqi Li, Jun Zhu, Yuan Xie, Luping Shi. <br />
