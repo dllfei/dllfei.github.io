@@ -8,6 +8,10 @@ author_profile: true
 
 ## Journals
 
+### Batch Normalization Sampling. ([pdf](https://arxiv.org/pdf/1810.10962.pdf)) <br />
+Zhaodong Chen, **Lei Deng**, Guoqi Li, Jiawei Sun, Xing Hu, Xin Ma, Yuan Xie. (equal contribution: ZC, LD) <br />
+arXiv:1810.10962 (Submitted to *IEEE Transactions on Neural Networks and Learning Systems*).
+
 ### SemiMap: A Semi-folded Convolution Mapping for Speed-Overhead Balance on Crossbars. ([link](https://ieeexplore.ieee.org/abstract/document/8556049)) <br />
 **Lei Deng**, Ling Liang, Guanrui Wang, Liang Chang, Xing Hu, Xin Ma, Liu Liu, Jing Pei, Guoqi Li, Yuan Xie. <br />
 *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (2018).
@@ -78,10 +82,6 @@ Guoqi Li, Wuhua Hu, Gaoxi Xiao, **Lei Deng**, Pei Tang, Jing Pei, Luping Shi. <b
 
 
 ## Conferences
-
-### Batch Normalization Sampling. ([pdf](https://arxiv.org/pdf/1810.10962.pdf)) <br />
-Zhaodong Chen, **Lei Deng**, Guoqi Li, Jiawei Sun, Xing Hu, Xin Ma, Yuan Xie. (equal contribution: ZC, LD) <br />
-arXiv:1810.10962 (Submitted to *International Conference on Learning Representations (ICLR 2019)*).
 
 ### Dynamic Sparse Graph for Efficient Deep Learning. ([pdf](https://openreview.net/pdf?id=H1goBoR9F7)) <br />
 Liu Liu, **Lei Deng**, Xing Hu, Maohua Zhu, Guoqi Li, Yufei Ding, Yuan Xie. (equal contribution: LL, LD) <br />
