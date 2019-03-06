@@ -83,6 +83,14 @@ Guoqi Li, Wuhua Hu, Gaoxi Xiao, **Lei Deng**, Pei Tang, Jing Pei, Luping Shi. <b
 
 ## Conferences
 
+### CNNWire: Boosting Convolutional Neural Network with Winograd on ReRAM based Accelerators. (Accepted) <br />
+Jilan Lin, Shuangchen Li, Xing Hu, **Lei Deng**, Yuan Xie. <br />
+in *ACM Great Lakes Symposium on VLSI (GLVLSI)*, Washington DC, USA, May 2019.
+
+### Efficient Mapping without Deadlock on the Many-core Neural Network Chip. (Accepted) <br />
+Cheng Ma, Qi Zhao, Guoqi Li, **Lei Deng**, Guanrui Wang. <br />
+in *IEEE International Conference on Control & Automation (ICCA)*, Edinburgh, Scotland, July 2019.
+
 ### Dynamic Sparse Graph for Efficient Deep Learning. ([pdf](https://openreview.net/pdf?id=H1goBoR9F7)) <br />
 Liu Liu, **Lei Deng**, Xing Hu, Maohua Zhu, Guoqi Li, Yufei Ding, Yuan Xie. (equal contribution: LL, LD) <br />
 in *International Conference on Learning Representations (ICLR)*, New Orleans, USA, May 2019.
