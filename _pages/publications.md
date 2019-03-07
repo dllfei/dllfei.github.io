@@ -8,7 +8,7 @@ author_profile: true
 
 ## Journals
 
-### Batch Normalization Sampling. ([pdf](https://arxiv.org/pdf/1810.10962.pdf)) <br />
+### Effective and Efficient Batch Normalization Using Few Uncorrelated Data for Statistics' Estimation. ([pdf](https://arxiv.org/pdf/1810.10962.pdf)) <br />
 Zhaodong Chen, **Lei Deng**, Guoqi Li, Jiawei Sun, Xing Hu, Xin Ma, Yuan Xie. (equal contribution: ZC, LD) <br />
 arXiv:1810.10962 (Submitted to *IEEE Transactions on Neural Networks and Learning Systems*).
 
@@ -90,6 +90,10 @@ in *ACM Great Lakes Symposium on VLSI (GLVLSI)*, Washington DC, USA, May 2019.
 ### Efficient Mapping without Deadlock on the Many-core Neural Network Chip. (Accepted) <br />
 Cheng Ma, Qi Zhao, Guoqi Li, **Lei Deng**, Guanrui Wang. <br />
 in *IEEE International Conference on Control & Automation (ICCA)*, Edinburgh, Scotland, July 2019.
+
+### Memory Trojan Attack on Neural Network Accelerators. (Accepted) <br />
+Yang Zhao, Xing Hu, Shuangchen Li, Jing Ye, **Lei Deng**, Yu Ji, Jianyu Xu, Dong Wu, Yuan Xie. <br />
+in *Design, Automation and Test in Europe (DATE)*, Florence, Italy, March 2019.
 
 ### Dynamic Sparse Graph for Efficient Deep Learning. ([pdf](https://openreview.net/pdf?id=H1goBoR9F7)) <br />
 Liu Liu, **Lei Deng**, Xing Hu, Maohua Zhu, Guoqi Li, Yufei Ding, Yuan Xie. (equal contribution: LL, LD) <br />
