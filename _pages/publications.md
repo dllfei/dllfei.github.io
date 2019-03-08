@@ -28,7 +28,7 @@ Jianyu Xu, Guoqi Li, Changyun Wen, Kun Wu, **Lei Deng**. <br />
 Leitao Gao, Guangshe Zhao, Guoqi Li, **Lei Deng**, Fei Zeng. <br />
 *Journal of the Franklin Institute* 355, 8141-8157 (2018).
 
-### Crossbar-aware Neural Network Pruning. ([pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8485680)) <br />
+### Crossbar-Aware Neural Network Pruning. ([pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8485680)) <br />
 Ling Liang, **Lei Deng**, Yueling Zeng, Xing Hu, Yu Ji, Xin Ma, Guoqi Li, Yuan Xie. (equal contribution: LL, LD) <br />
 *IEEE Access* 6, 58324-58337 (2018).
 
