@@ -8,9 +8,13 @@ author_profile: true
 
 ## Journals
 
+### Target Controllability of Two-layer Multiplex Networks based on Network Flow Theory. (Accepted) <br />
+Kun Song, Guoqi Li, Xumin Chen, **Lei Deng**, Gaoxi Xiao, Fei Zeng, Jing Pei. <br />
+*IEEE Transactions on Cybernetics* (2019).
+
 ### Effective and Efficient Batch Normalization Using Few Uncorrelated Data for Statistics' Estimation. ([pdf](https://arxiv.org/pdf/1810.10962.pdf)) <br />
 Zhaodong Chen, **Lei Deng**, Guoqi Li, Jiawei Sun, Xing Hu, Xin Ma, Yuan Xie. (equal contribution: ZC, LD) <br />
-arXiv:1810.10962 (Submitted to *IEEE Transactions on Neural Networks and Learning Systems*).
+(Submitted to *IEEE Transactions on Neural Networks and Learning Systems*).
 
 ### SemiMap: A Semi-folded Convolution Mapping for Speed-Overhead Balance on Crossbars. ([link](https://ieeexplore.ieee.org/abstract/document/8556049)) <br />
 **Lei Deng**, Ling Liang, Guanrui Wang, Liang Chang, Xing Hu, Xin Ma, Liu Liu, Jing Pei, Guoqi Li, Yuan Xie. <br />
