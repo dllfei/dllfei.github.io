@@ -8,6 +8,10 @@ author_profile: true
 
 ## Journals
 
+### Neural Network Model Extraction Attacks in Edge Devices by Hearing Architectural Hints. ([pdf](https://arxiv.org/pdf/1903.03916.pdf)) <br />
+Xing Hu, Ling Liang, **Lei Deng**, Shuangchen Li, Xinfeng Xie, Yu Ji, Yufei Ding, Chang Liu, Timothy Sherwood, Yuan Xie. <br />
+*Arxiv* (2019).
+
 ### Target Controllability of Two-layer Multiplex Networks based on Network Flow Theory. (Accepted) <br />
 Kun Song, Guoqi Li, Xumin Chen, **Lei Deng**, Gaoxi Xiao, Fei Zeng, Jing Pei. <br />
 *IEEE Transactions on Cybernetics* (2019).
