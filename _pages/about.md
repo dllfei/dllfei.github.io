@@ -25,10 +25,10 @@ University of Science and Technology of China (USTC) 2008-2012, Department of Pr
 Awards
 ======
 ### THU: 
-Selection into THU ‘Bauhinia Scholar’ Postdoctoral Program (top-10, 2017), Academic Rising Star of Department of Precision Instrument of THU (2017), Best Oral Award on 1st PhD Forum of Beijing Innovation Center for Future Chip (2017), THU First Prize of Comprehensive Scholarship (2016), THU (China)-NSK (Japan) Friendship Best Paper Award (2016), Graduate Best Paper Award of Department of Precision Instrument of THU (2016), National Scholarship of China (2015), Student Work Scholarship of THU (2015), Graduate First Prize of Summer Intern of THU (2015), Excellent Student Leader Scholarship of THU (2014)    
+Selection into THU ‘Bauhinia Scholar’ Postdoctoral Program (top-10, 2017), Academic Rising Star of Department of Precision Instrument of THU (2017), Best Oral Award in the 1st PhD Forum of Beijing Innovation Center for Future Chip (2017), First Prize of Comprehensive Scholarship of THU (2016), THU (China)-NSK (Japan) Friendship Best Paper Award (2016), Graduate Best Paper Award of Department of Precision Instrument of THU (2016), Graduate National Scholarship of China (2015), Best Oral Award in the “THU-CAEP” Ph.D. Student Summer Intern Defense (2015), Outstanding Ph.D. Student Summer Intern of THU (2015), Graduate Social Work Award of THU (2015), THU “12.9” Counselor Scholarship (2015), Outstanding Student Cadres of THU (2014), Outstanding Student Cadres of Graduate Union of THU (2013)
 
 ### USTC: 
-Second Place in USTC Robot Competition (2010), National Encouragement Scholarship of China (2010)
+Second Place of USTC Robot Competition (2010), Undergraduate National Encouragement Scholarship of China (2010)
 
 Research Summary
 ======
