@@ -8,6 +8,10 @@ author_profile: true
 
 ## Journals
 
+### Containment Control of Directed Networks with Time-varying Nonlinear Multi-agents using Minimum Number of Leaders. (Accepted) <br />
+Leitao Gao, Guangshe Zhao, Guoqi Li, Yuming Liu, Jiangshuai Huang, **Lei Deng**. <br />
+*Physica A* (2019).
+
 ### Neural Network Model Extraction Attacks in Edge Devices by Hearing Architectural Hints. ([pdf](https://arxiv.org/pdf/1903.03916.pdf)) <br />
 Xing Hu, Ling Liang, **Lei Deng**, Shuangchen Li, Xinfeng Xie, Yu Ji, Yufei Ding, Chang Liu, Timothy Sherwood, Yuan Xie. <br />
 *Arxiv* (2019).
