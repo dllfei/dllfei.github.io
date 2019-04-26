@@ -16,7 +16,7 @@ Leitao Gao, Guangshe Zhao, Guoqi Li, Yuming Liu, Jiangshuai Huang, **Lei Deng**.
 Xing Hu, Ling Liang, **Lei Deng**, Shuangchen Li, Xinfeng Xie, Yu Ji, Yufei Ding, Chang Liu, Timothy Sherwood, Yuan Xie. <br />
 *Arxiv* (2019).
 
-### Target Controllability of Two-layer Multiplex Networks based on Network Flow Theory. (Accepted) <br />
+### Target Controllability of Two-layer Multiplex Networks based on Network Flow Theory. ([link](https://ieeexplore.ieee.org/abstract/document/8685693)) <br />
 Kun Song, Guoqi Li, Xumin Chen, **Lei Deng**, Gaoxi Xiao, Fei Zeng, Jing Pei. <br />
 *IEEE Transactions on Cybernetics* (2019).
 
