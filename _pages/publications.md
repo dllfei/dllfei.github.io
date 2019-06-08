@@ -103,7 +103,7 @@ in *ACM Great Lakes Symposium on VLSI (GLVLSI)*, Washington DC, USA, May 2019.
 Cheng Ma, Qi Zhao, Guoqi Li, **Lei Deng**, Guanrui Wang. <br />
 in *IEEE International Conference on Control & Automation (ICCA)*, Edinburgh, Scotland, July 2019.
 
-### Memory Trojan Attack on Neural Network Accelerators. ([pdf](https://seal.ece.ucsb.edu/sites/seal.ece.ucsb.edu/files/publications/date-2019-yang.pdf)) <br />
+### Memory Trojan Attack on Neural Network Accelerators. ([link](https://ieeexplore.ieee.org/abstract/document/8715027)) <br />
 Yang Zhao, Xing Hu, Shuangchen Li, Jing Ye, **Lei Deng**, Yu Ji, Jianyu Xu, Dong Wu, Yuan Xie. <br />
 in *Design, Automation and Test in Europe (DATE)*, Florence, Italy, March 2019.
 
