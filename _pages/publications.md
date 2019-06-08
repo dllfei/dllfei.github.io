@@ -95,7 +95,7 @@ Guoqi Li, Wuhua Hu, Gaoxi Xiao, **Lei Deng**, Pei Tang, Jing Pei, Luping Shi. <b
 
 ## Conferences
 
-### CNNWire: Boosting Convolutional Neural Network with Winograd on ReRAM based Accelerators. (Accepted) <br />
+### CNNWire: Boosting Convolutional Neural Network with Winograd on ReRAM based Accelerators. ([link](https://dl.acm.org/citation.cfm?id=3318018)) <br />
 Jilan Lin, Shuangchen Li, Xing Hu, **Lei Deng**, Yuan Xie. <br />
 in *ACM Great Lakes Symposium on VLSI (GLVLSI)*, Washington DC, USA, May 2019.
 
@@ -103,7 +103,7 @@ in *ACM Great Lakes Symposium on VLSI (GLVLSI)*, Washington DC, USA, May 2019.
 Cheng Ma, Qi Zhao, Guoqi Li, **Lei Deng**, Guanrui Wang. <br />
 in *IEEE International Conference on Control & Automation (ICCA)*, Edinburgh, Scotland, July 2019.
 
-### Memory Trojan Attack on Neural Network Accelerators. (Accepted) ([pdf](https://seal.ece.ucsb.edu/sites/seal.ece.ucsb.edu/files/publications/date-2019-yang.pdf)) <br />
+### Memory Trojan Attack on Neural Network Accelerators. ([pdf](https://seal.ece.ucsb.edu/sites/seal.ece.ucsb.edu/files/publications/date-2019-yang.pdf)) <br />
 Yang Zhao, Xing Hu, Shuangchen Li, Jing Ye, **Lei Deng**, Yu Ji, Jianyu Xu, Dong Wu, Yuan Xie. <br />
 in *Design, Automation and Test in Europe (DATE)*, Florence, Italy, March 2019.
 
