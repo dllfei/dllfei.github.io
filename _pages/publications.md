@@ -95,6 +95,10 @@ Guoqi Li, Wuhua Hu, Gaoxi Xiao, **Lei Deng**, Pei Tang, Jing Pei, Luping Shi. <b
 
 ## Conferences
 
+### Balancing Memory Accesses for Energy-Efficient Graph Analytics Accelerators. (Accepted) <br />
+Mingyu Yan, Xing Hu, Shuangchen Li, Itir Akgun, Han Li, Xin Ma, **Lei Deng**, Xiaochun Ye, Zhimin Zhang, Dongrui Fan, Yuan Xie. <br />
+in *ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED)*, Lausanne, Switzerland, July 2019.
+
 ### CNNWire: Boosting Convolutional Neural Network with Winograd on ReRAM based Accelerators. ([link](https://dl.acm.org/citation.cfm?id=3318018)) <br />
 Jilan Lin, Shuangchen Li, Xing Hu, **Lei Deng**, Yuan Xie. <br />
 in *ACM Great Lakes Symposium on VLSI (GLVLSI)*, Washington DC, USA, May 2019.
