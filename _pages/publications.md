@@ -104,7 +104,7 @@ Jilan Lin, Shuangchen Li, Xing Hu, **Lei Deng**, Yuan Xie. <br />
 in *ACM Great Lakes Symposium on VLSI (GLVLSI)*, Washington DC, USA, May 2019.
 
 ### Efficient Mapping without Deadlock on the Many-core Neural Network Chip. (Accepted) <br />
-Cheng Ma, Qi Zhao, Guoqi Li, **Lei Deng**, Guanrui Wang. <br />
+Qi Zhao, Guoqi Li, **Lei Deng**, Guanrui Wang, Cheng Ma. <br />
 in *IEEE International Conference on Control & Automation (ICCA)*, Edinburgh, Scotland, July 2019.
 
 ### Memory Trojan Attack on Neural Network Accelerators. ([link](https://ieeexplore.ieee.org/abstract/document/8715027)) <br />
