@@ -10,7 +10,7 @@ author_profile: true
 
 ### Towards Artificial General Intelligence with Hybrid Tianjic Chip Architecture. ([link](https://www.nature.com/articles/s41586-019-1424-8)) <br />
 Jing Pei, **Lei Deng**, Sen Song, Mingguo Zhao, Youhui Zhang, Shuang Wu, Guanrui Wang, Zhe Zou, Zhenzhi Wu, Wei He, Feng Chen, Ning Deng, Si Wu, Yu Wang, Yujie Wu, Zheyu Yang, Cheng Ma, Guoqi Li, Wentao Han, Huanglong Li, Huaqiang Wu, Rong Zhao, Yuan Xie, and Luping Shi. (equal contribution: JP, LD, SS, MZ, YZ, SW, GW) <br />
-*Nature* 572, 106-111 (2019). (Cover Paper)
+*Nature* 572, 106-111 (2019). (**Cover Paper**)
 
 ### Containment Control of Directed Networks with Time-varying Nonlinear Multi-agents using Minimum Number of Leaders. ([link](https://www.sciencedirect.com/science/article/pii/S0378437119304625)) <br />
 Leitao Gao, Guangshe Zhao, Guoqi Li, Yuming Liu, Jiangshuai Huang, **Lei Deng**. <br />
