@@ -100,11 +100,11 @@ Guoqi Li, Wuhua Hu, Gaoxi Xiao, **Lei Deng**, Pei Tang, Jing Pei, Luping Shi. <b
 ## Conferences
 
 ### Alleviating Irregularity in Graph Analytics Acceleration: A Hardware/Software Co-Design Approach. (Accepted) <br />
-Mingyu Yan, Xing Hu, Shuangchen Li, Itir Akgun, Han Li, Xin Ma, **Lei Deng**, Xiaochun Ye, Zhimin Zhang, Dongrui Fan, Yuan Xie. <br />
+Mingyu Yan, Xing Hu, Shuangchen Li, Abanti Basak, Han Li, Xin Ma, Itir Akgun, Yujing Feng, Peng Gu, **Lei Deng**, Xiaochun Ye, Zhimin Zhang, Dongrui Fan, Yuan Xie. <br />
 in *IEEE/ACM International Symposium on Microarchitecture (MICRO)*, Columbus, USA, October 2019.
 
 ### Balancing Memory Accesses for Energy-Efficient Graph Analytics Accelerators. (Accepted) <br />
-Mingyu Yan, Xing Hu, Shuangchen Li, Abanti Basak, Han Li, Xin Ma, Itir Akgun, Yujing Feng, Peng Gu, **Lei Deng**, Xiaochun Ye, Zhimin Zhang, Dongrui Fan, Yuan Xie. <br />
+Mingyu Yan, Xing Hu, Shuangchen Li, Itir Akgun, Han Li, Xin Ma, **Lei Deng**, Xiaochun Ye, Zhimin Zhang, Dongrui Fan, Yuan Xie. <br />
 in *ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED)*, Lausanne, Switzerland, July 2019.
 
 ### CNNWire: Boosting Convolutional Neural Network with Winograd on ReRAM based Accelerators. ([link](https://dl.acm.org/citation.cfm?id=3318018)) <br />
