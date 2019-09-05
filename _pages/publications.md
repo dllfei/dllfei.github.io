@@ -12,9 +12,13 @@ author_profile: true
 Jing Pei, **Lei Deng** (co-first), Sen Song, Mingguo Zhao, Youhui Zhang, Shuang Wu, Guanrui Wang, Zhe Zou, Zhenzhi Wu, Wei He, Feng Chen, Ning Deng, Si Wu, Yu Wang, Yujie Wu, Zheyu Yang, Cheng Ma, Guoqi Li, Wentao Han, Huanglong Li, Huaqiang Wu, Rong Zhao, Yuan Xie, Luping Shi. <br />
 *Nature* 572, 106-111 (2019). (**Cover Paper**)
 
-### Containment Control of Directed Networks with Time-varying Nonlinear Multi-agents using Minimum Number of Leaders. ([link](https://www.sciencedirect.com/science/article/pii/S0378437119304625)) <br />
-Leitao Gao, Guangshe Zhao, Guoqi Li, Yuming Liu, Jiangshuai Huang, **Lei Deng**. <br />
-*Physica A: Statistical Mechanics and its Applications* 526, 120859 (2019).
+### Rethinking the Performance Comparison between SNNs and ANNs. (Accepted) <br />
+**Lei Deng**, Yujie Wu, Xing Hu, Ling Liang, Yufei Ding, Guoqi Li, Guangshe Zhao, Peng Li, Yuan Xie. <br />
+*Neural Networks* (2019).
+
+### Effective and Efficient Batch Normalization Using Few Uncorrelated Data for Statistics' Estimation. ([pdf](https://arxiv.org/pdf/1810.10962.pdf)) <br />
+Zhaodong Chen, **Lei Deng** (co-first), Guoqi Li, Jiawei Sun, Xing Hu, Xin Ma, Yuan Xie. <br />
+(Submitted to *IEEE Transactions on Neural Networks and Learning Systems*).
 
 ### Neural Network Model Extraction Attacks in Edge Devices by Hearing Architectural Hints. ([pdf](https://arxiv.org/pdf/1903.03916.pdf)) <br />
 Xing Hu, Ling Liang, **Lei Deng**, Shuangchen Li, Xinfeng Xie, Yu Ji, Yufei Ding, Chang Liu, Timothy Sherwood, Yuan Xie. <br />
@@ -24,9 +28,13 @@ Xing Hu, Ling Liang, **Lei Deng**, Shuangchen Li, Xinfeng Xie, Yu Ji, Yufei Ding
 Kun Song, Guoqi Li, Xumin Chen, **Lei Deng**, Gaoxi Xiao, Fei Zeng, Jing Pei. <br />
 *IEEE Transactions on Cybernetics* (2019).
 
-### Effective and Efficient Batch Normalization Using Few Uncorrelated Data for Statistics' Estimation. ([pdf](https://arxiv.org/pdf/1810.10962.pdf)) <br />
-Zhaodong Chen, **Lei Deng** (co-first), Guoqi Li, Jiawei Sun, Xing Hu, Xin Ma, Yuan Xie. <br />
-(Submitted to *IEEE Transactions on Neural Networks and Learning Systems*).
+### Containment Control of Directed Networks with Time-varying Nonlinear Multi-agents using Minimum Number of Leaders. ([link](https://www.sciencedirect.com/science/article/pii/S0378437119304625)) <br />
+Leitao Gao, Guangshe Zhao, Guoqi Li, Yuming Liu, Jiangshuai Huang, **Lei Deng**. <br />
+*Physica A: Statistical Mechanics and its Applications* 526, 120859 (2019).
+
+### GXNOR-Net: Training Deep Neural Networks with Ternary Weights and Activations without Full-precision Memory under A Unified Discretization Framework. ([link](https://www.sciencedirect.com/science/article/pii/S0893608018300108)) <br />
+**Lei Deng**, Peng Jiao, Jing Pei, Zhenzhi Wu, Guoqi Li. <br />
+*Neural Networks* 100, 49-58 (2018).
 
 ### SemiMap: A Semi-folded Convolution Mapping for Speed-Overhead Balance on Crossbars. ([link](https://ieeexplore.ieee.org/abstract/document/8556049)) <br />
 **Lei Deng**, Ling Liang, Guanrui Wang, Liang Chang, Xing Hu, Xin Ma, Liu Liu, Jing Pei, Guoqi Li, Yuan Xie. <br />
@@ -36,13 +44,21 @@ Zhaodong Chen, **Lei Deng** (co-first), Guoqi Li, Jiawei Sun, Xing Hu, Xin Ma, Y
 **Lei Deng**, Zhe Zou, Xin Ma, Ling Liang, Guanrui Wang, Xing Hu, Liu Liu, Jing Pei, Guoqi Li, Yuan Xie. <br />
 *Frontiers in Neuroscience* 12, 841 (2018).
 
-### Towards a Unified Framework of Matrix Derivatives. ([pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8453264)) <br />
-Jianyu Xu, Guoqi Li, Changyun Wen, Kun Wu, **Lei Deng**. <br />
-*IEEE Access* 6, 47922-47934 (2018).
+### L0 Norm Constraint based External Control Source Allocation for the Minimum Cost Control of Directed Networks. ([link](https://www.sciencedirect.com/science/article/pii/S0019057818301034)) <br />
+**Lei Deng**, Guoqi Li, Jing Pei, Jiangshuai Huang. <br />
+*ISA Transactions* 76, 88-96 (2018).
 
-### Towards the Minimum-cost Control of Target Nodes in Directed Networks with Linear Dynamics. ([link](https://www.sciencedirect.com/science/article/pii/S0016003218305441)) <br />
-Leitao Gao, Guangshe Zhao, Guoqi Li, **Lei Deng**, Fei Zeng. <br />
-*Journal of the Franklin Institute* 355, 8141-8157 (2018).
+### Spatio-Temporal Backpropagation for Training High-Performance Spiking Neural Networks. ([link](https://www.frontiersin.org/articles/10.3389/fnins.2018.00331/full)) <br />
+Yujie Wu, **Lei Deng** (co-first), Guoqi Li, Jun Zhu, Luping Shi. <br />
+*Frontiers in Neuroscience* 12, 331 (2018).
+
+### Enabling Controlling Complex Networks with Local Topological Information. ([pdf](https://www.nature.com/articles/s41598-018-22655-5.pdf)) <br />
+Guoqi Li, **Lei Deng** (co-first), Gaoxi Xiao, Pei Tang, Changyun Wen, Wuhua Hu, Jing Pei, Luping Shi, H. Eugene Stanley. <br />
+*Scientific Reports* 8, 4593 (2018).
+
+### Training Deep Neural Networks with Discrete State Transition. ([link](https://www.sciencedirect.com/science/article/pii/S0925231217311864)) <br />
+Guoqi Li, **Lei Deng** (co-first), Lei Tian, Haotian Cui, Wentao Han, Jing Pei, Luping Shi. <br />
+*Neurocomputing* 272, 154-162 (2018).
 
 ### Crossbar-Aware Neural Network Pruning. ([pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8485680)) <br />
 Ling Liang, **Lei Deng** (co-first), Yueling Zeng, Xing Hu, Yu Ji, Xin Ma, Guoqi Li, Yuan Xie. <br />
@@ -52,37 +68,25 @@ Ling Liang, **Lei Deng** (co-first), Yueling Zeng, Xing Hu, Yu Ji, Xin Ma, Guoqi
 Shuang Wu, Guoqi Li, **Lei Deng**, Liu Liu, Dong Wu, Yuan Xie, Luping Shi. <br />
 *IEEE Transactions on Neural Networks and Learning Systems*, 2018.
 
+### Towards the Minimum-cost Control of Target Nodes in Directed Networks with Linear Dynamics. ([link](https://www.sciencedirect.com/science/article/pii/S0016003218305441)) <br />
+Leitao Gao, Guangshe Zhao, Guoqi Li, **Lei Deng**, Fei Zeng. <br />
+*Journal of the Franklin Institute* 355, 8141-8157 (2018).
+
 ### Correlation between the Dzyaloshinskii–Moriya Interaction and Spin-mixing Conductance at an Antiferromagnet / Ferromagnet Interface. ([link](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.104428)) <br />
 Xin Ma, Guoqiang Yu, Seyed A. Razavi, Liang Chang, **Lei Deng**, Zhaodong Chu, Congli He, Kang L. Wang, Xiaoqin Li. <br />
 *Physical Review B* 98, 104428 (2018).
 
-### Spatio-Temporal Backpropagation for Training High-Performance Spiking Neural Networks. ([link](https://www.frontiersin.org/articles/10.3389/fnins.2018.00331/full)) <br />
-Yujie Wu, **Lei Deng** (co-first), Guoqi Li, Jun Zhu, Luping Shi. <br />
-*Frontiers in Neuroscience* 12, 331 (2018).
-
-### GXNOR-Net: Training Deep Neural Networks with Ternary Weights and Activations without Full-precision Memory under A Unified Discretization Framework. ([link](https://www.sciencedirect.com/science/article/pii/S0893608018300108)) <br />
-**Lei Deng**, Peng Jiao, Jing Pei, Zhenzhi Wu, Guoqi Li. <br />
-*Neural Networks* 100, 49-58 (2018).
-
-### Enabling Controlling Complex Networks with Local Topological Information. ([pdf](https://www.nature.com/articles/s41598-018-22655-5.pdf)) <br />
-Guoqi Li, **Lei Deng** (co-first), Gaoxi Xiao, Pei Tang, Changyun Wen, Wuhua Hu, Jing Pei, Luping Shi, H. Eugene Stanley. <br />
-*Scientific Reports* 8, 4593 (2018).
-
-### L0 Norm Constraint based External Control Source Allocation for the Minimum Cost Control of Directed Networks. ([link](https://www.sciencedirect.com/science/article/pii/S0019057818301034)) <br />
-**Lei Deng**, Guoqi Li, Jing Pei, Jiangshuai Huang. <br />
-*ISA Transactions* 76, 88-96 (2018).
-
-### Training Deep Neural Networks with Discrete State Transition. ([link](https://www.sciencedirect.com/science/article/pii/S0925231217311864)) <br />
-Guoqi Li, **Lei Deng** (co-first), Lei Tian, Haotian Cui, Wentao Han, Jing Pei, Luping Shi. <br />
-*Neurocomputing* 272, 154-162 (2018).
-
-### Temperature based Restricted Boltzmann Machines. ([pdf](https://www.nature.com/articles/srep19133.pdf)) <br />
-Guoqi Li, **Lei Deng** (co-first), Yi Xu, Changyun Wen, Wei Wang, Jing Pei, Luping Shi. <br />
-*Scientific Reports* 6, 19133 (2016).
+### Towards a Unified Framework of Matrix Derivatives. ([pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8453264)) <br />
+Jianyu Xu, Guoqi Li, Changyun Wen, Kun Wu, **Lei Deng**. <br />
+*IEEE Access* 6, 47922-47934 (2018).
 
 ### Energy Consumption Analysis for Various Memristive Networks under Different Learning Strategies. ([link](https://www.sciencedirect.com/science/article/pii/S0375960115010609)) <br />
 **Lei Deng**, Dong Wang, Ziyang Zhang, Pei Tang, Guoqi Li, Jing Pei. <br />
 *Physics Letters A* 380, 903-909 (2016).
+
+### Temperature based Restricted Boltzmann Machines. ([pdf](https://www.nature.com/articles/srep19133.pdf)) <br />
+Guoqi Li, **Lei Deng** (co-first), Yi Xu, Changyun Wen, Wei Wang, Jing Pei, Luping Shi. <br />
+*Scientific Reports* 6, 19133 (2016).
 
 ### Hierarchical Chunking of Sequential Memory on Neuromorphic Architecture with Reduced Synaptic Plasticity. ([link](https://www.frontiersin.org/articles/10.3389/fncom.2016.00136/full)) <br />
 Guoqi Li, **Lei Deng** (co-first), Dong Wang, Wei Wang, Fei Zeng, Ziyang Zhang, Huanglong Li, Sen Song, Jing Pei, Luping Shi. <br />
@@ -99,26 +103,6 @@ Guoqi Li, Wuhua Hu, Gaoxi Xiao, **Lei Deng**, Pei Tang, Jing Pei, Luping Shi. <b
 
 ## Conferences
 
-### Alleviating Irregularity in Graph Analytics Acceleration: A Hardware/Software Co-Design Approach. (Accepted) <br />
-Mingyu Yan, Xing Hu, Shuangchen Li, Abanti Basak, Han Li, Xin Ma, Itir Akgun, Yujing Feng, Peng Gu, **Lei Deng**, Xiaochun Ye, Zhimin Zhang, Dongrui Fan, Yuan Xie. <br />
-in *IEEE/ACM International Symposium on Microarchitecture (MICRO)*, Columbus, USA, October 2019.
-
-### Balancing Memory Accesses for Energy-Efficient Graph Analytics Accelerators. (Accepted) <br />
-Mingyu Yan, Xing Hu, Shuangchen Li, Itir Akgun, Han Li, Xin Ma, **Lei Deng**, Xiaochun Ye, Zhimin Zhang, Dongrui Fan, Yuan Xie. <br />
-in *ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED)*, Lausanne, Switzerland, July 2019.
-
-### CNNWire: Boosting Convolutional Neural Network with Winograd on ReRAM based Accelerators. ([link](https://dl.acm.org/citation.cfm?id=3318018)) <br />
-Jilan Lin, Shuangchen Li, Xing Hu, **Lei Deng**, Yuan Xie. <br />
-in *ACM Great Lakes Symposium on VLSI (GLVLSI)*, Washington DC, USA, May 2019.
-
-### Efficient Mapping without Deadlock on the Many-core Neural Network Chip. (Accepted) <br />
-Qi Zhao, Guoqi Li, **Lei Deng**, Guanrui Wang, Cheng Ma. <br />
-in *IEEE International Conference on Control & Automation (ICCA)*, Edinburgh, Scotland, July 2019.
-
-### Memory Trojan Attack on Neural Network Accelerators. ([link](https://ieeexplore.ieee.org/abstract/document/8715027)) <br />
-Yang Zhao, Xing Hu, Shuangchen Li, Jing Ye, **Lei Deng**, Yu Ji, Jianyu Xu, Dong Wu, Yuan Xie. <br />
-in *Design, Automation and Test in Europe (DATE)*, Florence, Italy, March 2019.
-
 ### Dynamic Sparse Graph for Efficient Deep Learning. ([pdf](https://openreview.net/pdf?id=H1goBoR9F7)) <br />
 Liu Liu, **Lei Deng** (co-first), Xing Hu, Maohua Zhu, Guoqi Li, Yufei Ding, Yuan Xie. <br />
 in *International Conference on Learning Representations (ICLR)*, New Orleans, USA, May 2019.
@@ -126,6 +110,26 @@ in *International Conference on Learning Representations (ICLR)*, New Orleans, U
 ### Direct Training for Spiking Neural Networks: Faster, Larger, Better. ([pdf](https://arxiv.org/pdf/1809.05793.pdf))<br />
 Yujie Wu, **Lei Deng**, Guoqi Li, Jun Zhu, Yuan Xie, Luping Shi. <br />
 in *AAAI Conference on Artificial Intelligence (AAAI)*, Howaii, USA, January (2019). (acceptance rate: 16.2%)
+
+### Efficient Mapping without Deadlock on the Many-core Neural Network Chip. (Accepted) <br />
+Qi Zhao, Guoqi Li, **Lei Deng**, Guanrui Wang, Cheng Ma. <br />
+in *IEEE International Conference on Control & Automation (ICCA)*, Edinburgh, Scotland, July 2019.
+
+### CNNWire: Boosting Convolutional Neural Network with Winograd on ReRAM based Accelerators. ([link](https://dl.acm.org/citation.cfm?id=3318018)) <br />
+Jilan Lin, Shuangchen Li, Xing Hu, **Lei Deng**, Yuan Xie. <br />
+in *ACM Great Lakes Symposium on VLSI (GLVLSI)*, Washington DC, USA, May 2019.
+
+### Memory Trojan Attack on Neural Network Accelerators. ([link](https://ieeexplore.ieee.org/abstract/document/8715027)) <br />
+Yang Zhao, Xing Hu, Shuangchen Li, Jing Ye, **Lei Deng**, Yu Ji, Jianyu Xu, Dong Wu, Yuan Xie. <br />
+in *Design, Automation and Test in Europe (DATE)*, Florence, Italy, March 2019.
+
+### Balancing Memory Accesses for Energy-Efficient Graph Analytics Accelerators. (Accepted) <br />
+Mingyu Yan, Xing Hu, Shuangchen Li, Itir Akgun, Han Li, Xin Ma, **Lei Deng**, Xiaochun Ye, Zhimin Zhang, Dongrui Fan, Yuan Xie. <br />
+in *ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED)*, Lausanne, Switzerland, July 2019.
+
+### Alleviating Irregularity in Graph Analytics Acceleration: A Hardware/Software Co-Design Approach. (Accepted) <br />
+Mingyu Yan, Xing Hu, Shuangchen Li, Abanti Basak, Han Li, Xin Ma, Itir Akgun, Yujing Feng, Peng Gu, **Lei Deng**, Xiaochun Ye, Zhimin Zhang, Dongrui Fan, Yuan Xie. <br />
+in *IEEE/ACM International Symposium on Microarchitecture (MICRO)*, Columbus, USA, October 2019.
 
 ### TETRIS: Tile-matching the Tremendous Irregular Sparsity. ([pdf](http://papers.nips.cc/paper/7666-tetris-tile-matching-the-tremendous-irregular-sparsity.pdf)) <br />
 Yu Ji, Ling Liang, **Lei Deng**, Youyang Zhang, Youhui Zhang, Yuan Xie. <br />
@@ -135,10 +139,6 @@ in *Advances in Neural Information Processing Systems (NIPS)* 4115-4125, Montrea
 Peiqi Wang, Xinfeng Xie, **Lei Deng**, Guoqi Li, Dongsheng Wang, Yuan Xie. <br />
 in *Advances in Neural Information Processing Systems (NIPS)* 601-611, Montreal, Canada, December 2018. (acceptance rate: 20.8%)
 
-### Development of A Neuromorphic Computing System. ([link](https://ieeexplore.ieee.org/document/7409624/)) <br />
-Luping Shi, Jing Pei, Ning Deng, Dong Wang, **Lei Deng**, Yu Wang, Youhui Zhang, Feng Chen, Mingguo Zhao, Sen Song, Fei Zeng, Guoqi Li, Huanglong Li, Cheng Ma. <br />
-in *IEEE International Electron Devices Meeting (IEDM)*, Washington, DC, USA, December 2015.
-
 ### A New Computing Rule for Neuromorphic Engineering. ([link](https://ieeexplore.ieee.org/abstract/document/7457497/)) <br />
 **Lei Deng**, Dong Wang, Ziyang Zhang, Guoqi Li, Jing Pei. <br />
 in *Non-Volatile Memory Technology Symposium (NVMTS)*, Beijing, China, October 2015.
@@ -146,6 +146,10 @@ in *Non-Volatile Memory Technology Symposium (NVMTS)*, Beijing, China, October 2
 ### FPGA-based Neuromorphic Computing System with a Scalable Routing Network. ([link](https://ieeexplore.ieee.org/abstract/document/7457432/)) <br />
 Dong Wang, **Lei Deng**, Pei Tang, Cheng Ma, Jing Pei. <br />
 in *Non-Volatile Memory Technology Symposium (NVMTS)*, Beijing, China, October 2015.
+
+### Development of A Neuromorphic Computing System. ([link](https://ieeexplore.ieee.org/document/7409624/)) <br />
+Luping Shi, Jing Pei, Ning Deng, Dong Wang, **Lei Deng**, Yu Wang, Youhui Zhang, Feng Chen, Mingguo Zhao, Sen Song, Fei Zeng, Guoqi Li, Huanglong Li, Cheng Ma. <br />
+in *IEEE International Electron Devices Meeting (IEDM)*, Washington, DC, USA, December 2015.
 
 ### Ultra Low Power of Artificial Cognitive Memory for Brain-like Computation. ([link](https://ieeexplore.ieee.org/abstract/document/7460428/)) <br />
 **Lei Deng**, Ziyang Zhang, Dong Wang, Jing Pei, Luping Shi. <br />
