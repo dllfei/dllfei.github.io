@@ -21,10 +21,6 @@ Zhaodong Chen, **Lei Deng** (co-first), Guoqi Li, Jiawei Sun, Xing Hu, Xin Ma, Y
 (Submitted to *IEEE Transactions on Neural Networks and Learning Systems*).
 
 ### Training High-Performance and Large-Scale Deep Neural Networks with Full 8-bit Integers. ([pdf](https://arxiv.org/pdf/1909.02384.pdf)) <br />
-**Lei Deng**, Yujie Wu, Xing Hu, Ling Liang, Yufei Ding, Guoqi Li, Guangshe Zhao, Peng Li, Yuan Xie. <br />
-*Neural Networks* (2019).
-
-### Neural Network Model Extraction Attacks in Edge Devices by Hearing Architectural Hints. ([pdf](https://arxiv.org/pdf/1903.03916.pdf)) <br />
 Yukuan Yang, Shuang Wu, **Lei Deng** (correspondence), Tianyi Yan, Yuan Xie, Guoqi Li. <br />
 (Submitted to *Neural Networks*).
 
