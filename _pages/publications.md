@@ -16,6 +16,10 @@ Jing Pei, **Lei Deng** (co-first), Sen Song, Mingguo Zhao, Youhui Zhang, Shuang 
 **Lei Deng**, Yujie Wu, Xing Hu, Ling Liang, Yufei Ding, Guoqi Li, Guangshe Zhao, Peng Li, Yuan Xie. <br />
 *Neural Networks* (2019).
 
+### Training High-Performance and Large-Scale Deep Neural Networks with Full 8-bit Integers. ([pdf](https://arxiv.org/pdf/1909.02384.pdf)) <br />
+Yukuan Yang, Shuang Wu, **Lei Deng** (correspondence), Tianyi Yan, Yuan Xie, Guoqi Li. <br />
+(Submitted to *Neural Networks*).
+
 ### Effective and Efficient Batch Normalization Using Few Uncorrelated Data for Statistics' Estimation. ([pdf](https://arxiv.org/pdf/1810.10962.pdf)) <br />
 Zhaodong Chen, **Lei Deng** (co-first), Guoqi Li, Jiawei Sun, Xing Hu, Xin Ma, Yuan Xie. <br />
 (Submitted to *IEEE Transactions on Neural Networks and Learning Systems*).
