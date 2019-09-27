@@ -127,7 +127,7 @@ in *ACM Great Lakes Symposium on VLSI (GLVLSI)*, Washington DC, USA, May 2019.
 Yang Zhao, Xing Hu, Shuangchen Li, Jing Ye, **Lei Deng**, Yu Ji, Jianyu Xu, Dong Wu, Yuan Xie. <br />
 in *Design, Automation and Test in Europe (DATE)*, Florence, Italy, March 2019.
 
-### Balancing Memory Accesses for Energy-Efficient Graph Analytics Accelerators. (Accepted) <br />
+### Balancing Memory Accesses for Energy-Efficient Graph Analytics Accelerators. ([link](https://ieeexplore.ieee.org/abstract/document/8824832)) <br />
 Mingyu Yan, Xing Hu, Shuangchen Li, Itir Akgun, Han Li, Xin Ma, **Lei Deng**, Xiaochun Ye, Zhimin Zhang, Dongrui Fan, Yuan Xie. <br />
 in *ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED)*, Lausanne, Switzerland, July 2019.
 
