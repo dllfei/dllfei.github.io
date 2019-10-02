@@ -137,11 +137,11 @@ in *IEEE/ACM International Symposium on Microarchitecture (MICRO)*, Columbus, US
 
 ### TETRIS: Tile-matching the Tremendous Irregular Sparsity. ([pdf](http://papers.nips.cc/paper/7666-tetris-tile-matching-the-tremendous-irregular-sparsity.pdf)) <br />
 Yu Ji, Ling Liang, **Lei Deng**, Youyang Zhang, Youhui Zhang, Yuan Xie. <br />
-in *Advances in Neural Information Processing Systems (NIPS)* 4115-4125, Montreal, Canada, December 2018. (acceptance rate: 20.8%)
+in *Advances in Neural Information Processing Systems (NeurIPS)* 4115-4125, Montreal, Canada, December 2018. (acceptance rate: 20.8%)
 
 ### HitNet: Hybrid Ternary Recurrent Neural Network. ([pdf](https://papers.nips.cc/paper/7341-hitnet-hybrid-ternary-recurrent-neural-network.pdf)) <br />
 Peiqi Wang, Xinfeng Xie, **Lei Deng**, Guoqi Li, Dongsheng Wang, Yuan Xie. <br />
-in *Advances in Neural Information Processing Systems (NIPS)* 601-611, Montreal, Canada, December 2018. (acceptance rate: 20.8%)
+in *Advances in Neural Information Processing Systems (NeurIPS)* 601-611, Montreal, Canada, December 2018. (acceptance rate: 20.8%)
 
 ### A New Computing Rule for Neuromorphic Engineering. ([link](https://ieeexplore.ieee.org/abstract/document/7457497/)) <br />
 **Lei Deng**, Dong Wang, Ziyang Zhang, Guoqi Li, Jing Pei. <br />
