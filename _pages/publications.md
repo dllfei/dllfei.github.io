@@ -131,7 +131,7 @@ in *Design, Automation and Test in Europe (DATE)*, Florence, Italy, March 2019.
 Mingyu Yan, Xing Hu, Shuangchen Li, Itir Akgun, Han Li, Xin Ma, **Lei Deng**, Xiaochun Ye, Zhimin Zhang, Dongrui Fan, Yuan Xie. <br />
 in *ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED)*, Lausanne, Switzerland, July 2019.
 
-### Alleviating Irregularity in Graph Analytics Acceleration: A Hardware/Software Co-Design Approach. (Accepted) <br />
+### Alleviating Irregularity in Graph Analytics Acceleration: A Hardware/Software Co-Design Approach. ([link](https://dl.acm.org/citation.cfm?id=3358318) <br />
 Mingyu Yan, Xing Hu, Shuangchen Li, Abanti Basak, Han Li, Xin Ma, Itir Akgun, Yujing Feng, Peng Gu, **Lei Deng**, Xiaochun Ye, Zhimin Zhang, Dongrui Fan, Yuan Xie. <br />
 in *IEEE/ACM International Symposium on Microarchitecture (MICRO)*, Columbus, USA, October 2019.
 
