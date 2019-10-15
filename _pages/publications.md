@@ -16,7 +16,7 @@ Jing Pei, **Lei Deng** (co-first), Sen Song, Mingguo Zhao, Youhui Zhang, Shuang 
 **Lei Deng**, Yujie Wu, Xing Hu, Ling Liang, Yufei Ding, Guoqi Li, Guangshe Zhao, Peng Li, Yuan Xie. <br />
 *Neural Networks* (2019).
 
-### Towards A Polynomial Algorithm for Optimal Contraction Sequence of Tensor Networks from Trees. (Accepted) <br />
+### Towards A Polynomial Algorithm for Optimal Contraction Sequence of Tensor Networks from Trees. (link](https://journals.aps.org/pre/accepted/1707cKb3N9419b0382488ea82f7a132cf21fbb7e8)) <br />
 Jianyu Xu, Ling Liang, **Lei Deng** (correspondence), Changyun Wen, Yuan Xie, Guoqi Li. <br />
 *Physical Review E* (2019).
 
@@ -131,7 +131,7 @@ in *Design, Automation and Test in Europe (DATE)*, Florence, Italy, March 2019.
 Mingyu Yan, Xing Hu, Shuangchen Li, Itir Akgun, Han Li, Xin Ma, **Lei Deng**, Xiaochun Ye, Zhimin Zhang, Dongrui Fan, Yuan Xie. <br />
 in *ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED)*, Lausanne, Switzerland, July 2019.
 
-### Alleviating Irregularity in Graph Analytics Acceleration: A Hardware/Software Co-Design Approach. ([link](https://dl.acm.org/citation.cfm?id=3358318) <br />
+### Alleviating Irregularity in Graph Analytics Acceleration: A Hardware/Software Co-Design Approach. ([link](https://dl.acm.org/citation.cfm?id=3358318)) <br />
 Mingyu Yan, Xing Hu, Shuangchen Li, Abanti Basak, Han Li, Xin Ma, Itir Akgun, Yujing Feng, Peng Gu, **Lei Deng**, Xiaochun Ye, Zhimin Zhang, Dongrui Fan, Yuan Xie. <br />
 in *IEEE/ACM International Symposium on Microarchitecture (MICRO)*, Columbus, USA, October 2019.
 
