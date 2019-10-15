@@ -16,7 +16,7 @@ Jing Pei, **Lei Deng** (co-first), Sen Song, Mingguo Zhao, Youhui Zhang, Shuang 
 **Lei Deng**, Yujie Wu, Xing Hu, Ling Liang, Yufei Ding, Guoqi Li, Guangshe Zhao, Peng Li, Yuan Xie. <br />
 *Neural Networks* (2019).
 
-### Towards A Polynomial Algorithm for Optimal Contraction Sequence of Tensor Networks from Trees. (link](https://journals.aps.org/pre/accepted/1707cKb3N9419b0382488ea82f7a132cf21fbb7e8)) <br />
+### Towards A Polynomial Algorithm for Optimal Contraction Sequence of Tensor Networks from Trees. ([link](https://journals.aps.org/pre/accepted/1707cKb3N9419b0382488ea82f7a132cf21fbb7e8)) <br />
 Jianyu Xu, Ling Liang, **Lei Deng** (correspondence), Changyun Wen, Yuan Xie, Guoqi Li. <br />
 *Physical Review E* (2019).
 
