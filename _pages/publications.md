@@ -74,7 +74,7 @@ Ling Liang, **Lei Deng** (co-first), Yueling Zeng, Xing Hu, Yu Ji, Xin Ma, Guoqi
 
 ### L1-Norm Batch Normalization for Efficient Training of Deep Neural Networks. ([link](https://ieeexplore.ieee.org/document/8528524)) <br />
 Shuang Wu, Guoqi Li, **Lei Deng**, Liu Liu, Dong Wu, Yuan Xie, Luping Shi. <br />
-*IEEE Transactions on Neural Networks and Learning Systems*, 2018.
+*IEEE Transactions on Neural Networks and Learning Systems* 30, 2043-2051 (2018).
 
 ### Towards the Minimum-cost Control of Target Nodes in Directed Networks with Linear Dynamics. ([link](https://www.sciencedirect.com/science/article/pii/S0016003218305441)) <br />
 Leitao Gao, Guangshe Zhao, Guoqi Li, **Lei Deng**, Fei Zeng. <br />
