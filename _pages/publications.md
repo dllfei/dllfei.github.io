@@ -28,6 +28,10 @@ Zhaodong Chen, **Lei Deng** (co-first), Guoqi Li, Jiawei Sun, Xing Hu, Xin Ma, Y
 Yukuan Yang, Shuang Wu, **Lei Deng** (correspondence), Tianyi Yan, Yuan Xie, Guoqi Li. <br />
 (Submitted to *Neural Networks*).
 
+### Training and Inference for Integer-Based Semantic Segmentation Network. ([pdf](https://jiayiyang.info/files/QFCN.pdf)) <br />
+Jiayi Yang, **Lei Deng**, Yukuan Yang, Yuan Xie, Guoqi Li. <br />
+(Submitted to *Pattern Recognition*).
+
 ### Target Controllability of Two-layer Multiplex Networks based on Network Flow Theory. ([link](https://ieeexplore.ieee.org/abstract/document/8685693)) <br />
 Kun Song, Guoqi Li, Xumin Chen, **Lei Deng**, Gaoxi Xiao, Fei Zeng, Jing Pei. <br />
 *IEEE Transactions on Cybernetics* (2019).
