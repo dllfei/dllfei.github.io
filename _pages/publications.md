@@ -8,13 +8,13 @@ author_profile: true
 
 ## Journals
 
+### Rethinking the Performance Comparison between SNNs and ANNs. ([link](https://www.sciencedirect.com/science/article/pii/S0893608019302667)) <br />
+**Lei Deng**, Yujie Wu, Xing Hu, Ling Liang, Yufei Ding, Guoqi Li, Guangshe Zhao, Peng Li, Yuan Xie. <br />
+*Neural Networks* 121, 294-307 (2020).
+
 ### Towards Artificial General Intelligence with Hybrid Tianjic Chip Architecture. ([link](https://www.nature.com/articles/s41586-019-1424-8)) <br />
 Jing Pei, **Lei Deng** (co-first), Sen Song, Mingguo Zhao, Youhui Zhang, Shuang Wu, Guanrui Wang, Zhe Zou, Zhenzhi Wu, Wei He, Feng Chen, Ning Deng, Si Wu, Yu Wang, Yujie Wu, Zheyu Yang, Cheng Ma, Guoqi Li, Wentao Han, Huanglong Li, Huaqiang Wu, Rong Zhao, Yuan Xie, Luping Shi. <br />
 *Nature* 572, 106-111 (2019). (**Cover Paper**)
-
-### Rethinking the Performance Comparison between SNNs and ANNs. ([link](https://www.sciencedirect.com/science/article/pii/S0893608019302667)) <br />
-**Lei Deng**, Yujie Wu, Xing Hu, Ling Liang, Yufei Ding, Guoqi Li, Guangshe Zhao, Peng Li, Yuan Xie. <br />
-*Neural Networks* (2019).
 
 ### Towards A Polynomial Algorithm for Optimal Contraction Sequence of Tensor Networks from Trees. ([link](https://journals.aps.org/pre/accepted/1707cKb3N9419b0382488ea82f7a132cf21fbb7e8)) <br />
 Jianyu Xu, Ling Liang, **Lei Deng** (correspondence), Changyun Wen, Yuan Xie, Guoqi Li. <br />
