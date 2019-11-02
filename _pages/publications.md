@@ -18,7 +18,7 @@ Jing Pei, **Lei Deng** (co-first), Sen Song, Mingguo Zhao, Youhui Zhang, Shuang 
 
 ### Towards A Polynomial Algorithm for Optimal Contraction Sequence of Tensor Networks from Trees. ([link](https://journals.aps.org/pre/accepted/1707cKb3N9419b0382488ea82f7a132cf21fbb7e8)) <br />
 Jianyu Xu, Ling Liang, **Lei Deng** (correspondence), Changyun Wen, Yuan Xie, Guoqi Li. <br />
-*Physical Review E* (2019).
+*Physical Review E* 100, 043309 (2019).
 
 ### Effective and Efficient Batch Normalization Using Few Uncorrelated Data for Statistics' Estimation. ([pdf](https://arxiv.org/pdf/1810.10962.pdf)) <br />
 Zhaodong Chen, **Lei Deng** (co-first), Guoqi Li, Jiawei Sun, Xing Hu, Xin Ma, Yuan Xie. <br />
