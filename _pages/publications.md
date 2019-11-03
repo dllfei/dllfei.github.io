@@ -111,6 +111,10 @@ Guoqi Li, Wuhua Hu, Gaoxi Xiao, **Lei Deng**, Pei Tang, Jing Pei, Luping Shi. <b
 
 ## Conferences
 
+### HyGCN: A GCN Accelerator with Hybrid Architecture. (Accepted) <br />
+Mingyu Yan, **Lei Deng** (co-first), Xing Hu, Ling Liang, Yujing Feng, Xiaochun Ye, Zhimin Zhang, Dongrui Fan, Yuan Xie. <br />
+in *IEEE International Symposium on High Performance Computer Architecture (HPCA)*, San Diego, USA, February 2020.
+
 ### Dynamic Sparse Graph for Efficient Deep Learning. ([pdf](https://openreview.net/pdf?id=H1goBoR9F7)) <br />
 Liu Liu, **Lei Deng** (co-first), Xing Hu, Maohua Zhu, Guoqi Li, Yufei Ding, Yuan Xie. <br />
 in *International Conference on Learning Representations (ICLR)*, New Orleans, USA, May 2019.
