@@ -123,8 +123,8 @@ in *International Conference on Learning Representations (ICLR)*, New Orleans, U
 Yujie Wu, **Lei Deng**, Guoqi Li, Jun Zhu, Yuan Xie, Luping Shi. <br />
 in *AAAI Conference on Artificial Intelligence (AAAI)*, Howaii, USA, January (2019). (acceptance rate: 16.2%)
 
-### Efficient Mapping without Deadlock on the Many-core Neural Network Chip. (Accepted) <br />
-Qi Zhao, Guoqi Li, **Lei Deng**, Guanrui Wang, Cheng Ma. <br />
+### Efficient Mapping without Deadlock on the Many-core Neural Network Chip. ([link](http://iopscience.iop.org/article/10.1088/1367-2630/18/1/013012/meta)) <br />
+Qi Zhao, **Lei Deng**, Guoqi Li, Guanrui Wang, Cheng Ma. <br />
 in *IEEE International Conference on Control & Automation (ICCA)*, Edinburgh, Scotland, July 2019.
 
 ### CNNWire: Boosting Convolutional Neural Network with Winograd on ReRAM based Accelerators. ([link](https://dl.acm.org/citation.cfm?id=3318018)) <br />
