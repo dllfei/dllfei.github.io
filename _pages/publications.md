@@ -24,9 +24,9 @@ Jianyu Xu, Ling Liang, **Lei Deng** (correspondence), Changyun Wen, Yuan Xie, Gu
 Zhaodong Chen, **Lei Deng** (co-first), Guoqi Li, Jiawei Sun, Xing Hu, Xin Ma, Yuan Xie. <br />
 (Submitted to *IEEE Transactions on Neural Networks and Learning Systems*).
 
-### Training High-Performance and Large-Scale Deep Neural Networks with Full 8-bit Integers. ([pdf](https://arxiv.org/pdf/1909.02384.pdf)) <br />
+### Training High-Performance and Large-Scale Deep Neural Networks with Full 8-bit Integers. ([pdf](https://arxiv.org/pdf/1909.02384.pdf)) (Accepted) <br />
 Yukuan Yang, Shuang Wu, **Lei Deng** (correspondence), Tianyi Yan, Yuan Xie, Guoqi Li. <br />
-(Submitted to *Neural Networks*).
+*Neural Networks* (2019).
 
 ### Training and Inference for Integer-Based Semantic Segmentation Network. ([pdf](https://jiayiyang.info/files/QFCN.pdf)) <br />
 Jiayi Yang, **Lei Deng**, Yukuan Yang, Yuan Xie, Guoqi Li. <br />
