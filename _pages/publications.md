@@ -12,6 +12,10 @@ author_profile: true
 **Lei Deng**, Yujie Wu, Xing Hu, Ling Liang, Yufei Ding, Guoqi Li, Guangshe Zhao, Peng Li, Yuan Xie. <br />
 *Neural Networks* 121, 294-307 (2020).
 
+### Training High-Performance and Large-Scale Deep Neural Networks with Full 8-bit Integers. ([pdf](https://arxiv.org/pdf/1909.02384.pdf)) (Accepted) <br />
+Yukuan Yang, Shuang Wu, **Lei Deng** (correspondence), Tianyi Yan, Yuan Xie, Guoqi Li. <br />
+*Neural Networks* (2020).
+
 ### Towards Artificial General Intelligence with Hybrid Tianjic Chip Architecture. ([link](https://www.nature.com/articles/s41586-019-1424-8)) <br />
 Jing Pei, **Lei Deng** (co-first), Sen Song, Mingguo Zhao, Youhui Zhang, Shuang Wu, Guanrui Wang, Zhe Zou, Zhenzhi Wu, Wei He, Feng Chen, Ning Deng, Si Wu, Yu Wang, Yujie Wu, Zheyu Yang, Cheng Ma, Guoqi Li, Wentao Han, Huanglong Li, Huaqiang Wu, Rong Zhao, Yuan Xie, Luping Shi. <br />
 *Nature* 572, 106-111 (2019). (**Cover Paper**)
@@ -23,10 +27,6 @@ Jianyu Xu, Ling Liang, **Lei Deng** (correspondence), Changyun Wen, Yuan Xie, Gu
 ### Effective and Efficient Batch Normalization Using Few Uncorrelated Data for Statistics' Estimation. ([pdf](https://arxiv.org/pdf/1810.10962.pdf)) <br />
 Zhaodong Chen, **Lei Deng** (co-first), Guoqi Li, Jiawei Sun, Xing Hu, Xin Ma, Yuan Xie. <br />
 (Submitted to *IEEE Transactions on Neural Networks and Learning Systems*).
-
-### Training High-Performance and Large-Scale Deep Neural Networks with Full 8-bit Integers. ([pdf](https://arxiv.org/pdf/1909.02384.pdf)) (Accepted) <br />
-Yukuan Yang, Shuang Wu, **Lei Deng** (correspondence), Tianyi Yan, Yuan Xie, Guoqi Li. <br />
-*Neural Networks* (2019).
 
 ### Training and Inference for Integer-Based Semantic Segmentation Network. ([pdf](https://jiayiyang.info/files/QFCN.pdf)) <br />
 Jiayi Yang, **Lei Deng**, Yukuan Yang, Yuan Xie, Guoqi Li. <br />
