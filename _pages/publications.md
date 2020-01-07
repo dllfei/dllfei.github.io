@@ -16,9 +16,21 @@ Submitted to *IEEE Transactions on Neural Networks and Learning Systems* (2020).
 **Lei Deng**, Yujie Wu, Xing Hu, Ling Liang, Yufei Ding, Guoqi Li, Guangshe Zhao, Peng Li, Yuan Xie. <br />
 *Neural Networks* 121, 294-307 (2020).
 
+### SemiMap: A Semi-folded Convolution Mapping for Speed-Overhead Balance on Crossbars. ([link](https://ieeexplore.ieee.org/abstract/document/8556049)) <br />
+**Lei Deng**, Ling Liang, Guanrui Wang, Liang Chang, Xing Hu, Xin Ma, Liu Liu, Jing Pei, Guoqi Li, Yuan Xie. <br />
+*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* 39, 117-130 (2020).
+
 ### A Comprehensive and Modularized Statistical Framework for Gradient Norm Equality in Deep Neural Networks. ([pdf](https://arxiv.org/pdf/2001.00254.pdf)) <br />
 Zhaodong Chen, **Lei Deng** (co-first), Bangyan Wang, Guoqi Li, Yuan Xie. <br />
 Submitted to *IEEE Transactions on Pattern Analysis and Machine Intelligence* (2020).
+
+### Effective and Efficient Batch Normalization Using Few Uncorrelated Data for Statistics' Estimation. ([pdf](https://arxiv.org/pdf/1810.10962.pdf)) <br />
+Zhaodong Chen, **Lei Deng** (co-first), Guoqi Li, Jiawei Sun, Xing Hu, Xin Ma, Yuan Xie. <br />
+Submitted to *IEEE Transactions on Neural Networks and Learning Systems* (2020).
+
+### Training and Inference for Integer-Based Semantic Segmentation Network. ([pdf](https://jiayiyang.info/files/QFCN.pdf)) <br />
+Jiayi Yang, **Lei Deng**, Yukuan Yang, Yuan Xie, Guoqi Li. <br />
+Submitted to *Pattern Recognition* (2020).
 
 ### Transfer Learning in General Lensless Imaging through Scattering Media. ([pdf](https://arxiv.org/pdf/1912.12419.pdf)) <br />
 Yukuan Yang, **Lei Deng** (co-first), Peng Jiao, Yansong Chua, Jing Pei, Cheng Ma, Guoqi Li. <br />
@@ -40,15 +52,7 @@ Jing Pei, **Lei Deng** (co-first), Sen Song, Mingguo Zhao, Youhui Zhang, Shuang 
 Jianyu Xu, Ling Liang, **Lei Deng** (correspondence), Changyun Wen, Yuan Xie, Guoqi Li. <br />
 *Physical Review E* 100, 043309 (2019).
 
-### Effective and Efficient Batch Normalization Using Few Uncorrelated Data for Statistics' Estimation. ([pdf](https://arxiv.org/pdf/1810.10962.pdf)) <br />
-Zhaodong Chen, **Lei Deng** (co-first), Guoqi Li, Jiawei Sun, Xing Hu, Xin Ma, Yuan Xie. <br />
-(Submitted to *IEEE Transactions on Neural Networks and Learning Systems*).
-
-### Training and Inference for Integer-Based Semantic Segmentation Network. ([pdf](https://jiayiyang.info/files/QFCN.pdf)) <br />
-Jiayi Yang, **Lei Deng**, Yukuan Yang, Yuan Xie, Guoqi Li. <br />
-(Submitted to *Pattern Recognition*).
-
-### Target Controllability of Two-layer Multiplex Networks based on Network Flow Theory. ([link](https://ieeexplore.ieee.org/abstract/document/8685693)) <br />
+### Target Controllability of Two-layer Multiplex Networks based on Network Flow Theory. ([link](https://ieeexplore.ieee.org/abstract/doment/8685693)) <br />
 Kun Song, Guoqi Li, Xumin Chen, **Lei Deng**, Gaoxi Xiao, Fei Zeng, Jing Pei. <br />
 *IEEE Transactions on Cybernetics* (2019).
 
@@ -59,10 +63,6 @@ Leitao Gao, Guangshe Zhao, Guoqi Li, Yuming Liu, Jiangshuai Huang, **Lei Deng**.
 ### GXNOR-Net: Training Deep Neural Networks with Ternary Weights and Activations without Full-precision Memory under A Unified Discretization Framework. ([link](https://www.sciencedirect.com/science/article/pii/S0893608018300108)) <br />
 **Lei Deng**, Peng Jiao, Jing Pei, Zhenzhi Wu, Guoqi Li. <br />
 *Neural Networks* 100, 49-58 (2018).
-
-### SemiMap: A Semi-folded Convolution Mapping for Speed-Overhead Balance on Crossbars. ([link](https://ieeexplore.ieee.org/abstract/document/8556049)) <br />
-**Lei Deng**, Ling Liang, Guanrui Wang, Liang Chang, Xing Hu, Xin Ma, Liu Liu, Jing Pei, Guoqi Li, Yuan Xie. <br />
-*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* 39, 117-130 (2020).
 
 ### Fast Object Tracking on a Many-core Neural Network Chip. ([link](https://www.frontiersin.org/articles/10.3389/fnins.2018.00841/abstract)) <br />
 **Lei Deng**, Zhe Zou, Xin Ma, Ling Liang, Guanrui Wang, Xing Hu, Liu Liu, Jing Pei, Guoqi Li, Yuan Xie. <br />
