@@ -8,6 +8,10 @@ author_profile: true
 
 ## Journals
 
+### Comprehensive SNN Compression Using ADMM Optimization and Activity Regularization. ([pdf](https://arxiv.org/pdf/1911.00822.pdf)) <br />
+**Lei Deng**, Yujie Wu, Yifan Hu, Ling Liang, Guoqi Li, Xing Hu, Yufei Ding, Peng Li, Yuan Xie. <br />
+Submitted to *IEEE Transactions on Neural Networks and Learning Systems* (2020).
+
 ### Rethinking the Performance Comparison between SNNs and ANNs. ([link](https://www.sciencedirect.com/science/article/pii/S0893608019302667)) <br />
 **Lei Deng**, Yujie Wu, Xing Hu, Ling Liang, Yufei Ding, Guoqi Li, Guangshe Zhao, Peng Li, Yuan Xie. <br />
 *Neural Networks* 121, 294-307 (2020).
