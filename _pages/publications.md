@@ -16,6 +16,10 @@ Submitted to *IEEE Transactions on Neural Networks and Learning Systems* (2020).
 **Lei Deng**, Yujie Wu, Xing Hu, Ling Liang, Yufei Ding, Guoqi Li, Guangshe Zhao, Peng Li, Yuan Xie. <br />
 *Neural Networks* 121, 294-307 (2020).
 
+### A Comprehensive and Modularized Statistical Framework for Gradient Norm Equality in Deep Neural Networks. ([pdf](https://arxiv.org/pdf/2001.00254.pdf)) <br />
+Zhaodong Chen, **Lei Deng** (co-first), Bangyan Wang, Guoqi Li, Yuan Xie. <br />
+Submitted to *IEEE Transactions on Pattern Analysis and Machine Intelligence* (2020).
+
 ### Training High-Performance and Large-Scale Deep Neural Networks with Full 8-bit Integers. ([pdf](https://arxiv.org/pdf/1909.02384.pdf)) (Accepted) <br />
 Yukuan Yang, Shuang Wu, **Lei Deng** (correspondence), Tianyi Yan, Yuan Xie, Guoqi Li. <br />
 *Neural Networks* (2020).
