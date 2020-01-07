@@ -24,6 +24,10 @@ Submitted to *IEEE Transactions on Pattern Analysis and Machine Intelligence* (2
 Yukuan Yang, Shuang Wu, **Lei Deng** (correspondence), Tianyi Yan, Yuan Xie, Guoqi Li. <br />
 *Neural Networks* (2020).
 
+### Lossless Compression for 3DCNNs Based on Tensor Train Decomposition. ([pdf](https://arxiv.org/pdf/1912.03647.pdf)) <br />
+Dingheng Wang, Guangshe Zhao, Guoqi Li, **Lei Deng**, Yang Wu. <br />
+Sumitted to *International Journal of Computer Vision* (2020).
+
 ### Towards Artificial General Intelligence with Hybrid Tianjic Chip Architecture. ([link](https://www.nature.com/articles/s41586-019-1424-8)) <br />
 Jing Pei, **Lei Deng** (co-first), Sen Song, Mingguo Zhao, Youhui Zhang, Shuang Wu, Guanrui Wang, Zhe Zou, Zhenzhi Wu, Wei He, Feng Chen, Ning Deng, Si Wu, Yu Wang, Yujie Wu, Zheyu Yang, Cheng Ma, Guoqi Li, Wentao Han, Huanglong Li, Huaqiang Wu, Rong Zhao, Yuan Xie, Luping Shi. <br />
 *Nature* 572, 106-111 (2019). (**Cover Paper**)
