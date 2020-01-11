@@ -28,17 +28,21 @@ Submitted to *IEEE Transactions on Pattern Analysis and Machine Intelligence* (2
 Zhaodong Chen, **Lei Deng** (co-first), Guoqi Li, Jiawei Sun, Xing Hu, Xin Ma, Yuan Xie. <br />
 Submitted to *IEEE Transactions on Neural Networks and Learning Systems* (2020).
 
-### Training and Inference for Integer-Based Semantic Segmentation Network. ([pdf](https://jiayiyang.info/files/QFCN.pdf)) <br />
-Jiayi Yang, **Lei Deng**, Yukuan Yang, Yuan Xie, Guoqi Li. <br />
-Submitted to *Pattern Recognition* (2020).
+### Training High-Performance and Large-Scale Deep Neural Networks with Full 8-bit Integers. ([pdf](https://arxiv.org/pdf/1909.02384.pdf)) (Accepted) <br />
+Yukuan Yang, Shuang Wu, **Lei Deng** (correspondence), Tianyi Yan, Yuan Xie, Guoqi Li. <br />
+*Neural Networks* (2020).
 
 ### Transfer Learning in General Lensless Imaging through Scattering Media. ([pdf](https://arxiv.org/pdf/1912.12419.pdf)) <br />
 Yukuan Yang, **Lei Deng** (co-first), Peng Jiao, Yansong Chua, Jing Pei, Cheng Ma, Guoqi Li. <br />
 To Submit (2020).
 
-### Training High-Performance and Large-Scale Deep Neural Networks with Full 8-bit Integers. ([pdf](https://arxiv.org/pdf/1909.02384.pdf)) (Accepted) <br />
-Yukuan Yang, Shuang Wu, **Lei Deng** (correspondence), Tianyi Yan, Yuan Xie, Guoqi Li. <br />
-*Neural Networks* (2020).
+### Exploring Adversarial Attack in Spiking Neural Networks with Spike-Compatible Gradient. ([pdf](https://arxiv.org/pdf/2001.01587.pdf)) <br />
+Ling Liang, Xing Hu, **Lei Deng** (correspondence), Yujie Wu, Guoqi Li, Yufei Ding, Peng Li, Yuan Xie. <br />
+Submitted to *IEEE Transactions on Neural Networks and Learning Systems* (2020).
+
+### Training and Inference for Integer-Based Semantic Segmentation Network. ([pdf](https://jiayiyang.info/files/QFCN.pdf)) <br />
+Jiayi Yang, **Lei Deng**, Yukuan Yang, Yuan Xie, Guoqi Li. <br />
+Submitted to *Pattern Recognition* (2020).
 
 ### Lossless Compression for 3DCNNs Based on Tensor Train Decomposition. ([pdf](https://arxiv.org/pdf/1912.03647.pdf)) <br />
 Dingheng Wang, Guangshe Zhao, Guoqi Li, **Lei Deng**, Yang Wu. <br />
