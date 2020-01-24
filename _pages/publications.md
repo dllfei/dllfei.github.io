@@ -56,7 +56,7 @@ To Submit (2020).
 Jing Pei, **Lei Deng** (co-first), Sen Song, Mingguo Zhao, Youhui Zhang, Shuang Wu, Guanrui Wang, Zhe Zou, Zhenzhi Wu, Wei He, Feng Chen, Ning Deng, Si Wu, Yu Wang, Yujie Wu, Zheyu Yang, Cheng Ma, Guoqi Li, Wentao Han, Huanglong Li, Huaqiang Wu, Rong Zhao, Yuan Xie, Luping Shi. <br />
 *Nature* 572, 106-111 (2019). (**Cover Paper**)
 
-### Towards A Polynomial Algorithm for Optimal Contraction Sequence of Tensor Networks from Trees. ([link](https://journals.aps.org/pre/accepted/1707cKb3N9419b0382488ea82f7a132cf21fbb7e8)) <br />
+### Towards a Polynomial Algorithm for Optimal Contraction Sequence of Tensor Networks from Trees. ([link](https://journals.aps.org/pre/accepted/1707cKb3N9419b0382488ea82f7a132cf21fbb7e8)) <br />
 Jianyu Xu, Ling Liang, **Lei Deng** (correspondence), Changyun Wen, Yuan Xie, Guoqi Li. <br />
 *Physical Review E* 100, 043309 (2019).
 
