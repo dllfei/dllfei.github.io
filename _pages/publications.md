@@ -48,6 +48,10 @@ Submitted to *Pattern Recognition* (2020).
 Yukuan Yang, **Lei Deng** (co-first), Peng Jiao, Yansong Chua, Jing Pei, Cheng Ma, Guoqi Li. <br />
 To Submit (2020).
 
+### Characterizing and Understanding GCNs on GPU. (Accepted) <br />
+Mingyu Yan, Zhaodong Chen, **Lei Deng**, Xiaochun Ye, Zhimin Zhang, Dongrui Fan∗y, Yuan Xie. <br />
+*IEEE Computer Architecture Letters* (2020).
+
 ### Lossless Compression for 3DCNNs Based on Tensor Train Decomposition. ([pdf](https://arxiv.org/pdf/1912.03647.pdf)) <br />
 Dingheng Wang, Guangshe Zhao, Guoqi Li, **Lei Deng**, Yang Wu. <br />
 To Submit (2020).
