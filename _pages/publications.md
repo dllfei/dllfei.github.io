@@ -49,7 +49,7 @@ Yukuan Yang, **Lei Deng** (co-first), Peng Jiao, Yansong Chua, Jing Pei, Cheng M
 To Submit (2020).
 
 ### Characterizing and Understanding GCNs on GPU. (Accepted) <br />
-Mingyu Yan, Zhaodong Chen, **Lei Deng**, Xiaochun Ye, Zhimin Zhang, Dongrui Fan∗y, Yuan Xie. <br />
+Mingyu Yan, Zhaodong Chen, **Lei Deng**, Xiaochun Ye, Zhimin Zhang, Dongrui Fan, Yuan Xie. <br />
 *IEEE Computer Architecture Letters* (2020).
 
 ### Lossless Compression for 3DCNNs Based on Tensor Train Decomposition. ([pdf](https://arxiv.org/pdf/1912.03647.pdf)) <br />
