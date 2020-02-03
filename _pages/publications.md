@@ -48,7 +48,7 @@ Submitted to *Pattern Recognition* (2020).
 Yukuan Yang, **Lei Deng** (co-first), Peng Jiao, Yansong Chua, Jing Pei, Cheng Ma, Guoqi Li. <br />
 To Submit (2020).
 
-### Characterizing and Understanding GCNs on GPU. ([link](https://www.sciencedirect.com/science/article/pii/S0893608019302667)) <br />
+### Characterizing and Understanding GCNs on GPU. ([link](https://ieeexplore.ieee.org/document/8976117)) <br />
 Mingyu Yan, Zhaodong Chen, **Lei Deng**, Xiaochun Ye, Zhimin Zhang, Dongrui Fan, Yuan Xie. <br />
 *IEEE Computer Architecture Letters* (2020).
 
