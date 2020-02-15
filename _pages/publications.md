@@ -8,7 +8,7 @@ author_profile: true
 
 ## Journals
 
-### Tianjic: A Unified and Scalable Chip Bridging Spike-based and Continuous Neural Computation. (Accepted) <br />
+### Tianjic: A Unified and Scalable Chip Bridging Spike-based and Continuous Neural Computation. ([link](https://ieeexplore.ieee.org/document/8998338)) <br />
 **Lei Deng**, Guanrui Wang, Guoqi Li, Shuangchen Li, Ling Liang, Maohua Zhu, Yujie Wu, Zheyu Yang, Zhe Zou, Jing Pei, Zhenzhi Wu, Xing Hu, Yufei Ding, Wei He, Yuan Xie, Luping Shi. <br />
 *IEEE Journal of Solid-State Circuits* (2020).
 
@@ -44,17 +44,13 @@ Submitted to *IEEE Transactions on Neural Networks and Learning Systems* (2020).
 Jiayi Yang, **Lei Deng**, Yukuan Yang, Yuan Xie, Guoqi Li. <br />
 Submitted to *Pattern Recognition* (2020).
 
-### Transfer Learning in General Lensless Imaging through Scattering Media. ([pdf](https://arxiv.org/pdf/1912.12419.pdf)) <br />
-Yukuan Yang, **Lei Deng** (co-first), Peng Jiao, Yansong Chua, Jing Pei, Cheng Ma, Guoqi Li. <br />
-To Submit (2020).
-
 ### Characterizing and Understanding GCNs on GPU. ([link](https://ieeexplore.ieee.org/document/8976117)) <br />
 Mingyu Yan, Zhaodong Chen, **Lei Deng**, Xiaochun Ye, Zhimin Zhang, Dongrui Fan, Yuan Xie. <br />
 *IEEE Computer Architecture Letters* (2020).
 
 ### Lossless Compression for 3DCNNs Based on Tensor Train Decomposition. ([pdf](https://arxiv.org/pdf/1912.03647.pdf)) <br />
 Dingheng Wang, Guangshe Zhao, Guoqi Li, **Lei Deng**, Yang Wu. <br />
-To Submit (2020).
+Submitted to *Neural Networks* (2020).
 
 ### Towards Artificial General Intelligence with Hybrid Tianjic Chip Architecture. ([link](https://www.nature.com/articles/s41586-019-1424-8)) <br />
 Jing Pei, **Lei Deng** (co-first), Sen Song, Mingguo Zhao, Youhui Zhang, Shuang Wu, Guanrui Wang, Zhe Zou, Zhenzhi Wu, Wei He, Feng Chen, Ning Deng, Si Wu, Yu Wang, Yujie Wu, Zheyu Yang, Cheng Ma, Guoqi Li, Wentao Han, Huanglong Li, Huaqiang Wu, Rong Zhao, Yuan Xie, Luping Shi. <br />
@@ -146,6 +142,10 @@ in *IEEE International Symposium on High Performance Computer Architecture (HPCA
 ### DeepSniffer: A DNN Model Extraction Framework based on Learning Architectural Hints. ([pdf](https://arxiv.org/pdf/1903.03916.pdf)) (Accepted) <br />
 Xing Hu, Ling Liang, Shuangchen Li, **Lei Deng**, Pengfei Zuo, Xinfeng Xie, Yu Ji, Yufei Ding, Chang Liu, Timothy Sherwood, Yuan Xie. <br />
 in *International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, Lausanne, Switzerland, March 2020.
+
+### Transfer Learning in General Lensless Imaging through Scattering Media. ([pdf](https://arxiv.org/pdf/1912.12419.pdf)) (Accepted) <br />
+Yukuan Yang, **Lei Deng** (co-first), Peng Jiao, Yansong Chua, Jing Pei, Cheng Ma, Guoqi Li. <br />
+in *IEEE Conference on Industrial Electronics and Applications (ICIEA)* (2020).
 
 ### Dynamic Sparse Graph for Efficient Deep Learning. ([pdf](https://openreview.net/pdf?id=H1goBoR9F7)) <br />
 Liu Liu, **Lei Deng** (co-first), Xing Hu, Maohua Zhu, Guoqi Li, Yufei Ding, Yuan Xie. <br />
