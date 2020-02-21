@@ -143,13 +143,13 @@ Guoqi Li, Wuhua Hu, Gaoxi Xiao, **Lei Deng**, Pei Tang, Jing Pei, Luping Shi. <b
 Mingyu Yan, **Lei Deng**, Xing Hu, Ling Liang, Yujing Feng, Xiaochun Ye, Zhimin Zhang, Dongrui Fan, Yuan Xie. <br />
 in *IEEE International Symposium on High Performance Computer Architecture (HPCA)*, San Diego, USA, February 2020.
 
-### DeepSniffer: A DNN Model Extraction Framework based on Learning Architectural Hints. ([pdf](https://arxiv.org/pdf/1903.03916.pdf)) (Accepted) <br />
-Xing Hu, Ling Liang, Shuangchen Li, **Lei Deng**, Pengfei Zuo, Xinfeng Xie, Yu Ji, Yufei Ding, Chang Liu, Timothy Sherwood, Yuan Xie. <br />
-in *International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, Lausanne, Switzerland, March 2020.
-
 ### Transfer Learning in General Lensless Imaging through Scattering Media. ([pdf](https://arxiv.org/pdf/1912.12419.pdf)) (Accepted) <br />
 Yukuan Yang, **Lei Deng**, Peng Jiao, Yansong Chua, Jing Pei, Cheng Ma, Guoqi Li. <br />
 in *IEEE Conference on Industrial Electronics and Applications (ICIEA)* (2020).
+
+### DeepSniffer: A DNN Model Extraction Framework based on Learning Architectural Hints. ([pdf](https://arxiv.org/pdf/1903.03916.pdf)) (Accepted) <br />
+Xing Hu, Ling Liang, Shuangchen Li, **Lei Deng**, Pengfei Zuo, Xinfeng Xie, Yu Ji, Yufei Ding, Chang Liu, Timothy Sherwood, Yuan Xie. <br />
+in *International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, Lausanne, Switzerland, March 2020.
 
 ### Dynamic Sparse Graph for Efficient Deep Learning. ([pdf](https://openreview.net/pdf?id=H1goBoR9F7)) <br />
 Liu Liu, **Lei Deng** (co-first), Xing Hu, Maohua Zhu, Guoqi Li, Yufei Ding, Yuan Xie. <br />
