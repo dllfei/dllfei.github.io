@@ -52,7 +52,7 @@ Submitted to *Pattern Recognition* (2020).
 Mingyu Yan, Zhaodong Chen, **Lei Deng**, Xiaochun Ye, Zhimin Zhang, Dongrui Fan, Yuan Xie. <br />
 *IEEE Computer Architecture Letters* (2020).
 
-### Lossless Compression for 3DCNNs Based on Tensor Train Decomposition. ([pdf](https://arxiv.org/pdf/1912.03647.pdf)) <br />
+### Compressing 3DCNNs Based on Tensor Train Decomposition. ([pdf](https://arxiv.org/pdf/1912.03647.pdf)) <br />
 Dingheng Wang, Guangshe Zhao, Guoqi Li, **Lei Deng**, Yang Wu. <br />
 Submitted to *Neural Networks* (2020).
 
