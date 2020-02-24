@@ -28,6 +28,10 @@ Submitted to *IEEE Transactions on Neural Networks and Learning Systems* (2020).
 **Lei Deng**, Ling Liang, Guanrui Wang, Liang Chang, Xing Hu, Xin Ma, Liu Liu, Jing Pei, Guoqi Li, Yuan Xie. <br />
 *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* 39, 117-130 (2020).
 
+### Effective and Efficient Batch Normalization Using Few Uncorrelated Data for Statistics' Estimation. ([pdf](https://arxiv.org/pdf/1810.10962.pdf)) (Accept) <br />
+Zhaodong Chen, **Lei Deng** (co-first), Guoqi Li, Jiawei Sun, Xing Hu, Xin Ma, Yuan Xie. <br />
+*IEEE Transactions on Neural Networks and Learning Systems* (2020).
+
 ### Training High-Performance and Large-Scale Deep Neural Networks with Full 8-bit Integers. ([link](https://www.sciencedirect.com/science/article/abs/pii/S0893608019304290#!)) <br />
 Yukuan Yang, **Lei Deng** (co-first), Shuang Wu, Tianyi Yan, Yuan Xie, Guoqi Li. <br />
 *Neural Networks* (2020).
@@ -35,10 +39,6 @@ Yukuan Yang, **Lei Deng** (co-first), Shuang Wu, Tianyi Yan, Yuan Xie, Guoqi Li.
 ### A Comprehensive and Modularized Statistical Framework for Gradient Norm Equality in Deep Neural Networks. ([pdf](https://arxiv.org/pdf/2001.00254.pdf)) <br />
 Zhaodong Chen, **Lei Deng** (co-first), Bangyan Wang, Guoqi Li, Yuan Xie. <br />
 Submitted to *IEEE Transactions on Pattern Analysis and Machine Intelligence* (2020).
-
-### Effective and Efficient Batch Normalization Using Few Uncorrelated Data for Statistics' Estimation. ([pdf](https://arxiv.org/pdf/1810.10962.pdf)) (Accept) <br />
-Zhaodong Chen, **Lei Deng** (co-first), Guoqi Li, Jiawei Sun, Xing Hu, Xin Ma, Yuan Xie. <br />
-*IEEE Transactions on Neural Networks and Learning Systems* (2020).
 
 ### Exploring Adversarial Attack in Spiking Neural Networks with Spike-Compatible Gradient. ([pdf](https://arxiv.org/pdf/2001.01587.pdf)) <br />
 Ling Liang, Xing Hu, **Lei Deng** (correspondence), Yujie Wu, Guoqi Li, Yufei Ding, Peng Li, Yuan Xie. <br />
