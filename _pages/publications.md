@@ -8,7 +8,7 @@ author_profile: true
 
 ## Journals
 
-### Algorithm Compression and Hardware Acceleration for Neural Networks: A Comprehensive Survey. (Accepted) <br />
+### Model Compression and Hardware Acceleration for Neural Networks: A Comprehensive Survey. (Accepted) <br />
 **Lei Deng**, Guoqi Li, Song Han, Luping Shi, Yuan Xie. <br />
 *Proceedings of the IEEE* (2020).
 
@@ -34,7 +34,7 @@ Zhaodong Chen, **Lei Deng** (co-first), Guoqi Li, Jiawei Sun, Xing Hu, Xin Ma, Y
 
 ### Training High-Performance and Large-Scale Deep Neural Networks with Full 8-bit Integers. ([link](https://www.sciencedirect.com/science/article/abs/pii/S0893608019304290#!)) <br />
 Yukuan Yang, **Lei Deng** (co-first), Shuang Wu, Tianyi Yan, Yuan Xie, Guoqi Li. <br />
-*Neural Networks* (2020).
+*Neural Networks* 125, 70-82 (2020).
 
 ### A Comprehensive and Modularized Statistical Framework for Gradient Norm Equality in Deep Neural Networks. ([pdf](https://arxiv.org/pdf/2001.00254.pdf)) <br />
 Zhaodong Chen, **Lei Deng** (co-first), Bangyan Wang, Guoqi Li, Yuan Xie. <br />
