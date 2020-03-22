@@ -44,7 +44,11 @@ Submitted to *IEEE Transactions on Pattern Analysis and Machine Intelligence* (2
 Ling Liang, Xing Hu, **Lei Deng** (correspondence), Yujie Wu, Guoqi Li, Yufei Ding, Peng Li, Yuan Xie. <br />
 Submitted to *IEEE Transactions on Neural Networks and Learning Systems* (2020).
 
-### Training and Inference for Integer-Based Semantic Segmentation Network. ([pdf](https://jiayiyang.info/files/QFCN.pdf)) <br />
+### Editorial: SNN Learning, Benchmarking, Programming, and Executing. ([link](https://www.frontiersin.org/articles/10.3389/fnins.2020.00276/full)) <br />
+Guoqi Li, **Lei Deng**, Yam Song (Yansong) Chua, Peng Li, Emre O. Neftci, Haizhou Li. <br />
+*Frontiers in Neuroscience* (2020).
+
+### Training and Inference for Integer-Based Semantic Segmentation Network. ([pdEditorial: SNN Learning, Benchmarking, Programming, and Executingf](https://jiayiyang.info/files/QFCN.pdf)) <br />
 Jiayi Yang, **Lei Deng**, Yukuan Yang, Yuan Xie, Guoqi Li. <br />
 Submitted to *Pattern Recognition* (2020).
 
