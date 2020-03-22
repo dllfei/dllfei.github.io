@@ -48,7 +48,7 @@ Submitted to *IEEE Transactions on Neural Networks and Learning Systems* (2020).
 Guoqi Li, **Lei Deng**, Yam Song (Yansong) Chua, Peng Li, Emre O. Neftci, Haizhou Li. <br />
 *Frontiers in Neuroscience* (2020).
 
-### Training and Inference for Integer-Based Semantic Segmentation Network. ([pdEditorial: SNN Learning, Benchmarking, Programming, and Executingf](https://jiayiyang.info/files/QFCN.pdf)) <br />
+### Training and Inference for Integer-Based Semantic Segmentation Network. ([pdf](https://jiayiyang.info/files/QFCN.pdf)) <br />
 Jiayi Yang, **Lei Deng**, Yukuan Yang, Yuan Xie, Guoqi Li. <br />
 Submitted to *Pattern Recognition* (2020).
 
