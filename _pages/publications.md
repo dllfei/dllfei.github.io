@@ -8,7 +8,7 @@ author_profile: true
 
 ## Journals
 
-### Model Compression and Hardware Acceleration for Neural Networks: A Comprehensive Survey. (Accepted) <br />
+### Model Compression and Hardware Acceleration for Neural Networks: A Comprehensive Survey. ([link](https://ieeexplore.ieee.org/document/9043731)) <br />
 **Lei Deng**, Guoqi Li, Song Han, Luping Shi, Yuan Xie. <br />
 *Proceedings of the IEEE* (2020).
 
@@ -147,7 +147,7 @@ in *IEEE International Symposium on High Performance Computer Architecture (HPCA
 Yukuan Yang, **Lei Deng**, Peng Jiao, Yansong Chua, Jing Pei, Cheng Ma, Guoqi Li. <br />
 in *IEEE Conference on Industrial Electronics and Applications (ICIEA)* (2020).
 
-### DeepSniffer: A DNN Model Extraction Framework based on Learning Architectural Hints. ([pdf](https://arxiv.org/pdf/1903.03916.pdf)) (Accepted) <br />
+### DeepSniffer: A DNN Model Extraction Framework based on Learning Architectural Hints. ([link](https://dl.acm.org/doi/abs/10.1145/3373376.3378460)) <br />
 Xing Hu, Ling Liang, Shuangchen Li, **Lei Deng**, Pengfei Zuo, Xinfeng Xie, Yu Ji, Yufei Ding, Chang Liu, Timothy Sherwood, Yuan Xie. <br />
 in *International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, Lausanne, Switzerland, March 2020.
 
