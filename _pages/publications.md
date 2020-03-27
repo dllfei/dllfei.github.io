@@ -28,7 +28,7 @@ Submitted to *IEEE Transactions on Neural Networks and Learning Systems* (2020).
 **Lei Deng**, Ling Liang, Guanrui Wang, Liang Chang, Xing Hu, Xin Ma, Liu Liu, Jing Pei, Guoqi Li, Yuan Xie. <br />
 *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* 39, 117-130 (2020).
 
-### Effective and Efficient Batch Normalization Using A Few Uncorrelated Data for Statistics Estimation. ([pdf](https://arxiv.org/pdf/1810.10962.pdf)) (Accepted) <br />
+### Effective and Efficient Batch Normalization Using A Few Uncorrelated Data for Statistics Estimation. ([link](https://ieeexplore.ieee.org/document/9046854)) <br />
 Zhaodong Chen, **Lei Deng** (co-first), Guoqi Li, Jiawei Sun, Xing Hu, Xin Ma, Yuan Xie. <br />
 *IEEE Transactions on Neural Networks and Learning Systems* (2020).
 
