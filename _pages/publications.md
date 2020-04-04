@@ -143,7 +143,7 @@ Guoqi Li, Wuhua Hu, Gaoxi Xiao, **Lei Deng**, Pei Tang, Jing Pei, Luping Shi. <b
 
 ## Conferences
 
-### HyGCN: A GCN Accelerator with Hybrid Architecture. ([pdf](https://arxiv.org/pdf/2001.02514.pdf)) (Accepted) <br />
+### HyGCN: A GCN Accelerator with Hybrid Architecture. ([pdf](https://arxiv.org/pdf/2001.02514.pdf)) <br />
 Mingyu Yan, **Lei Deng**, Xing Hu, Ling Liang, Yujing Feng, Xiaochun Ye, Zhimin Zhang, Dongrui Fan, Yuan Xie. <br />
 in *IEEE International Symposium on High Performance Computer Architecture (HPCA)*, San Diego, USA, February 2020.
 
