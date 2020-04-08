@@ -46,7 +46,7 @@ Submitted to *IEEE Transactions on Neural Networks and Learning Systems* (2020).
 
 ### Editorial: SNN Learning, Benchmarking, Programming, and Executing. ([link](https://www.frontiersin.org/articles/10.3389/fnins.2020.00276/full)) <br />
 Guoqi Li, **Lei Deng**, Yam Song (Yansong) Chua, Peng Li, Emre O. Neftci, Haizhou Li. <br />
-*Frontiers in Neuroscience* (2020).
+*Frontiers in Neuroscience* 14, 276 (2020).
 
 ### Training and Inference for Integer-Based Semantic Segmentation Network. ([pdf](https://jiayiyang.info/files/QFCN.pdf)) <br />
 Jiayi Yang, **Lei Deng**, Yukuan Yang, Yuan Xie, Guoqi Li. <br />
@@ -54,7 +54,7 @@ Submitted to *Pattern Recognition* (2020).
 
 ### Characterizing and Understanding GCNs on GPU. ([link](https://ieeexplore.ieee.org/document/8976117)) <br />
 Mingyu Yan, Zhaodong Chen, **Lei Deng**, Xiaochun Ye, Zhimin Zhang, Dongrui Fan, Yuan Xie. <br />
-*IEEE Computer Architecture Letters* (2020).
+*IEEE Computer Architecture Letters* 19, 22-25 (2020).
 
 ### Compressing 3DCNNs Based on Tensor Train Decomposition. ([pdf](https://arxiv.org/pdf/1912.03647.pdf)) <br />
 Dingheng Wang, Guangshe Zhao, Guoqi Li, **Lei Deng**, Yang Wu. <br />
