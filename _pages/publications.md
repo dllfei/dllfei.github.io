@@ -153,7 +153,7 @@ in *IEEE International Symposium on High Performance Computer Architecture (HPCA
 
 ### Transfer Learning in General Lensless Imaging through Scattering Media. ([pdf](https://arxiv.org/pdf/1912.12419.pdf)) (Accepted) <br />
 Yukuan Yang, **Lei Deng**, Peng Jiao, Yansong Chua, Jing Pei, Cheng Ma, Guoqi Li. <br />
-in *IEEE Conference on Industrial Electronics and Applications (ICIEA)* (2020).
+in *IEEE Conference on Industrial Electronics and Applications (ICIEA)*, Kristiansand, Norway, June 2020.
 
 ### DeepSniffer: A DNN Model Extraction Framework based on Learning Architectural Hints. ([link](https://dl.acm.org/doi/abs/10.1145/3373376.3378460)) <br />
 Xing Hu, Ling Liang, Shuangchen Li, **Lei Deng**, Pengfei Zuo, Xinfeng Xie, Yu Ji, Yufei Ding, Chang Liu, Timothy Sherwood, Yuan Xie. <br />
