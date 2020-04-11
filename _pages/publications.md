@@ -60,6 +60,10 @@ Mingyu Yan, Zhaodong Chen, **Lei Deng**, Xiaochun Ye, Zhimin Zhang, Dongrui Fan,
 Dingheng Wang, Guangshe Zhao, Guoqi Li, **Lei Deng**, Yang Wu. <br />
 Submitted to *Neural Networks* (2020).
 
+### A Deadlock-Free Physical Mapping Method on the Many-core Neural Network Chip. ([link](https://arxiv.org/pdf/1912.03647.pdf)) <br />
+Cheng Ma, Qi Zhao, Guoqi Li, **Lei Deng**, Guanrui Wang. <br />
+*Neurocomputing* (2020).
+
 ### Towards Artificial General Intelligence with Hybrid Tianjic Chip Architecture. ([link](https://www.nature.com/articles/s41586-019-1424-8)) <br />
 Jing Pei, **Lei Deng** (co-first), Sen Song, Mingguo Zhao, Youhui Zhang, Shuang Wu, Guanrui Wang, Zhe Zou, Zhenzhi Wu, Wei He, Feng Chen, Ning Deng, Si Wu, Yu Wang, Yujie Wu, Zheyu Yang, Cheng Ma, Guoqi Li, Wentao Han, Huanglong Li, Huaqiang Wu, Rong Zhao, Yuan Xie, Luping Shi. <br />
 *Nature* 572, 106-111 (2019). (**Cover Paper**)
