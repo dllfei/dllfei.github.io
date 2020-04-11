@@ -60,7 +60,7 @@ Mingyu Yan, Zhaodong Chen, **Lei Deng**, Xiaochun Ye, Zhimin Zhang, Dongrui Fan,
 Dingheng Wang, Guangshe Zhao, Guoqi Li, **Lei Deng**, Yang Wu. <br />
 Submitted to *Neural Networks* (2020).
 
-### A Deadlock-Free Physical Mapping Method on the Many-core Neural Network Chip. ([link](https://arxiv.org/pdf/1912.03647.pdf)) <br />
+### A Deadlock-Free Physical Mapping Method on the Many-core Neural Network Chip. ([link](https://www.sciencedirect.com/science/article/abs/pii/S0925231220304653)) <br />
 Cheng Ma, Qi Zhao, Guoqi Li, **Lei Deng**, Guanrui Wang. <br />
 *Neurocomputing* (2020).
 
