@@ -10,7 +10,7 @@ author_profile: true
 
 ### Model Compression and Hardware Acceleration for Neural Networks: A Comprehensive Survey. ([link](https://ieeexplore.ieee.org/document/9043731)) <br />
 **Lei Deng**, Guoqi Li, Song Han, Luping Shi, Yuan Xie. <br />
-*Proceedings of the IEEE* (2020).
+*Proceedings of the IEEE* 108, 485-532 (2020).
 
 ### Tianjic: A Unified and Scalable Chip Bridging Spike-based and Continuous Neural Computation. ([link](https://ieeexplore.ieee.org/document/8998338)) <br />
 **Lei Deng**, Guanrui Wang, Guoqi Li, Shuangchen Li, Ling Liang, Maohua Zhu, Yujie Wu, Zheyu Yang, Zhe Zou, Jing Pei, Zhenzhi Wu, Xing Hu, Yufei Ding, Wei He, Yuan Xie, Luping Shi. <br />
