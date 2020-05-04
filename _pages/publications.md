@@ -8,6 +8,10 @@ author_profile: true
 
 ## Journals
 
+### Practical Deep Neural Network Attacks through Memory Trojaning. (Accepted) <br />
+Xing Hu, Yang Zhao, **Lei Deng** (correspondence), Ling Liang, Pengfei Zuo, Jing Ye, Yingyan Lin, Yuan Xie. <br />
+*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (2020).
+
 ### Model Compression and Hardware Acceleration for Neural Networks: A Comprehensive Survey. ([link](https://ieeexplore.ieee.org/document/9043731)) <br />
 **Lei Deng**, Guoqi Li, Song Han, Luping Shi, Yuan Xie. <br />
 *Proceedings of the IEEE* 108, 485-532 (2020).
