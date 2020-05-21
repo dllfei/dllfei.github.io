@@ -8,7 +8,7 @@ author_profile: true
 
 ## Journals
 
-### Practical Deep Neural Network Attacks through Memory Trojaning. (Accepted) <br />
+### Practical Deep Neural Network Attacks through Memory Trojaning. ([link](https://ieeexplore.ieee.org/document/9096397)) <br />
 Xing Hu, Yang Zhao, **Lei Deng** (correspondence), Ling Liang, Pengfei Zuo, Jing Ye, Yingyan Lin, Yuan Xie. <br />
 *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (2020).
 
