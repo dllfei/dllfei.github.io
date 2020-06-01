@@ -157,7 +157,7 @@ Guoqi Li, Wuhua Hu, Gaoxi Xiao, **Lei Deng**, Pei Tang, Jing Pei, Luping Shi. <b
 
 ### Boosting Deep Neural Network Efficiency with Dual-Module Inference. (Accepted)) <br />
 Liu Liu, **Lei Deng**, Zhaodong Chen, Yuke Wang, Shuangchen Li, Jingwei Zhang, Yihua Yang, Zhenyu Gu, Yufei Ding, Yuan Xie. <br />
-in *International Conference on Machine Learning (ICML)*, San Diego, USA, February 2020.
+in *International Conference on Machine Learning (ICML)*, Online, July 2020.
 
 ### HyGCN: A GCN Accelerator with Hybrid Architecture. ([pdf](https://arxiv.org/pdf/2001.02514.pdf)) <br />
 Mingyu Yan, **Lei Deng**, Xing Hu, Ling Liang, Yujing Feng, Xiaochun Ye, Zhimin Zhang, Dongrui Fan, Yuan Xie. <br />
