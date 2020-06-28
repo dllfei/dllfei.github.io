@@ -58,7 +58,7 @@ Guoqi Li, **Lei Deng** (co-first), Yansong Chua, Peng Li, Emre O. Neftci, Haizho
 
 ### Training and Inference for Integer-Based Semantic Segmentation Network. ([pdf](https://jiayiyang.info/files/QFCN.pdf)) <br />
 Jiayi Yang, **Lei Deng**, Yukuan Yang, Yuan Xie, Guoqi Li. <br />
-Submitted to *Pattern Recognition* (2020).
+Submitted to *Neurocomputing* (2020).
 
 ### Characterizing and Understanding GCNs on GPU. ([link](https://ieeexplore.ieee.org/document/8976117)) <br />
 Mingyu Yan, Zhaodong Chen, **Lei Deng**, Xiaochun Ye, Zhimin Zhang, Dongrui Fan, Yuan Xie. <br />
