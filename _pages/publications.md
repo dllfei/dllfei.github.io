@@ -173,7 +173,7 @@ in *International Conference on Machine Learning (ICML)*, Online, July 2020.
 
 ### HyGCN: A GCN Accelerator with Hybrid Architecture. ([link](https://ieeexplore.ieee.org/abstract/document/9065592)) <br />
 Mingyu Yan, **Lei Deng**, Xing Hu, Ling Liang, Yujing Feng, Xiaochun Ye, Zhimin Zhang, Dongrui Fan, Yuan Xie. <br />
-in *IEEE International Symposium on High Performance Computer Architecture (HPCA)*, San Diego, USA, February 2020.
+in *IEEE International Symposium on High Performance Computer Architecture (HPCA)*, San Diego, USA, February 2020. (acceptance rate: 19.4%)
 
 ### Transfer Learning in General Lensless Imaging through Scattering Media. ([pdf](https://arxiv.org/pdf/1912.12419.pdf)) (Accepted) <br />
 Yukuan Yang, **Lei Deng**, Peng Jiao, Yansong Chua, Jing Pei, Cheng Ma, Guoqi Li. <br />
