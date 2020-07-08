@@ -171,7 +171,7 @@ in *IEEE/ACM International Symposium on Microarchitecture (MICRO)*, Athens, Gree
 Liu Liu, **Lei Deng** (correspondence), Zhaodong Chen, Yuke Wang, Shuangchen Li, Jingwei Zhang, Yihua Yang, Zhenyu Gu, Yufei Ding, Yuan Xie. <br />
 in *International Conference on Machine Learning (ICML)*, Online, July 2020.
 
-### HyGCN: A GCN Accelerator with Hybrid Architecture. ([pdf](https://arxiv.org/pdf/2001.02514.pdf)) <br />
+### HyGCN: A GCN Accelerator with Hybrid Architecture. ([link](https://ieeexplore.ieee.org/abstract/document/9065592)) <br />
 Mingyu Yan, **Lei Deng**, Xing Hu, Ling Liang, Yujing Feng, Xiaochun Ye, Zhimin Zhang, Dongrui Fan, Yuan Xie. <br />
 in *IEEE International Symposium on High Performance Computer Architecture (HPCA)*, San Diego, USA, February 2020.
 
