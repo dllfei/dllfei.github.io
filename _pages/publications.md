@@ -169,7 +169,7 @@ in *IEEE/ACM International Symposium on Microarchitecture (MICRO)*, Athens, Gree
 
 ### Boosting Deep Neural Network Efficiency with Dual-Module Inference. (Accepted)) <br />
 Liu Liu, **Lei Deng** (correspondence), Zhaodong Chen, Yuke Wang, Shuangchen Li, Jingwei Zhang, Yihua Yang, Zhenyu Gu, Yufei Ding, Yuan Xie. <br />
-in *International Conference on Machine Learning (ICML)*, Online, July 2020.
+in *International Conference on Machine Learning (ICML)*, Online, July 2020. (acceptance rate: 21.8%)
 
 ### HyGCN: A GCN Accelerator with Hybrid Architecture. ([link](https://ieeexplore.ieee.org/abstract/document/9065592)) <br />
 Mingyu Yan, **Lei Deng**, Xing Hu, Ling Liang, Yujing Feng, Xiaochun Ye, Zhimin Zhang, Dongrui Fan, Yuan Xie. <br />
