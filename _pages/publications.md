@@ -165,7 +165,7 @@ Guoqi Li, Wuhua Hu, Gaoxi Xiao, **Lei Deng**, Pei Tang, Jing Pei, Luping Shi. <b
 
 ### DUET: Boosting Deep Neural Network Efficiency on Dual-Module Architecture. (Accepted)) <br />
 Liu Liu, Zheng Qu, **Lei Deng**, Fengbin Tu, Shuangchen Li, Xing Hu, Zhenyu Gu, Yufei Ding, Yuan Xie. <br />
-in *IEEE/ACM International Symposium on Microarchitecture (MICRO)*, Online, July 2020. (acceptance rate: 19.4%)
+in *IEEE/ACM International Symposium on Microarchitecture (MICRO)*, Athens, Greece, October 2020. (acceptance rate: 19.4%)
 
 ### Boosting Deep Neural Network Efficiency with Dual-Module Inference. (Accepted)) <br />
 Liu Liu, **Lei Deng** (correspondence), Zhaodong Chen, Yuke Wang, Shuangchen Li, Jingwei Zhang, Yihua Yang, Zhenyu Gu, Yufei Ding, Yuan Xie. <br />
