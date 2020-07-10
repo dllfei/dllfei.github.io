@@ -68,6 +68,10 @@ Mingyu Yan, Zhaodong Chen, **Lei Deng**, Xiaochun Ye, Zhimin Zhang, Dongrui Fan,
 Dingheng Wang, Guangshe Zhao, Guoqi Li, **Lei Deng**, Yang Wu. <br />
 Submitted to *Neural Networks* (2020).
 
+### Hybrid Tensor Decomposition in Neural Network Compression. ([pdf](https://arxiv.org/pdf/2006.15938.pdf)) <br />
+Bijiao Wu, Dingheng Wang, Guangshe Zhao, **Lei Deng**, Guoqi Li. <br />
+Submitted to *Neural Networks* (2020).
+
 ### A Deadlock-Free Physical Mapping Method on the Many-core Neural Network Chip. ([link](https://www.sciencedirect.com/science/article/abs/pii/S0925231220304653)) <br />
 Cheng Ma, Qi Zhao, Guoqi Li, **Lei Deng**, Guanrui Wang. <br />
 *Neurocomputing* (2020).
