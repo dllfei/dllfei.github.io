@@ -46,7 +46,7 @@ Yukuan Yang, **Lei Deng** (co-first), Shuang Wu, Tianyi Yan, Yuan Xie, Guoqi Li.
 
 ### A Comprehensive and Modularized Statistical Framework for Gradient Norm Equality in Deep Neural Networks. ([pdf](https://arxiv.org/pdf/2001.00254.pdf)) <br />
 Zhaodong Chen, **Lei Deng** (co-first), Bangyan Wang, Guoqi Li, Yuan Xie. <br />
-Submitted to *IEEE Transactions on Pattern Analysis and Machine Intelligence* (2020).
+*IEEE Transactions on Pattern Analysis and Machine Intelligence* (2020).
 
 ### Exploring Adversarial Attack in Spiking Neural Networks with Spike-Compatible Gradient. ([pdf](https://arxiv.org/pdf/2001.01587.pdf)) <br />
 Ling Liang, Xing Hu, **Lei Deng** (correspondence), Yujie Wu, Guoqi Li, Yufei Ding, Peng Li, Yuan Xie. <br />
