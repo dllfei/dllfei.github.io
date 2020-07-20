@@ -171,7 +171,7 @@ Guoqi Li, Wuhua Hu, Gaoxi Xiao, **Lei Deng**, Pei Tang, Jing Pei, Luping Shi. <b
 Liu Liu, Zheng Qu, **Lei Deng**, Fengbin Tu, Shuangchen Li, Xing Hu, Zhenyu Gu, Yufei Ding, Yuan Xie. <br />
 in *IEEE/ACM International Symposium on Microarchitecture (MICRO)*, Athens, Greece, October 2020. (acceptance rate: 19.4%)
 
-### Boosting Deep Neural Network Efficiency with Dual-Module Inference. (Accepted)) <br />
+### Boosting Deep Neural Network Efficiency with Dual-Module Inference. ([pdf](https://proceedings.icml.cc/static/paper_files/icml/2020/5569-Paper.pdf)) <br />
 Liu Liu, **Lei Deng** (correspondence), Zhaodong Chen, Yuke Wang, Shuangchen Li, Jingwei Zhang, Yihua Yang, Zhenyu Gu, Yufei Ding, Yuan Xie. <br />
 in *International Conference on Machine Learning (ICML)*, Online, July 2020. (acceptance rate: 21.8%)
 
