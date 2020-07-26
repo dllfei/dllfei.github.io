@@ -18,7 +18,7 @@ Xing Hu, Yang Zhao, **Lei Deng** (correspondence), Ling Liang, Pengfei Zuo, Jing
 
 ### Tianjic: A Unified and Scalable Chip Bridging Spike-based and Continuous Neural Computation. ([link](https://ieeexplore.ieee.org/document/8998338)) <br />
 **Lei Deng**, Guanrui Wang, Guoqi Li, Shuangchen Li, Ling Liang, Maohua Zhu, Yujie Wu, Zheyu Yang, Zhe Zou, Jing Pei, Zhenzhi Wu, Xing Hu, Yufei Ding, Wei He, Yuan Xie, Luping Shi. <br />
-*IEEE Journal of Solid-State Circuits* (2020).
+*IEEE Journal of Solid-State Circuits* 55, 2228-2246 (2020).
 
 ### Comprehensive SNN Compression Using ADMM Optimization and Activity Regularization. ([pdf](https://arxiv.org/pdf/1911.00822.pdf)) <br />
 **Lei Deng**, Yujie Wu, Yifan Hu, Ling Liang, Guoqi Li, Xing Hu, Yufei Ding, Peng Li, Yuan Xie. <br />
