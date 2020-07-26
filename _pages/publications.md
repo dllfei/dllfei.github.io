@@ -66,7 +66,7 @@ Mingyu Yan, Zhaodong Chen, **Lei Deng**, Xiaochun Ye, Zhimin Zhang, Dongrui Fan,
 
 ### Compressing 3DCNNs Based on Tensor Train Decomposition. ([pdf](https://arxiv.org/pdf/1912.03647.pdf)) <br />
 Dingheng Wang, Guangshe Zhao, Guoqi Li, **Lei Deng**, Yang Wu. <br />
-Submitted to *Neural Networks* (2020).
+*Neural Networks* (2020).
 
 ### Hybrid Tensor Decomposition in Neural Network Compression. ([pdf](https://arxiv.org/pdf/2006.15938.pdf)) <br />
 Bijiao Wu, Dingheng Wang, Guangshe Zhao, **Lei Deng**, Guoqi Li. <br />
