@@ -173,7 +173,7 @@ in *IEEE/ACM International Symposium on Microarchitecture (MICRO)*, Athens, Gree
 
 ### Boosting Deep Neural Network Efficiency with Dual-Module Inference. ([pdf](https://proceedings.icml.cc/static/paper_files/icml/2020/5569-Paper.pdf)) <br />
 Liu Liu, **Lei Deng** (correspondence), Zhaodong Chen, Yuke Wang, Shuangchen Li, Jingwei Zhang, Yihua Yang, Zhenyu Gu, Yufei Ding, Yuan Xie. <br />
-in *International Conference on Machine Learning (ICML)*, Online, July 2020. (acceptance rate: 21.8%)
+in *International Conference on Machine Learning (ICML)*, Virtual Event, July 2020. (acceptance rate: 21.8%)
 
 ### HyGCN: A GCN Accelerator with Hybrid Architecture. ([link](https://ieeexplore.ieee.org/abstract/document/9065592)) <br />
 Mingyu Yan, **Lei Deng**, Xing Hu, Ling Liang, Yujing Feng, Xiaochun Ye, Zhimin Zhang, Dongrui Fan, Yuan Xie. <br />
@@ -186,6 +186,10 @@ in *IEEE Conference on Industrial Electronics and Applications (ICIEA)*, Kristia
 ### DeepSniffer: A DNN Model Extraction Framework based on Learning Architectural Hints. ([link](https://dl.acm.org/doi/abs/10.1145/3373376.3378460)) <br />
 Xing Hu, Ling Liang, Shuangchen Li, **Lei Deng**, Pengfei Zuo, Xinfeng Xie, Yu Ji, Yufei Ding, Chang Liu, Timothy Sherwood, Yuan Xie. <br />
 in *International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, Lausanne, Switzerland, March 2020.
+
+### fuseGNN: Accelerating Graph Convolutional Neural Network Training on GPGPU. (Accepted) <br />
+Zhaodong Chen, Mingyu Yan, Maohua Zhu, **Lei Deng**, Guoqi Li, Shuangchen Li, Yuan Xie. <br />
+in *International Conference on Computer-Aided Design (ICCAD)*, Virtual Event, USA, November 2020.
 
 ### Dynamic Sparse Graph for Efficient Deep Learning. ([pdf](https://openreview.net/pdf?id=H1goBoR9F7)) <br />
 Liu Liu, **Lei Deng** (co-first), Xing Hu, Maohua Zhu, Guoqi Li, Yufei Ding, Yuan Xie. <br />
