@@ -8,10 +8,6 @@ author_profile: true
 
 ## Journals
 
-### Practical Deep Neural Network Attacks through Memory Trojaning. ([link](https://ieeexplore.ieee.org/document/9096397)) <br />
-Xing Hu, Yang Zhao, **Lei Deng** (correspondence), Ling Liang, Pengfei Zuo, Jing Ye, Yingyan Lin, Yuan Xie. <br />
-*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (2020).
-
 ### Model Compression and Hardware Acceleration for Neural Networks: A Comprehensive Survey. ([link](https://ieeexplore.ieee.org/document/9043731)) <br />
 **Lei Deng**, Guoqi Li, Song Han, Luping Shi, Yuan Xie. <br />
 *Proceedings of the IEEE* 108, 485-532 (2020).
@@ -24,10 +20,6 @@ Xing Hu, Yang Zhao, **Lei Deng** (correspondence), Ling Liang, Pengfei Zuo, Jing
 **Lei Deng**, Yujie Wu, Yifan Hu, Ling Liang, Guoqi Li, Xing Hu, Yufei Ding, Peng Li, Yuan Xie. <br />
 Submitted to *IEEE Transactions on Neural Networks and Learning Systems* (2020).
 
-### Comparing SNNs and RNNs on Neuromorphic Vision Datasets: Similarities and Differences. ([pdf](https://arxiv.org/pdf/2005.02183.pdf)) <br />
-Weihua He, Yujie Wu, **Lei Deng** (correspondence), Guoqi Li, Haoyu Wang, Yang Tian, Wei Ding, Wenhui Wang, Yuan Xie. <br />
-*Neural Networks* (2020).
-
 ### Rethinking the Performance Comparison between SNNs and ANNs. ([link](https://www.sciencedirect.com/science/article/pii/S0893608019302667)) <br />
 **Lei Deng**, Yujie Wu, Xing Hu, Ling Liang, Yufei Ding, Guoqi Li, Guangshe Zhao, Peng Li, Yuan Xie. <br />
 *Neural Networks* 121, 294-307 (2020).
@@ -35,6 +27,18 @@ Weihua He, Yujie Wu, **Lei Deng** (correspondence), Guoqi Li, Haoyu Wang, Yang T
 ### SemiMap: A Semi-folded Convolution Mapping for Speed-Overhead Balance on Crossbars. ([link](https://ieeexplore.ieee.org/abstract/document/8556049)) <br />
 **Lei Deng**, Ling Liang, Guanrui Wang, Liang Chang, Xing Hu, Xin Ma, Liu Liu, Jing Pei, Guoqi Li, Yuan Xie. <br />
 *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* 39, 117-130 (2020).
+
+### Comparing SNNs and RNNs on Neuromorphic Vision Datasets: Similarities and Differences. ([pdf](https://arxiv.org/pdf/2005.02183.pdf)) <br />
+Weihua He, Yujie Wu, **Lei Deng** (correspondence), Guoqi Li, Haoyu Wang, Yang Tian, Wei Ding, Wenhui Wang, Yuan Xie. <br />
+*Neural Networks* (2020).
+
+### Practical Deep Neural Network Attacks through Memory Trojaning. ([link](https://ieeexplore.ieee.org/document/9096397)) <br />
+Xing Hu, Yang Zhao, **Lei Deng** (correspondence), Ling Liang, Pengfei Zuo, Jing Ye, Yingyan Lin, Yuan Xie. <br />
+*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (2020).
+
+### Core Placement Optimization for Neuromorphic Many-core Neural Network Systems with Reinforcement Learning. (Accepted) <br />
+Nan Wu, **Lei Deng** (correspondence), Guoqi Li, Yuan Xie. <br />
+*ACM Transactions on Design Automation and Electronic Systems* (2020).
 
 ### Effective and Efficient Batch Normalization Using A Few Uncorrelated Data for Statistics Estimation. ([link](https://ieeexplore.ieee.org/document/9046854)) <br />
 Zhaodong Chen, **Lei Deng** (co-first), Guoqi Li, Jiawei Sun, Xing Hu, Xin Ma, Yuan Xie. <br />
