@@ -68,11 +68,11 @@ Submitted to *Neurocomputing* (2020).
 Mingyu Yan, Zhaodong Chen, **Lei Deng**, Xiaochun Ye, Zhimin Zhang, Dongrui Fan, Yuan Xie. <br />
 *IEEE Computer Architecture Letters* 19, 22-25 (2020).
 
-### Compressing 3DCNNs Based on Tensor Train Decomposition. ([pdf](https://arxiv.org/pdf/1912.03647.pdf)) <br />
+### Compressing 3DCNNs Based on Tensor Train Decomposition. ([link](https://www.sciencedirect.com/science/article/abs/pii/S0893608020302690)) <br />
 Dingheng Wang, Guangshe Zhao, Guoqi Li, **Lei Deng**, Yang Wu. <br />
-*Neural Networks* (2020).
+*Neural Networks* 131, 215-230 (2020).
 
-### Hybrid Tensor Decomposition in Neural Network Compression. ([pdf](https://arxiv.org/pdf/2006.15938.pdf)) <br />
+### Hybrid Tensor Decomposition in Neural Network Compression. ([link](https://www.sciencedirect.com/science/article/abs/pii/S0893608020303294)) <br />
 Bijiao Wu, Dingheng Wang, Guangshe Zhao, **Lei Deng**, Guoqi Li. <br />
 Submitted to *Neural Networks* (2020).
 
