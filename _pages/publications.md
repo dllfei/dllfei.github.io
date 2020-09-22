@@ -28,9 +28,9 @@ Submitted to *IEEE Transactions on Neural Networks and Learning Systems* (2020).
 **Lei Deng**, Ling Liang, Guanrui Wang, Liang Chang, Xing Hu, Xin Ma, Liu Liu, Jing Pei, Guoqi Li, Yuan Xie. <br />
 *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* 39, 117-130 (2020).
 
-### Comparing SNNs and RNNs on Neuromorphic Vision Datasets: Similarities and Differences. ([pdf](https://arxiv.org/pdf/2005.02183.pdf)) <br />
+### Comparing SNNs and RNNs on Neuromorphic Vision Datasets: Similarities and Differences. ([link](https://www.sciencedirect.com/science/article/abs/pii/S0893608020302902#!)) <br />
 Weihua He, Yujie Wu, **Lei Deng** (correspondence), Guoqi Li, Haoyu Wang, Yang Tian, Wei Ding, Wenhui Wang, Yuan Xie. <br />
-*Neural Networks* (2020).
+*Neural Networks* 132, 108-120 (2020).
 
 ### Practical Deep Neural Network Attacks through Memory Trojaning. ([link](https://ieeexplore.ieee.org/document/9096397)) <br />
 Xing Hu, Yang Zhao, **Lei Deng** (correspondence), Ling Liang, Pengfei Zuo, Jing Ye, Yingyan Lin, Yuan Xie. <br />
