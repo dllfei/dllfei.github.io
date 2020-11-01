@@ -38,7 +38,7 @@ Xing Hu, Yang Zhao, **Lei Deng** (correspondence), Ling Liang, Pengfei Zuo, Jing
 
 ### Core Placement Optimization for Neuromorphic Many-core Neural Network Systems with Reinforcement Learning. (Accepted) <br />
 Nan Wu, **Lei Deng** (correspondence), Guoqi Li, Yuan Xie. <br />
-*ACM Transactions on Design Automation and Electronic Systems* (2020).
+*ACM Transactions on Design Automation and Electronic Systems* 26, 1-27 (2020).
 
 ### A Comprehensive and Modularized Statistical Framework for Gradient Norm Equality in Deep Neural Networks. ([pdf](https://arxiv.org/pdf/2001.00254.pdf)) <br />
 Zhaodong Chen, **Lei Deng** (co-first), Bangyan Wang, Guoqi Li, Yuan Xie. <br />
@@ -74,7 +74,7 @@ Dingheng Wang, Guangshe Zhao, Guoqi Li, **Lei Deng**, Yang Wu. <br />
 
 ### Hybrid Tensor Decomposition in Neural Network Compression. ([link](https://www.sciencedirect.com/science/article/abs/pii/S0893608020303294)) <br />
 Bijiao Wu, Dingheng Wang, Guangshe Zhao, **Lei Deng**, Guoqi Li. <br />
-Submitted to *Neural Networks* (2020).
+Submitted to *Neural Networks* 132, 309-320 (2020).
 
 ### A Deadlock-Free Physical Mapping Method on the Many-core Neural Network Chip. ([link](https://www.sciencedirect.com/science/article/abs/pii/S0925231220304653)) <br />
 Cheng Ma, Qi Zhao, Guoqi Li, **Lei Deng**, Guanrui Wang. <br />
@@ -170,6 +170,10 @@ Guoqi Li, Wuhua Hu, Gaoxi Xiao, **Lei Deng**, Pei Tang, Jing Pei, Luping Shi. <b
 
 
 ## Conferences
+
+### HyGCN: A GCN Accelerator with Hybrid Architecture. (Accepted) <br />
+Xinfeng Xie, Zheng Liang, Peng Gu, Abanti Basak, **Lei Deng**, Ling Liang, Xing Hu, Yuan Xie. <br />
+in *IEEE International Symposium on High Performance Computer Architecture (HPCA)*, Seoul, South Korea, July 2021. (acceptance rate: 24.4%)
 
 ### DUET: Boosting Deep Neural Network Efficiency on Dual-Module Architecture. (Accepted)) <br />
 Liu Liu, Zheng Qu, **Lei Deng**, Fengbin Tu, Shuangchen Li, Xing Hu, Zhenyu Gu, Yufei Ding, Yuan Xie. <br />
