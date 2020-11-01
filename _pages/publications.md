@@ -171,7 +171,7 @@ Guoqi Li, Wuhua Hu, Gaoxi Xiao, **Lei Deng**, Pei Tang, Jing Pei, Luping Shi. <b
 
 ## Conferences
 
-### HyGCN: A GCN Accelerator with Hybrid Architecture. (Accepted) <br />
+### SpaceA: Sparse Matrix Vector Multiplication on Processing-in-Memory Accelerator. (Accepted) <br />
 Xinfeng Xie, Zheng Liang, Peng Gu, Abanti Basak, **Lei Deng**, Ling Liang, Xing Hu, Yuan Xie. <br />
 in *IEEE International Symposium on High Performance Computer Architecture (HPCA)*, Seoul, South Korea, July 2021. (acceptance rate: 24.4%)
 
