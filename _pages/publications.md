@@ -36,7 +36,7 @@ Weihua He, Yujie Wu, **Lei Deng** (correspondence), Guoqi Li, Haoyu Wang, Yang T
 Xing Hu, Yang Zhao, **Lei Deng** (correspondence), Ling Liang, Pengfei Zuo, Jing Ye, Yingyan Lin, Yuan Xie. <br />
 *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (2020).
 
-### Core Placement Optimization for Neuromorphic Many-core Neural Network Systems with Reinforcement Learning. (Accepted) <br />
+### Core Placement Optimization for Neuromorphic Many-core Neural Network Systems with Reinforcement Learning. ([link](https://dl.acm.org/doi/10.1145/3418498)) <br />
 Nan Wu, **Lei Deng** (correspondence), Guoqi Li, Yuan Xie. <br />
 *ACM Transactions on Design Automation and Electronic Systems* 26, 1-27 (2020).
 
