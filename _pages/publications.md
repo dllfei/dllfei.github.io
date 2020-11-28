@@ -195,7 +195,7 @@ in *IEEE Conference on Industrial Electronics and Applications (ICIEA)*, Kristia
 Xing Hu, Ling Liang, Shuangchen Li, **Lei Deng**, Pengfei Zuo, Xinfeng Xie, Yu Ji, Yufei Ding, Chang Liu, Timothy Sherwood, Yuan Xie. <br />
 in *International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, Lausanne, Switzerland, March 2020.
 
-### fuseGNN: Accelerating Graph Convolutional Neural Network Training on GPGPU. (Accepted) <br />
+### fuseGNN: Accelerating Graph Convolutional Neural Network Training on GPGPU. ([link](https://ieeexplore.ieee.org/abstract/document/9256702)) <br />
 Zhaodong Chen, Mingyu Yan, Maohua Zhu, **Lei Deng**, Guoqi Li, Shuangchen Li, Yuan Xie. <br />
 in *International Conference on Computer-Aided Design (ICCAD)*, Virtual Event, USA, November 2020.
 
