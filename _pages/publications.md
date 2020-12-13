@@ -171,6 +171,10 @@ Guoqi Li, Wuhua Hu, Gaoxi Xiao, **Lei Deng**, Pei Tang, Jing Pei, Luping Shi. <b
 
 ## Conferences
 
+### Going Deeper with Directly-Trained Larger Spiking Neural Networks. (Accepted) <br />
+Hanle Zheng, Guoqi Li, Yujie Wu, **Lei Deng**, Yifan Hu. <br />
+in *AAAI Conference on Artificial Intelligence (AAAI)*, Virtual Event, USA, February 2021. (acceptance rate: 21%)
+
 ### SpaceA: Sparse Matrix Vector Multiplication on Processing-in-Memory Accelerator. (Accepted) <br />
 Xinfeng Xie, Zheng Liang, Peng Gu, Abanti Basak, **Lei Deng**, Ling Liang, Xing Hu, Yuan Xie. <br />
 in *IEEE International Symposium on High Performance Computer Architecture (HPCA)*, Seoul, South Korea, July 2021. (acceptance rate: 24.4%)
