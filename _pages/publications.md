@@ -8,6 +8,10 @@ author_profile: true
 
 ## Journals
 
+### Efficient Processing of Sparse Tensor Decomposition via Unified Abstraction and PE-interactive Architecture. (Accepted)) <br />
+Bangyan Wang, **Lei Deng** (correspondence), Zheng Qu, Zheng Zhang, Yuan Xie. <br />
+*IEEE Transactions on Computers* (2021).
+
 ### Model Compression and Hardware Acceleration for Neural Networks: A Comprehensive Survey. ([link](https://ieeexplore.ieee.org/document/9043731)) <br />
 **Lei Deng**, Guoqi Li, Song Han, Luping Shi, Yuan Xie. <br />
 *Proceedings of the IEEE* 108, 485-532 (2020).
