@@ -8,7 +8,7 @@ author_profile: true
 
 ## Journals
 
-### Efficient Processing of Sparse Tensor Decomposition via Unified Abstraction and PE-interactive Architecture. (Accepted)) <br />
+### Efficient Processing of Sparse Tensor Decomposition via Unified Abstraction and PE-interactive Architecture. (Accepted) <br />
 Bangyan Wang, **Lei Deng** (correspondence), Zheng Qu, Zheng Zhang, Yuan Xie. <br />
 *IEEE Transactions on Computers* (2021).
 
