@@ -8,9 +8,13 @@ author_profile: true
 
 ## Journals
 
-### Efficient Processing of Sparse Tensor Decomposition via Unified Abstraction and PE-interactive Architecture. (Accepted) <br />
+### Efficient Processing of Sparse Tensor Decomposition via Unified Abstraction and PE-interactive Architecture. ([link](https://ieeexplore.ieee.org/document/9314209)) <br />
 Bangyan Wang, **Lei Deng** (correspondence), Zheng Qu, Zheng Zhang, Yuan Xie. <br />
 *IEEE Transactions on Computers* (2021).
+
+### Fast Search of the Optimal Contraction Sequencein Tensor Networks. (Accepted) <br />
+Ling Liang, Jianyu Xu, **Lei Deng** (correspondence), Mingyu Yan, Xing Hu, Zheng Zhang, Guoqi Li, Yuan Xie. <br />
+*IEEE Journal of Selected Topics in Signal Processing* (2021).
 
 ### Effective and Efficient Batch Normalization Using A Few Uncorrelated Data for Statistics Estimation. ([link](https://ieeexplore.ieee.org/document/9046854)) <br />
 Zhaodong Chen, **Lei Deng** (co-first), Guoqi Li, Jiawei Sun, Xing Hu, Xin Ma, Yuan Xie. <br />
