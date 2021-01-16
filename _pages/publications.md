@@ -12,7 +12,7 @@ author_profile: true
 Bangyan Wang, **Lei Deng** (correspondence), Zheng Qu, Zheng Zhang, Yuan Xie. <br />
 *IEEE Transactions on Computers* (2021).
 
-### Fast Search of the Optimal Contraction Sequencein Tensor Networks. (Accepted) <br />
+### Fast Search of the Optimal Contraction Sequencein Tensor Networks. ([link](https://ieeexplore.ieee.org/document/9325533)) <br />
 Ling Liang, Jianyu Xu, **Lei Deng** (correspondence), Mingyu Yan, Xing Hu, Zheng Zhang, Guoqi Li, Yuan Xie. <br />
 *IEEE Journal of Selected Topics in Signal Processing* (2021).
 
