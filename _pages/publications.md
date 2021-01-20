@@ -86,7 +86,7 @@ Bijiao Wu, Dingheng Wang, Guangshe Zhao, **Lei Deng**, Guoqi Li. <br />
 
 ### A Deadlock-Free Physical Mapping Method on the Many-core Neural Network Chip. ([link](https://www.sciencedirect.com/science/article/abs/pii/S0925231220304653)) <br />
 Cheng Ma, Qi Zhao, Guoqi Li, **Lei Deng**, Guanrui Wang. <br />
-*Neurocomputing* (2020).
+*Neurocomputing* 401, 327-337 (2020).
 
 ### Brain-inspired Global-Local Hybrid Learning towards Human-like Intelligence. ([pdf](https://arxiv.org/ftp/arxiv/papers/2006/2006.03226.pdf)) <br />
 Yujie Wu, Rong Zhao, Jun Zhu, Feng Chen, Mingkun Xu, Guoqi Li, Sen Song, **Lei Deng**, Guanrui Wang, Hao Zheng, Jing Pei, Youhui Zhang, Mingguo Zhao, Luping Shi. <br />
