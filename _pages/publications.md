@@ -217,7 +217,7 @@ in *International Conference on Learning Representations (ICLR)*, New Orleans, U
 
 ### Direct Training for Spiking Neural Networks: Faster, Larger, Better. ([pdf](https://arxiv.org/pdf/1809.05793.pdf))<br />
 Yujie Wu, **Lei Deng**, Guoqi Li, Jun Zhu, Yuan Xie, Luping Shi. <br />
-in *AAAI Conference on Artificial Intelligence (AAAI)*, Howaii, USA, January 2019. (acceptance rate: 16.2%)
+in *AAAI Conference on Artificial Intelligence (AAAI)*, Howaii, USA, January 2019. (acceptance rate: 16.2%; spotlight paper)
 
 ### Efficient Mapping without Deadlock on the Many-core Neural Network Chip. ([link](https://ieeexplore.ieee.org/abstract/document/8899911)) <br />
 Qi Zhao, **Lei Deng**, Guoqi Li, Guanrui Wang, Cheng Ma. <br />
