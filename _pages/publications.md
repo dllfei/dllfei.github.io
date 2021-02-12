@@ -8,9 +8,17 @@ author_profile: true
 
 ## Journals
 
+### Editorial: Understanding and Bridging the Gap between Neuromorphic Computing and Machine Learning. ([link](https://www.frontiersin.org/articles/10.3389/fncom.2021.665662/full)) <br />
+**Lei Deng** (correspondence), Huajin Tang, Kaushik Roy. <br />
+*Frontiers in Computational Neuroscience* 10, 136 (2016).
+
 ### Efficient Processing of Sparse Tensor Decomposition via Unified Abstraction and PE-interactive Architecture. ([link](https://ieeexplore.ieee.org/document/9314209)) <br />
 Bangyan Wang, **Lei Deng** (correspondence), Zheng Qu, Zheng Zhang, Yuan Xie. <br />
 *IEEE Transactions on Computers* (2021).
+
+### Hardware-Enabled Efficient Data Processing with Tensor-Train Decomposition. ([link](https://ieeexplore.ieee.org/document/9351565)) <br />
+Zheng Qu, **Lei Deng** (correspondence), Bangyan Wang, Hengnu Chen, Jilan Lin, Ling Liang, Guoqi Li, Zheng Zhang, Yuan Xie. <br />
+*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (2021).
 
 ### Fast Search of the Optimal Contraction Sequence in Tensor Networks. ([link](https://ieeexplore.ieee.org/document/9325533)) <br />
 Ling Liang, Jianyu Xu, **Lei Deng** (correspondence), Mingyu Yan, Xing Hu, Zheng Zhang, Guoqi Li, Yuan Xie. <br />
