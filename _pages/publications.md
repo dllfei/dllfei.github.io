@@ -10,7 +10,7 @@ author_profile: true
 
 ### Editorial: Understanding and Bridging the Gap between Neuromorphic Computing and Machine Learning. ([link](https://www.frontiersin.org/articles/10.3389/fncom.2021.665662/full)) <br />
 **Lei Deng** (correspondence), Huajin Tang, Kaushik Roy. <br />
-*Frontiers in Computational Neuroscience* 10, 136 (2016).
+*Frontiers in Computational Neuroscience* (2020).
 
 ### Efficient Processing of Sparse Tensor Decomposition via Unified Abstraction and PE-interactive Architecture. ([link](https://ieeexplore.ieee.org/document/9314209)) <br />
 Bangyan Wang, **Lei Deng** (correspondence), Zheng Qu, Zheng Zhang, Yuan Xie. <br />
