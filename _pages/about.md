@@ -12,7 +12,7 @@ Lei Deng received his B.E. degree and Ph.D. degree from University of Science an
 
 Dr. Deng has been involved in professional services such as serving as a Guest Associate Editor for *Frontiers in Neuroscience (section Neuromorphic Engineering)* and *Frontiers in Computational Neuroscience*, and a PC member for *International Symposium on Neural Networks (ISNN)* 2019. He was a recepient of MIT Technology Review Innovators Under 35 China 2019. He serves as a reviewer for a number of journals such as *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, *Neural Networks*, *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, *IEEE Transactions on Biomedical Circuits and Systems (TBioCAS)*, *IEEE Transactions on Cybernetics (TCYB)*, *IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)*, *IEEE Transactions on Cognitive and Developmental Systems (TCDS)*, *ACM Transactions on Design Automation of Electronic Systems (TODAES)*, *ACM Transactions on Embedded Computing Systems (TECS)*, *Frontiers in Neuroscience (section Neuromorphic Engineering)*, *IEEE Access*, *Electronics*, *Sensors*, *Journal of Imaging*, and conferences such as *Advances in Neural Information Processing Systems (NeurIPS)*, *International Conference on Learning Representations (ICLR)*, *Conference on Computer Vision and Pattern Recognition (CVPR)*, *International Conference on Computer Vision (ICCV)*, *IEEE International Symposium on High-Performance Computer Architecture (HPCA)*, *IEEE International Symposium on Circuits and Systems (ISCAS)*, *IEEE Symposium Series on Computational Intelligence (SSCI)*, *IEEE Conference on Industrial Electronics and Applications (ICIEA)*, etc.
 
-**Email**: leideng@ucsb.edu
+**Email**: leideng@mail.tsinghua.edu.cn
 
 Education
 ======
@@ -32,7 +32,7 @@ Second Place of USTC Robot Competition (2010), Undergraduate National Encouragem
 
 Research Summary
 ======
-My research interests include Computer Architecture, Machine Learning, Brain-inspired Computing, Tensor Analysis, Complex Systems, etc.
+My research interests include Brain-inspired Computing, Machine Learning, Computer Architecture, Machine Learning, etc.
 
 Research Projects:
 
