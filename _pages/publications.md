@@ -193,13 +193,17 @@ Guoqi Li, Wuhua Hu, Gaoxi Xiao, **Lei Deng**, Pei Tang, Jing Pei, Luping Shi. <b
 
 ### Going Deeper with Directly-Trained Larger Spiking Neural Networks. (Accepted) <br />
 Hanle Zheng, Yujie Wu, **Lei Deng**, Yifan Hu, Guoqi Li. <br />
-in *AAAI Conference on Artificial Intelligence (AAAI)*, Virtual Event, USA, February 2021. (acceptance rate: 21%)
+in *AAAI Conference on Artificial Intelligence (AAAI)*, Virtual Event, February 2021. (acceptance rate: 21%)
+
+### GNNAdvisor: An Adaptive and Efficient Runtime System for GNN Acceleration on GPUs. (Accepted) <br />
+Yuke Wang, Boyuan Feng, Gushu Li, Shuangchen Li, **Lei Deng**, Yuan Xie, Yufei Ding. <br />
+in *USENIX Symposium on Operating Systems Design and Implementation (OSDI)*, Virtual Event, July 2021. (acceptance rate: 19%)
 
 ### SpaceA: Sparse Matrix Vector Multiplication on Processing-in-Memory Accelerator. (Accepted) <br />
 Xinfeng Xie, Zheng Liang, Peng Gu, Abanti Basak, **Lei Deng**, Ling Liang, Xing Hu, Yuan Xie. <br />
 in *IEEE International Symposium on High Performance Computer Architecture (HPCA)*, Seoul, South Korea, July 2021. (acceptance rate: 24.4%)
 
-### DUET: Boosting Deep Neural Network Efficiency on Dual-Module Architecture. (Accepted)) <br />
+### DUET: Boosting Deep Neural Network Efficiency on Dual-Module Architecture. ([link](https://ieeexplore.ieee.org/abstract/document/9251991)) <br />
 Liu Liu, Zheng Qu, **Lei Deng**, Fengbin Tu, Shuangchen Li, Xing Hu, Zhenyu Gu, Yufei Ding, Yuan Xie. <br />
 in *IEEE/ACM International Symposium on Microarchitecture (MICRO)*, Athens, Greece, October 2020. (acceptance rate: 19.4%)
 
@@ -221,7 +225,7 @@ in *International Conference on Architectural Support for Programming Languages 
 
 ### fuseGNN: Accelerating Graph Convolutional Neural Network Training on GPGPU. ([link](https://ieeexplore.ieee.org/abstract/document/9256702)) <br />
 Zhaodong Chen, Mingyu Yan, Maohua Zhu, **Lei Deng**, Guoqi Li, Shuangchen Li, Yuan Xie. <br />
-in *International Conference on Computer-Aided Design (ICCAD)*, Virtual Event, USA, November 2020.
+in *International Conference on Computer-Aided Design (ICCAD)*, Virtual Event, November 2020.
 
 ### Dynamic Sparse Graph for Efficient Deep Learning. ([pdf](https://openreview.net/pdf?id=H1goBoR9F7)) <br />
 Liu Liu, **Lei Deng** (co-first), Xing Hu, Maohua Zhu, Guoqi Li, Yufei Ding, Yuan Xie. <br />
