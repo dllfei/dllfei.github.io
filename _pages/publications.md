@@ -197,7 +197,7 @@ in *AAAI Conference on Artificial Intelligence (AAAI)*, Virtual Event, February 
 
 ### GNNAdvisor: An Adaptive and Efficient Runtime System for GNN Acceleration on GPUs. (Accepted) <br />
 Yuke Wang, Boyuan Feng, Gushu Li, Shuangchen Li, **Lei Deng**, Yuan Xie, Yufei Ding. <br />
-in *USENIX Symposium on Operating Systems Design and Implementation (OSDI)*, Virtual Event, July 2021. (acceptance rate: 19%)
+in *USENIX Symposium on Operating Systems Design and Implementation (OSDI)*, Virtual Event, July 2021. (acceptance rate: 18.8%)
 
 ### SpaceA: Sparse Matrix Vector Multiplication on Processing-in-Memory Accelerator. (Accepted) <br />
 Xinfeng Xie, Zheng Liang, Peng Gu, Abanti Basak, **Lei Deng**, Ling Liang, Xing Hu, Yuan Xie. <br />
