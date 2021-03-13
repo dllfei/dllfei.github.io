@@ -28,7 +28,7 @@ Ling Liang, Jianyu Xu, **Lei Deng**, Mingyu Yan, Xing Hu, Zheng Zhang, Guoqi Li,
 Zhaodong Chen, **Lei Deng** (co-first), Guoqi Li, Jiawei Sun, Xing Hu, Xin Ma, Yuan Xie. <br />
 *IEEE Transactions on Neural Networks and Learning Systems* 32, 348-362 (2021).
 
-### PLSAV: Parallel loop searching and verifying for loop closure detection. ([pdf](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/itr2.12054)) <br />
+### PLSAV: Parallel Loop Searching and Verifying for Loop Closure Detection. ([pdf](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/itr2.12054)) <br />
 Zhe Yang, Yun Pan, **Lei Deng**, Yuan Xie, Ruohong Huan. <br />
 *IET Intelligent Transport Systems* (2021).
 
