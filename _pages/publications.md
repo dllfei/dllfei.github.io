@@ -64,7 +64,7 @@ Xing Hu, Yang Zhao, **Lei Deng** (correspondence), Ling Liang, Pengfei Zuo, Jing
 Nan Wu, **Lei Deng** (correspondence), Guoqi Li, Yuan Xie. <br />
 *ACM Transactions on Design Automation and Electronic Systems* 26, 1-27 (2020).
 
-### A Comprehensive and Modularized Statistical Framework for Gradient Norm Equality in Deep Neural Networks. ([pdf](https://arxiv.org/pdf/2001.00254.pdf)) <br />
+### A Comprehensive and Modularized Statistical Framework for Gradient Norm Equality in Deep Neural Networks. ([link](https://ieeexplore.ieee.org/abstract/document/9143512?casa_token=1EQBAqmAkCIAAAAA:SR4gtEq656XYGCZR9eZc0ByI_gaMuJWM5oVkqrA3e_RautmRpe6McxC-zKvXEMCNCBzTlRpAdxk)) <br />
 Zhaodong Chen, **Lei Deng** (co-first), Bangyan Wang, Guoqi Li, Yuan Xie. <br />
 *IEEE Transactions on Pattern Analysis and Machine Intelligence* (2020).
 
@@ -215,7 +215,7 @@ in *International Conference on Machine Learning (ICML)*, Virtual Event, July 20
 Mingyu Yan, **Lei Deng**, Xing Hu, Ling Liang, Yujing Feng, Xiaochun Ye, Zhimin Zhang, Dongrui Fan, Yuan Xie. <br />
 in *IEEE International Symposium on High Performance Computer Architecture (HPCA)*, San Diego, USA, February 2020. (acceptance rate: 19.4%)
 
-### Transfer Learning in General Lensless Imaging through Scattering Media. ([link](https://ieeexplore.ieee.org/abstract/document/9248182casa_token=LjicNf5IpsgAAAAA:hF7gutRX3Jkyn7VkDKTt4l1uEup6VYSVCqnoJXJapWUqFTlbc8l2dYgtuo7r3GjexRSkrCtFrzE)) <br />
+### Transfer Learning in General Lensless Imaging through Scattering Media. ([link](https://ieeexplore.ieee.org/abstract/document/9248182?casa_token=FNylIWKDgPQAAAAA:VA4oHjZ3cZ2Tl533Ga81HkuIOtYrz_CR8Gl1sQ8HUy995h23RqJ2JGGUZS9ML-fcZTZ7cBECWpc)) <br />
 Yukuan Yang, **Lei Deng**, Peng Jiao, Yansong Chua, Jing Pei, Cheng Ma, Guoqi Li. <br />
 in *IEEE Conference on Industrial Electronics and Applications (ICIEA)*, Kristiansand, Norway, June 2020.
 
@@ -231,7 +231,7 @@ in *International Conference on Computer-Aided Design (ICCAD)*, Virtual Event, N
 Liu Liu, **Lei Deng** (co-first), Xing Hu, Maohua Zhu, Guoqi Li, Yufei Ding, Yuan Xie. <br />
 in *International Conference on Learning Representations (ICLR)*, New Orleans, USA, May 2019.
 
-### Direct Training for Spiking Neural Networks: Faster, Larger, Better. ([pdf](https://arxiv.org/pdf/1809.05793.pdf))<br />
+### Direct Training for Spiking Neural Networks: Faster, Larger, Better. ([link](https://ojs.aaai.org/index.php/AAAI/article/view/3929))<br />
 Yujie Wu, **Lei Deng**, Guoqi Li, Jun Zhu, Yuan Xie, Luping Shi. <br />
 in *AAAI Conference on Artificial Intelligence (AAAI)*, Howaii, USA, January 2019. (acceptance rate: 16.2%; spotlight paper)
 
