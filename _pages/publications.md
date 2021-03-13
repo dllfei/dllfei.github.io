@@ -30,7 +30,7 @@ Zhaodong Chen, **Lei Deng** (co-first), Guoqi Li, Jiawei Sun, Xing Hu, Xin Ma, Y
 
 ### PLSAV: Parallel Loop Searching and Verifying for Loop Closure Detection. ([pdf](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/itr2.12054)) <br />
 Zhe Yang, Yun Pan, **Lei Deng**, Yuan Xie, Ruohong Huan. <br />
-*IET Intelligent Transport Systems* (2021).
+*IET Intelligent Transport Systems*, 1-16 (2021).
 
 ### Model Compression and Hardware Acceleration for Neural Networks: A Comprehensive Survey. ([link](https://ieeexplore.ieee.org/document/9043731)) <br />
 **Lei Deng**, Guoqi Li, Song Han, Luping Shi, Yuan Xie. <br />
