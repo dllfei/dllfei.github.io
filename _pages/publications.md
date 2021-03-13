@@ -215,7 +215,7 @@ in *International Conference on Machine Learning (ICML)*, Virtual Event, July 20
 Mingyu Yan, **Lei Deng**, Xing Hu, Ling Liang, Yujing Feng, Xiaochun Ye, Zhimin Zhang, Dongrui Fan, Yuan Xie. <br />
 in *IEEE International Symposium on High Performance Computer Architecture (HPCA)*, San Diego, USA, February 2020. (acceptance rate: 19.4%)
 
-### Transfer Learning in General Lensless Imaging through Scattering Media. ([pdf](https://arxiv.org/pdf/1912.12419.pdf)) <br />
+### Transfer Learning in General Lensless Imaging through Scattering Media. ([link](https://ieeexplore.ieee.org/abstract/document/9248182casa_token=LjicNf5IpsgAAAAA:hF7gutRX3Jkyn7VkDKTt4l1uEup6VYSVCqnoJXJapWUqFTlbc8l2dYgtuo7r3GjexRSkrCtFrzE)) <br />
 Yukuan Yang, **Lei Deng**, Peng Jiao, Yansong Chua, Jing Pei, Cheng Ma, Guoqi Li. <br />
 in *IEEE Conference on Industrial Electronics and Applications (ICIEA)*, Kristiansand, Norway, June 2020.
 
