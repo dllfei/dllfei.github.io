@@ -8,7 +8,7 @@ author_profile: true
 
 ## Journals
 
-### Editorial: Understanding and Bridging the Gap between Neuromorphic Computing and Machine Learning. ([link](https://www.frontiersin.org/articles/10.3389/fncom.2021.665662/full)) <br />
+### Understanding and Bridging the Gap between Neuromorphic Computing and Machine Learning. ([link](https://www.frontiersin.org/articles/10.3389/fncom.2021.665662/full)) <br />
 **Lei Deng** (correspondence), Huajin Tang, Kaushik Roy. <br />
 *Frontiers in Computational Neuroscience* 15, 665662 (2021).
 
@@ -76,7 +76,7 @@ Yukuan Yang, **Lei Deng** (co-first), Shuang Wu, Tianyi Yan, Yuan Xie, Guoqi Li.
 Ling Liang, Xing Hu, **Lei Deng** (correspondence), Yujie Wu, Guoqi Li, Yufei Ding, Peng Li, Yuan Xie. <br />
 Submitted to *IEEE Transactions on Neural Networks and Learning Systems* (2020).
 
-### Editorial: SNN Learning, Benchmarking, Programming, and Executing. ([link](https://www.frontiersin.org/articles/10.3389/fnins.2020.00276/full)) <br />
+### SNN Learning, Benchmarking, Programming, and Executing. ([link](https://www.frontiersin.org/articles/10.3389/fnins.2020.00276/full)) <br />
 Guoqi Li, **Lei Deng** (co-first), Yansong Chua, Peng Li, Emre O. Neftci, Haizhou Li. <br />
 *Frontiers in Neuroscience* 14, 276 (2020).
 
