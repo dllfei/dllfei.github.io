@@ -76,7 +76,7 @@ Yukuan Yang, **Lei Deng** (co-first), Shuang Wu, Tianyi Yan, Yuan Xie, Guoqi Li.
 Ling Liang, Xing Hu, **Lei Deng** (correspondence), Yujie Wu, Guoqi Li, Yufei Ding, Peng Li, Yuan Xie. <br />
 Submitted to *IEEE Transactions on Neural Networks and Learning Systems* (2020).
 
-### Spiking Neural Network Learning, Benchmarking, Programming, and Executing. ([link](https://www.frontiersin.org/articles/10.3389/fnins.2020.00276/full)) <br />
+### SNN Learning, Benchmarking, Programming, and Executing. ([link](https://www.frontiersin.org/articles/10.3389/fnins.2020.00276/full)) <br />
 Guoqi Li, **Lei Deng** (co-first), Yansong Chua, Peng Li, Emre O. Neftci, Haizhou Li. <br />
 *Frontiers in Neuroscience* 14, 276 (2020).
 
