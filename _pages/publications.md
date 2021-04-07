@@ -22,7 +22,7 @@ Zheng Qu, **Lei Deng** (correspondence), Bangyan Wang, Hengnu Chen, Jilan Lin, L
 
 ### Fast Search of the Optimal Contraction Sequence in Tensor Networks. ([link](https://ieeexplore.ieee.org/document/9325533)) <br />
 Ling Liang, Jianyu Xu, **Lei Deng** (correspondence), Mingyu Yan, Xing Hu, Zheng Zhang, Guoqi Li, Yuan Xie. <br />
-*IEEE Journal of Selected Topics in Signal Processing* 15, 574-586 (2021).
+*IEEE Journal of Selected Topics in Signal Processing* 15, 574-586 (2021). (**Cover Paper**)
 
 ### Effective and Efficient Batch Normalization Using A Few Uncorrelated Data for Statistics Estimation. ([link](https://ieeexplore.ieee.org/document/9046854)) <br />
 Zhaodong Chen, **Lei Deng** (co-first), Guoqi Li, Jiawei Sun, Xing Hu, Xin Ma, Yuan Xie. <br />
