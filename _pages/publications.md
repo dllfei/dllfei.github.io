@@ -32,6 +32,10 @@ Zhaodong Chen, **Lei Deng** (co-first), Guoqi Li, Jiawei Sun, Xing Hu, Xin Ma, Y
 Zhe Yang, Yun Pan, **Lei Deng**, Yuan Xie, Ruohong Huan. <br />
 *IET Intelligent Transport Systems*, 1-16 (2021).
 
+### Target Controllability of Two-layer Multiplex Networks based on Network Flow Theory. ([link](https://ieeexplore.ieee.org/abstract/doment/8685693)) <br />
+Kun Song, Guoqi Li, Xumin Chen, **Lei Deng**, Gaoxi Xiao, Fei Zeng, Jing Pei. <br />
+*IEEE Transactions on Cybernetics* 51, 2699-2711 (2021).
+
 ### Model Compression and Hardware Acceleration for Neural Networks: A Comprehensive Survey. ([link](https://ieeexplore.ieee.org/document/9043731)) <br />
 **Lei Deng**, Guoqi Li, Song Han, Luping Shi, Yuan Xie. <br />
 *Proceedings of the IEEE* 108, 485-532 (2020).
@@ -115,10 +119,6 @@ Jing Pei, **Lei Deng** (co-first), Sen Song, Mingguo Zhao, Youhui Zhang, Shuang 
 ### Towards a Polynomial Algorithm for Optimal Contraction Sequence of Tensor Networks from Trees. ([link](https://journals.aps.org/pre/accepted/1707cKb3N9419b0382488ea82f7a132cf21fbb7e8)) <br />
 Jianyu Xu, Ling Liang, **Lei Deng** (correspondence), Changyun Wen, Yuan Xie, Guoqi Li. <br />
 *Physical Review E* 100, 043309 (2019).
-
-### Target Controllability of Two-layer Multiplex Networks based on Network Flow Theory. ([link](https://ieeexplore.ieee.org/abstract/doment/8685693)) <br />
-Kun Song, Guoqi Li, Xumin Chen, **Lei Deng**, Gaoxi Xiao, Fei Zeng, Jing Pei. <br />
-*IEEE Transactions on Cybernetics* (2019).
 
 ### Containment Control of Directed Networks with Time-varying Nonlinear Multi-agents using Minimum Number of Leaders. ([link](https://www.sciencedirect.com/science/article/pii/S0378437119304625)) <br />
 Leitao Gao, Guangshe Zhao, Guoqi Li, Yuming Liu, Jiangshuai Huang, **Lei Deng**. <br />
