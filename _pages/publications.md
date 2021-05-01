@@ -12,6 +12,10 @@ author_profile: true
 **Lei Deng** (correspondence), Huajin Tang, Kaushik Roy. <br />
 *Frontiers in Computational Neuroscience* 15, 665662 (2021).
 
+### Comprehensive SNN Compression Using ADMM Optimization and Activity Regularization. ([pdf](https://arxiv.org/pdf/1911.00822.pdf)) <br />
+**Lei Deng**, Yujie Wu, Yifan Hu, Ling Liang, Guoqi Li, Xing Hu, Yufei Ding, Peng Li, Yuan Xie. <br />
+Submitted to *IEEE Transactions on Neural Networks and Learning Systems* (2021).
+
 ### Efficient Processing of Sparse Tensor Decomposition via Unified Abstraction and PE-interactive Architecture. ([link](https://ieeexplore.ieee.org/document/9314209)) <br />
 Bangyan Wang, **Lei Deng** (correspondence), Zheng Qu, Zheng Zhang, Yuan Xie. <br />
 *IEEE Transactions on Computers* (2021).
@@ -28,6 +32,10 @@ Ling Liang, Jianyu Xu, **Lei Deng** (correspondence), Mingyu Yan, Xing Hu, Zheng
 Zhaodong Chen, **Lei Deng** (co-first), Guoqi Li, Jiawei Sun, Xing Hu, Xin Ma, Yuan Xie. <br />
 *IEEE Transactions on Neural Networks and Learning Systems* 32, 348-362 (2021).
 
+### Training and Inference for Integer-based Semantic Segmentation Network. ([pdf](https://jiayiyang.info/files/QFCN.pdf)) <br />
+Jiayi Yang, **Lei Deng**, Yukuan Yang, Yuan Xie. <br />
+*Neurocomputing* (2021).
+
 ### PLSAV: Parallel Loop Searching and Verifying for Loop Closure Detection. ([pdf](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/itr2.12054)) <br />
 Zhe Yang, Yun Pan, **Lei Deng**, Yuan Xie, Ruohong Huan. <br />
 *IET Intelligent Transport Systems*, 1-16 (2021).
@@ -43,10 +51,6 @@ Kun Song, Guoqi Li, Xumin Chen, **Lei Deng**, Gaoxi Xiao, Fei Zeng, Jing Pei. <b
 ### Tianjic: A Unified and Scalable Chip Bridging Spike-based and Continuous Neural Computation. ([link](https://ieeexplore.ieee.org/document/8998338)) <br />
 **Lei Deng**, Guanrui Wang, Guoqi Li, Shuangchen Li, Ling Liang, Maohua Zhu, Yujie Wu, Zheyu Yang, Zhe Zou, Jing Pei, Zhenzhi Wu, Xing Hu, Yufei Ding, Wei He, Yuan Xie, Luping Shi. <br />
 *IEEE Journal of Solid-State Circuits* 55, 2228-2246 (2020).
-
-### Comprehensive SNN Compression Using ADMM Optimization and Activity Regularization. ([pdf](https://arxiv.org/pdf/1911.00822.pdf)) <br />
-**Lei Deng**, Yujie Wu, Yifan Hu, Ling Liang, Guoqi Li, Xing Hu, Yufei Ding, Peng Li, Yuan Xie. <br />
-Submitted to *IEEE Transactions on Neural Networks and Learning Systems* (2020).
 
 ### Rethinking the Performance Comparison between SNNs and ANNs. ([link](https://www.sciencedirect.com/science/article/pii/S0893608019302667)) <br />
 **Lei Deng**, Yujie Wu, Xing Hu, Ling Liang, Yufei Ding, Guoqi Li, Guangshe Zhao, Peng Li, Yuan Xie. <br />
@@ -83,10 +87,6 @@ Submitted to *IEEE Transactions on Neural Networks and Learning Systems* (2020).
 ### Spiking Neural Network Learning, Benchmarking, Programming, and Executing. ([link](https://www.frontiersin.org/articles/10.3389/fnins.2020.00276/full)) <br />
 Guoqi Li, **Lei Deng** (co-first), Yansong Chua, Peng Li, Emre O. Neftci, Haizhou Li. <br />
 *Frontiers in Neuroscience* 14, 276 (2020).
-
-### Training and Inference for Integer-Based Semantic Segmentation Network. ([pdf](https://jiayiyang.info/files/QFCN.pdf)) <br />
-Jiayi Yang, **Lei Deng**, Yukuan Yang, Yuan Xie, Guoqi Li. <br />
-Submitted to *Neurocomputing* (2020).
 
 ### Characterizing and Understanding GCNs on GPU. ([link](https://ieeexplore.ieee.org/document/8976117)) <br />
 Mingyu Yan, Zhaodong Chen, **Lei Deng**, Xiaochun Ye, Zhimin Zhang, Dongrui Fan, Yuan Xie. <br />
@@ -194,6 +194,10 @@ Guoqi Li, Wuhua Hu, Gaoxi Xiao, **Lei Deng**, Pei Tang, Jing Pei, Luping Shi. <b
 ### Going Deeper with Directly-Trained Larger Spiking Neural Networks. (Accepted) <br />
 Hanle Zheng, Yujie Wu, **Lei Deng**, Yifan Hu, Guoqi Li. <br />
 in *AAAI Conference on Artificial Intelligence (AAAI)*, Virtual Event, February 2021. (acceptance rate: 21%)
+
+### Exploiting Spiking Dynamics with Spatial-temporal Feature Normalization in Graph Learning. (Accepted) <br />
+Mingkun Xu, Yujie Wu, **Lei Deng**, Faqiang Liu, Guoqi Li, Jing Pei. <br />
+in *International Joint Conference on Artificial Intelligence (IJCAI)*, Virtual Event, August 2021. (acceptance rate: 13.9%)
 
 ### GNNAdvisor: An Adaptive and Efficient Runtime System for GNN Acceleration on GPUs. (Accepted) <br />
 Yuke Wang, Boyuan Feng, Gushu Li, Shuangchen Li, **Lei Deng**, Yuan Xie, Yufei Ding. <br />
