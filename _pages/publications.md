@@ -44,6 +44,14 @@ Zhe Yang, Yun Pan, **Lei Deng**, Yuan Xie, Ruohong Huan. <br />
 Kun Song, Guoqi Li, Xumin Chen, **Lei Deng**, Gaoxi Xiao, Fei Zeng, Jing Pei. <br />
 *IEEE Transactions on Cybernetics* 51, 2699-2711 (2021).
 
+### Hardware Acceleration for GCNs via Bidirectional Fusion. (Accepted) <br />
+Han Li, Mingyu Yan, Xiaocheng Yang, **Lei Deng**, Wenming Li, Xiaochun Ye, Dongrui Fan, Yuan Xie. <br />
+*IEEE Computer Architecture Letters* (2021).
+
+### Rubik: A Hierarchical Architecture for Efficient Graph Neural Network Training. (Accepted) <br />
+Xiaobing Chen, Yuke Wang, Xinfeng Xie, Xing Hu, Abanti Basak, Ling Liang, Mingyu Yan, **Lei Deng**, Yufei Ding, Zidong Du, Yuan Xie. <br />
+*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (2021).
+
 ### Model Compression and Hardware Acceleration for Neural Networks: A Comprehensive Survey. ([link](https://ieeexplore.ieee.org/document/9043731)) <br />
 **Lei Deng**, Guoqi Li, Song Han, Luping Shi, Yuan Xie. <br />
 *Proceedings of the IEEE* 108, 485-532 (2020).
