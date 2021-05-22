@@ -28,6 +28,10 @@ Zheng Qu, **Lei Deng** (correspondence), Bangyan Wang, Hengnu Chen, Jilan Lin, L
 Ling Liang, Jianyu Xu, **Lei Deng** (correspondence), Mingyu Yan, Xing Hu, Zheng Zhang, Guoqi Li, Yuan Xie. <br />
 *IEEE Journal of Selected Topics in Signal Processing* 15, 574-586 (2021). (**Cover Paper**)
 
+### Practical Deep Neural Network Attacks through Memory Trojaning. ([link](https://ieeexplore.ieee.org/document/9096397)) <br />
+Xing Hu, Yang Zhao, **Lei Deng** (correspondence), Ling Liang, Pengfei Zuo, Jing Ye, Yingyan Lin, Yuan Xie. <br />
+*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* 40, 1230-1243 (2021).
+
 ### Effective and Efficient Batch Normalization Using A Few Uncorrelated Data for Statistics Estimation. ([link](https://ieeexplore.ieee.org/document/9046854)) <br />
 Zhaodong Chen, **Lei Deng** (co-first), Guoqi Li, Jiawei Sun, Xing Hu, Xin Ma, Yuan Xie. <br />
 *IEEE Transactions on Neural Networks and Learning Systems* 32, 348-362 (2021).
@@ -71,10 +75,6 @@ Xiaobing Chen, Yuke Wang, Xinfeng Xie, Xing Hu, Abanti Basak, Ling Liang, Mingyu
 ### Comparing SNNs and RNNs on Neuromorphic Vision Datasets: Similarities and Differences. ([link](https://www.sciencedirect.com/science/article/abs/pii/S0893608020302902#!)) <br />
 Weihua He, Yujie Wu, **Lei Deng** (correspondence), Guoqi Li, Haoyu Wang, Yang Tian, Wei Ding, Wenhui Wang, Yuan Xie. <br />
 *Neural Networks* 132, 108-120 (2020).
-
-### Practical Deep Neural Network Attacks through Memory Trojaning. ([link](https://ieeexplore.ieee.org/document/9096397)) <br />
-Xing Hu, Yang Zhao, **Lei Deng** (correspondence), Ling Liang, Pengfei Zuo, Jing Ye, Yingyan Lin, Yuan Xie. <br />
-*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (2020).
 
 ### Core Placement Optimization for Neuromorphic Many-core Neural Network Systems with Reinforcement Learning. ([link](https://dl.acm.org/doi/10.1145/3418498)) <br />
 Nan Wu, **Lei Deng** (correspondence), Guoqi Li, Yuan Xie. <br />
