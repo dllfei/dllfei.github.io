@@ -50,7 +50,7 @@ Kun Song, Guoqi Li, Xumin Chen, **Lei Deng**, Gaoxi Xiao, Fei Zeng, Jing Pei. <b
 
 ### Hardware Acceleration for GCNs via Bidirectional Fusion. ([link](https://ieeexplore.ieee.org/abstract/document/9425440)) <br />
 Han Li, Mingyu Yan, Xiaocheng Yang, **Lei Deng**, Wenming Li, Xiaochun Ye, Dongrui Fan, Yuan Xie. <br />
-*IEEE Computer Architecture Letters* (2021).
+*IEEE Computer Architecture Letters* 20, 66-69 (2021).
 
 ### Rubik: A Hierarchical Architecture for Efficient Graph Neural Network Training. ([link](https://ieeexplore.ieee.org/abstract/document/9428002)) <br />
 Xiaobing Chen, Yuke Wang, Xinfeng Xie, Xing Hu, Abanti Basak, Ling Liang, Mingyu Yan, **Lei Deng**, Yufei Ding, Zidong Du, Yuan Xie. <br />
