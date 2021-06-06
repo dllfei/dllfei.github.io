@@ -52,6 +52,10 @@ Kun Song, Guoqi Li, Xumin Chen, **Lei Deng**, Gaoxi Xiao, Fei Zeng, Jing Pei. <b
 Han Li, Mingyu Yan, Xiaocheng Yang, **Lei Deng**, Wenming Li, Xiaochun Ye, Dongrui Fan, Yuan Xie. <br />
 *IEEE Computer Architecture Letters* 20, 66-69 (2021).
 
+### QTTNet: Quantized Tensor Train Neural Networks for 3D Object and Video Recognition. ([link]()) <br />
+Donghyun Lee, Dingheng Wang, Yukuan Yang, **Lei Deng**, Guangshe Zhao, Guoqi Li. <br />
+*Neural Networks* (2021).
+
 ### Rubik: A Hierarchical Architecture for Efficient Graph Neural Network Training. ([link](https://ieeexplore.ieee.org/abstract/document/9428002)) <br />
 Xiaobing Chen, Yuke Wang, Xinfeng Xie, Xing Hu, Abanti Basak, Ling Liang, Mingyu Yan, **Lei Deng**, Yufei Ding, Zidong Du, Yuan Xie. <br />
 *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (2021).
