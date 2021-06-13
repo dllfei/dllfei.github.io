@@ -52,7 +52,7 @@ Kun Song, Guoqi Li, Xumin Chen, **Lei Deng**, Gaoxi Xiao, Fei Zeng, Jing Pei. <b
 Han Li, Mingyu Yan, Xiaocheng Yang, **Lei Deng**, Wenming Li, Xiaochun Ye, Dongrui Fan, Yuan Xie. <br />
 *IEEE Computer Architecture Letters* 20, 66-69 (2021).
 
-### QTTNet: Quantized Tensor Train Neural Networks for 3D Object and Video Recognition. ([link]()) <br />
+### QTTNet: Quantized Tensor Train Neural Networks for 3D Object and Video Recognition. ([link](https://www.sciencedirect.com/science/article/abs/pii/S0893608021002306)) <br />
 Donghyun Lee, Dingheng Wang, Yukuan Yang, **Lei Deng**, Guangshe Zhao, Guoqi Li. <br />
 *Neural Networks* (2021).
 
