@@ -44,6 +44,10 @@ Jiayi Yang, **Lei Deng**, Yukuan Yang, Yuan Xie. <br />
 Zhe Yang, Yun Pan, **Lei Deng**, Yuan Xie, Ruohong Huan. <br />
 *IET Intelligent Transport Systems*, 1-16 (2021).
 
+### STPAcc: Structural TI-based Pruning for Accelerating Distance-related Algorithms on CPU-FPGA Platforms. ([link](https://ieeexplore.ieee.org/abstract/document/9467295)) <br />
+Yuke Wang, Boyuan Feng, Gushu Li, **Lei Deng**, Yuan Xie, Yufei Ding. <br />
+*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (2021).
+
 ### Target Controllability of Two-layer Multiplex Networks based on Network Flow Theory. ([link](https://ieeexplore.ieee.org/abstract/doment/8685693)) <br />
 Kun Song, Guoqi Li, Xumin Chen, **Lei Deng**, Gaoxi Xiao, Fei Zeng, Jing Pei. <br />
 *IEEE Transactions on Cybernetics* 51, 2699-2711 (2021).
