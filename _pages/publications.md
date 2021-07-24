@@ -211,19 +211,19 @@ Guoqi Li, Wuhua Hu, Gaoxi Xiao, **Lei Deng**, Pei Tang, Jing Pei, Luping Shi. <b
 
 ## Conferences
 
-### Going Deeper with Directly-Trained Larger Spiking Neural Networks. (Accepted) <br />
+### Going Deeper with Directly-Trained Larger Spiking Neural Networks. ([pdf](https://arxiv.org/pdf/2011.05280.pdf)) <br />
 Hanle Zheng, Yujie Wu, **Lei Deng**, Yifan Hu, Guoqi Li. <br />
 in *AAAI Conference on Artificial Intelligence (AAAI)*, Virtual Event, February 2021. (acceptance rate: 21%)
 
-### Exploiting Spiking Dynamics with Spatial-temporal Feature Normalization in Graph Learning. (Accepted) <br />
+### Exploiting Spiking Dynamics with Spatial-temporal Feature Normalization in Graph Learning. ([pdf](https://arxiv.org/pdf/2107.06865.pdf)) <br />
 Mingkun Xu, Yujie Wu, **Lei Deng**, Faqiang Liu, Guoqi Li, Jing Pei. <br />
 in *International Joint Conference on Artificial Intelligence (IJCAI)*, Virtual Event, August 2021. (acceptance rate: 13.9%)
 
-### GNNAdvisor: An Adaptive and Efficient Runtime System for GNN Acceleration on GPUs. (Accepted) <br />
+### GNNAdvisor: An Adaptive and Efficient Runtime System for GNN Acceleration on GPUs. ([pdf](https://www.usenix.org/system/files/osdi21-wang-yuke.pdf)) <br />
 Yuke Wang, Boyuan Feng, Gushu Li, Shuangchen Li, **Lei Deng**, Yuan Xie, Yufei Ding. <br />
 in *USENIX Symposium on Operating Systems Design and Implementation (OSDI)*, Virtual Event, July 2021. (acceptance rate: 18.8%)
 
-### SpaceA: Sparse Matrix Vector Multiplication on Processing-in-Memory Accelerator. (Accepted) <br />
+### SpaceA: Sparse Matrix Vector Multiplication on Processing-in-Memory Accelerator. ([link](https://ieeexplore.ieee.org/abstract/document/9407163)) <br />
 Xinfeng Xie, Zheng Liang, Peng Gu, Abanti Basak, **Lei Deng**, Ling Liang, Xing Hu, Yuan Xie. <br />
 in *IEEE International Symposium on High Performance Computer Architecture (HPCA)*, Seoul, South Korea, July 2021. (acceptance rate: 24.4%)
 
