@@ -32,6 +32,10 @@ Ling Liang, Jianyu Xu, **Lei Deng** (correspondence), Mingyu Yan, Xing Hu, Zheng
 Xing Hu, Yang Zhao, **Lei Deng** (correspondence), Ling Liang, Pengfei Zuo, Jing Ye, Yingyan Lin, Yuan Xie. <br />
 *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* 40, 1230-1243 (2021).
 
+### Exploring Adversarial Attack in Spiking Neural Networks with Spike-Compatible Gradient. ([pdf](https://arxiv.org/pdf/2001.01587.pdf)) <br />
+Ling Liang, Xing Hu, **Lei Deng** (correspondence), Yujie Wu, Guoqi Li, Yufei Ding, Peng Li, Yuan Xie. <br />
+Submitted to *IEEE Transactions on Neural Networks and Learning Systems* (2021).
+
 ### Effective and Efficient Batch Normalization Using A Few Uncorrelated Data for Statistics Estimation. ([link](https://ieeexplore.ieee.org/document/9046854)) <br />
 Zhaodong Chen, **Lei Deng** (co-first), Guoqi Li, Jiawei Sun, Xing Hu, Xin Ma, Yuan Xie. <br />
 *IEEE Transactions on Neural Networks and Learning Systems* 32, 348-362 (2021).
@@ -63,6 +67,10 @@ Han Li, Mingyu Yan, Xiaocheng Yang, **Lei Deng**, Wenming Li, Xiaochun Ye, Dongr
 ### QTTNet: Quantized Tensor Train Neural Networks for 3D Object and Video Recognition. ([link](https://www.sciencedirect.com/science/article/abs/pii/S0893608021002306)) <br />
 Donghyun Lee, Dingheng Wang, Yukuan Yang, **Lei Deng**, Guangshe Zhao, Guoqi Li. <br />
 *Neural Networks* (2021).
+
+### Brain-inspired Global-Local Hybrid Learning towards Human-like Intelligence. ([pdf](https://arxiv.org/ftp/arxiv/papers/2006/2006.03226.pdf)) <br />
+Yujie Wu, Rong Zhao, Jun Zhu, Feng Chen, Mingkun Xu, Guoqi Li, Sen Song, **Lei Deng**, Guanrui Wang, Hao Zheng, Jing Pei, Youhui Zhang, Mingguo Zhao, Luping Shi. <br />
+Submitted to *Nature Communications* (2021).
 
 ### Rubik: A Hierarchical Architecture for Efficient Graph Neural Network Training. ([link](https://ieeexplore.ieee.org/abstract/document/9428002)) <br />
 Xiaobing Chen, Yuke Wang, Xinfeng Xie, Xing Hu, Abanti Basak, Ling Liang, Mingyu Yan, **Lei Deng**, Yufei Ding, Zidong Du, Yuan Xie. <br />
@@ -100,10 +108,6 @@ Zhaodong Chen, **Lei Deng** (co-first), Bangyan Wang, Guoqi Li, Yuan Xie. <br />
 Yukuan Yang, **Lei Deng** (co-first), Shuang Wu, Tianyi Yan, Yuan Xie, Guoqi Li. <br />
 *Neural Networks* 125, 70-82 (2020).
 
-### Exploring Adversarial Attack in Spiking Neural Networks with Spike-Compatible Gradient. ([pdf](https://arxiv.org/pdf/2001.01587.pdf)) <br />
-Ling Liang, Xing Hu, **Lei Deng** (correspondence), Yujie Wu, Guoqi Li, Yufei Ding, Peng Li, Yuan Xie. <br />
-Submitted to *IEEE Transactions on Neural Networks and Learning Systems* (2020).
-
 ### Spiking Neural Network Learning, Benchmarking, Programming, and Executing. ([link](https://www.frontiersin.org/articles/10.3389/fnins.2020.00276/full)) <br />
 Guoqi Li, **Lei Deng** (co-first), Yansong Chua, Peng Li, Emre O. Neftci, Haizhou Li. <br />
 *Frontiers in Neuroscience* 14, 276 (2020).
@@ -123,10 +127,6 @@ Bijiao Wu, Dingheng Wang, Guangshe Zhao, **Lei Deng**, Guoqi Li. <br />
 ### A Deadlock-Free Physical Mapping Method on the Many-core Neural Network Chip. ([link](https://www.sciencedirect.com/science/article/abs/pii/S0925231220304653)) <br />
 Cheng Ma, Qi Zhao, Guoqi Li, **Lei Deng**, Guanrui Wang. <br />
 *Neurocomputing* 401, 327-337 (2020).
-
-### Brain-inspired Global-Local Hybrid Learning towards Human-like Intelligence. ([pdf](https://arxiv.org/ftp/arxiv/papers/2006/2006.03226.pdf)) <br />
-Yujie Wu, Rong Zhao, Jun Zhu, Feng Chen, Mingkun Xu, Guoqi Li, Sen Song, **Lei Deng**, Guanrui Wang, Hao Zheng, Jing Pei, Youhui Zhang, Mingguo Zhao, Luping Shi. <br />
-Submitted to *Nature Machine Intelligence* (2020).
 
 ### Power-Efficient Neural Network with Artificial Dendrites. ([link](https://www.nature.com/articles/s41565-020-0722-5)) <br />
 Xinyi Li, Jianshi Tang, Qingtian Zhang, Bin Gao, J. Joshua Yang, Sen Song, Wei Wu, Wenqiang Zhang, Peng Yao, Ning Deng, **Lei Deng**, Yuan Xie, He Qian, Huaqiang Wu. <br />
