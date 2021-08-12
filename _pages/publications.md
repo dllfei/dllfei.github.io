@@ -41,7 +41,7 @@ Zhaodong Chen, **Lei Deng** (co-first), Guoqi Li, Jiawei Sun, Xing Hu, Xin Ma, Y
 *IEEE Transactions on Neural Networks and Learning Systems* 32, 348-362 (2021).
 
 ### Tensor Train Decomposition for Solving Large-Scale Linear Equations. (Accepted) <br />
-Hengnu Chen, **Lei Deng**, Guoqi Li, Yuan Xie. <br />
+Hengnu Chen, **Lei Deng**, Zheng Qu, Ling Liang, Tianyi Yan, Yuan Xie, Guoqi Li. <br />
 *Neurocomputing* (2021).
 
 ### Training and Inference for Integer-based Semantic Segmentation Network. ([link](https://www.sciencedirect.com/science/article/pii/S0925231221006974)) <br />
