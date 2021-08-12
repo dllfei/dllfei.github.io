@@ -28,17 +28,21 @@ Zheng Qu, **Lei Deng** (correspondence), Bangyan Wang, Hengnu Chen, Jilan Lin, L
 Ling Liang, Jianyu Xu, **Lei Deng** (correspondence), Mingyu Yan, Xing Hu, Zheng Zhang, Guoqi Li, Yuan Xie. <br />
 *IEEE Journal of Selected Topics in Signal Processing* 15, 574-586 (2021). (**Cover Paper**)
 
+### Exploring Adversarial Attack in Spiking Neural Networks with Spike-Compatible Gradient. ([pdf](https://arxiv.org/pdf/2001.01587.pdf)) <br />
+Ling Liang, Xing Hu, **Lei Deng** (correspondence), Yujie Wu, Guoqi Li, Yufei Ding, Peng Li, Yuan Xie. <br />
+*IEEE Transactions on Neural Networks and Learning Systems* (2021).
+
 ### Practical Deep Neural Network Attacks through Memory Trojaning. ([link](https://ieeexplore.ieee.org/document/9096397)) <br />
 Xing Hu, Yang Zhao, **Lei Deng** (correspondence), Ling Liang, Pengfei Zuo, Jing Ye, Yingyan Lin, Yuan Xie. <br />
 *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* 40, 1230-1243 (2021).
 
-### Exploring Adversarial Attack in Spiking Neural Networks with Spike-Compatible Gradient. ([pdf](https://arxiv.org/pdf/2001.01587.pdf)) <br />
-Ling Liang, Xing Hu, **Lei Deng** (correspondence), Yujie Wu, Guoqi Li, Yufei Ding, Peng Li, Yuan Xie. <br />
-Submitted to *IEEE Transactions on Neural Networks and Learning Systems* (2021).
-
 ### Effective and Efficient Batch Normalization Using A Few Uncorrelated Data for Statistics Estimation. ([link](https://ieeexplore.ieee.org/document/9046854)) <br />
 Zhaodong Chen, **Lei Deng** (co-first), Guoqi Li, Jiawei Sun, Xing Hu, Xin Ma, Yuan Xie. <br />
 *IEEE Transactions on Neural Networks and Learning Systems* 32, 348-362 (2021).
+
+### Tensor Train Decomposition for Solving Large-Scale Linear Equations. (Accepted) <br />
+Hengnu Chen, **Lei Deng**, Guoqi Li, Yuan Xie. <br />
+*Neurocomputing* (2021).
 
 ### Training and Inference for Integer-based Semantic Segmentation Network. ([link](https://www.sciencedirect.com/science/article/pii/S0925231221006974)) <br />
 Jiayi Yang, **Lei Deng**, Yukuan Yang, Yuan Xie. <br />
