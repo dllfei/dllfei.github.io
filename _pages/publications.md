@@ -76,6 +76,10 @@ Donghyun Lee, Dingheng Wang, Yukuan Yang, **Lei Deng**, Guangshe Zhao, Guoqi Li.
 Yujie Wu, Rong Zhao, Jun Zhu, Feng Chen, Mingkun Xu, Guoqi Li, Sen Song, **Lei Deng**, Guanrui Wang, Hao Zheng, Jing Pei, Youhui Zhang, Mingguo Zhao, Luping Shi. <br />
 Submitted to *Nature Communications* (2021).
 
+### Kronecker CP Decomposition with Fast Multiplication for Compressing RNNs. (Accept) <br />
+Dingheng Wang, Bijiao Wu, Guangshe Zhao, Man Yao, Hengnu Chen, **Lei Deng**, Tianyi Yan, Guoqi Li. <br />
+*IEEE Transactions on Neural Networks and Learning Systems* (2021).
+
 ### Rubik: A Hierarchical Architecture for Efficient Graph Neural Network Training. ([link](https://ieeexplore.ieee.org/abstract/document/9428002)) <br />
 Xiaobing Chen, Yuke Wang, Xinfeng Xie, Xing Hu, Abanti Basak, Ling Liang, Mingyu Yan, **Lei Deng**, Yufei Ding, Zidong Du, Yuan Xie. <br />
 *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (2021).
