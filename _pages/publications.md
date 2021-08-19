@@ -48,9 +48,13 @@ Hengnu Chen, **Lei Deng**, Zheng Qu, Ling Liang, Tianyi Yan, Yuan Xie, Guoqi Li.
 Jiayi Yang, **Lei Deng**, Yukuan Yang, Yuan Xie. <br />
 *Neurocomputing* 454, 101-112 (2021).
 
+### Sampling Methods for Efficient Training of Graph Convolutional Networks: A Survey. (Accepted) <br />
+Xin Liu, Mingyu Yan, **Lei Deng**, Guoqi Li, Xiaochun Ye, Dongrui Fan. <br />
+*IEEE/CAA Journal of Automatica Sinica* (2021).
+
 ### Towards Efficient Full 8-bit Integer DNN Online Training on Resource-limited Devices without Batch Normalization. ([pdf](https://arxiv.org/pdf/2105.13890.pdf)) <br />
 Yukuan Yang, Xiaowei Chi, **Lei Deng**, Tianyi Yan, Feng Gao, Guoqi Li. <br />
-Submitted to *Neural Networks* (2021).
+Submitted to *Neurocomputing* (2021).
 
 ### PLSAV: Parallel Loop Searching and Verifying for Loop Closure Detection. ([pdf](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/itr2.12054)) <br />
 Zhe Yang, Yun Pan, **Lei Deng**, Yuan Xie, Ruohong Huan. <br />
