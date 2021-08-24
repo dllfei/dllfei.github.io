@@ -231,13 +231,17 @@ in *AAAI Conference on Artificial Intelligence (AAAI)*, Virtual Event, February 
 Mingkun Xu, Yujie Wu, **Lei Deng**, Faqiang Liu, Guoqi Li, Jing Pei. <br />
 in *International Joint Conference on Artificial Intelligence (IJCAI)*, Virtual Event, August 2021. (acceptance rate: 13.9%)
 
+### SpaceA: Sparse Matrix Vector Multiplication on Processing-in-Memory Accelerator. ([link](https://ieeexplore.ieee.org/abstract/document/9407163)) <br />
+Xinfeng Xie, Zheng Liang, Peng Gu, Abanti Basak, **Lei Deng**, Ling Liang, Xing Hu, Yuan Xie. <br />
+in *IEEE International Symposium on High Performance Computer Architecture (HPCA)*, Seoul, South Korea, July 2021. (acceptance rate: 24.4%)
+
 ### GNNAdvisor: An Adaptive and Efficient Runtime System for GNN Acceleration on GPUs. ([pdf](https://www.usenix.org/system/files/osdi21-wang-yuke.pdf)) <br />
 Yuke Wang, Boyuan Feng, Gushu Li, Shuangchen Li, **Lei Deng**, Yuan Xie, Yufei Ding. <br />
 in *USENIX Symposium on Operating Systems Design and Implementation (OSDI)*, Virtual Event, July 2021. (acceptance rate: 18.8%)
 
-### SpaceA: Sparse Matrix Vector Multiplication on Processing-in-Memory Accelerator. ([link](https://ieeexplore.ieee.org/abstract/document/9407163)) <br />
-Xinfeng Xie, Zheng Liang, Peng Gu, Abanti Basak, **Lei Deng**, Ling Liang, Xing Hu, Yuan Xie. <br />
-in *IEEE International Symposium on High Performance Computer Architecture (HPCA)*, Seoul, South Korea, July 2021. (acceptance rate: 24.4%)
+### TiAcc: Triangle-inequality based Hardware Accelerator for K-means on FPGAs. ([link](https://ieeexplore.ieee.org/abstract/document/9499568)) <br />
+Yuke Wang, Boyuan Feng, Gushu Li, Georgios Tzimpragos, **Lei Deng**, Yuan Xie, Yufei Ding. <br />
+in *IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid)*, Virtual Event, May 2021.
 
 ### DUET: Boosting Deep Neural Network Efficiency on Dual-Module Architecture. ([link](https://ieeexplore.ieee.org/abstract/document/9251991)) <br />
 Liu Liu, Zheng Qu, **Lei Deng**, Fengbin Tu, Shuangchen Li, Xing Hu, Zhenyu Gu, Yufei Ding, Yuan Xie. <br />
