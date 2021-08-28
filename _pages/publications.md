@@ -14,7 +14,7 @@ author_profile: true
 
 ### Comprehensive SNN Compression Using ADMM Optimization and Activity Regularization. ([pdf](https://arxiv.org/pdf/1911.00822.pdf)) <br />
 **Lei Deng**, Yujie Wu, Yifan Hu, Ling Liang, Guoqi Li, Xing Hu, Yufei Ding, Peng Li, Yuan Xie. <br />
-Submitted to *IEEE Transactions on Neural Networks and Learning Systems* (2021).
+*IEEE Transactions on Neural Networks and Learning Systems* (2021).
 
 ### Efficient Processing of Sparse Tensor Decomposition via Unified Abstraction and PE-interactive Architecture. ([link](https://ieeexplore.ieee.org/document/9314209)) <br />
 Bangyan Wang, **Lei Deng** (correspondence), Zheng Qu, Zheng Zhang, Yuan Xie. <br />
@@ -79,6 +79,10 @@ Donghyun Lee, Dingheng Wang, Yukuan Yang, **Lei Deng**, Guangshe Zhao, Guoqi Li.
 ### Brain-inspired Global-Local Hybrid Learning towards Human-like Intelligence. ([pdf](https://arxiv.org/ftp/arxiv/papers/2006/2006.03226.pdf)) <br />
 Yujie Wu, Rong Zhao, Jun Zhu, Feng Chen, Mingkun Xu, Guoqi Li, Sen Song, **Lei Deng**, Guanrui Wang, Hao Zheng, Jing Pei, Youhui Zhang, Mingguo Zhao, Luping Shi. <br />
 Submitted to *Nature Communications* (2021).
+
+### Nonlinear Tensor Train Format for Deep Neural Network Compression. (Accept) <br />
+Dingheng Wang, Guangshe Zhao, Hengnu Chen, Zhexian Liu, **Lei Deng**, Guoqi Li. <br />
+*Neural Networks* (2021).
 
 ### Kronecker CP Decomposition with Fast Multiplication for Compressing RNNs. (Accept) <br />
 Dingheng Wang, Bijiao Wu, Guangshe Zhao, Man Yao, Hengnu Chen, **Lei Deng**, Tianyi Yan, Guoqi Li. <br />
