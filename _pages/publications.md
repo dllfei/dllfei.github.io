@@ -28,7 +28,7 @@ Zheng Qu, **Lei Deng** (correspondence), Bangyan Wang, Hengnu Chen, Jilan Lin, L
 Ling Liang, Jianyu Xu, **Lei Deng** (correspondence), Mingyu Yan, Xing Hu, Zheng Zhang, Guoqi Li, Yuan Xie. <br />
 *IEEE Journal of Selected Topics in Signal Processing* 15, 574-586 (2021). (**Cover Paper**)
 
-### Exploring Adversarial Attack in Spiking Neural Networks with Spike-Compatible Gradient. ([pdf](https://arxiv.org/pdf/2001.01587.pdf)) <br />
+### Exploring Adversarial Attack in Spiking Neural Networks with Spike-Compatible Gradient. ([link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9527394)) <br />
 Ling Liang, Xing Hu, **Lei Deng** (correspondence), Yujie Wu, Guoqi Li, Yufei Ding, Peng Li, Yuan Xie. <br />
 *IEEE Transactions on Neural Networks and Learning Systems* (2021).
 
@@ -40,17 +40,13 @@ Xing Hu, Yang Zhao, **Lei Deng** (correspondence), Ling Liang, Pengfei Zuo, Jing
 Zhaodong Chen, **Lei Deng** (co-first), Guoqi Li, Jiawei Sun, Xing Hu, Xin Ma, Yuan Xie. <br />
 *IEEE Transactions on Neural Networks and Learning Systems* 32, 348-362 (2021).
 
-### Tensor Train Decomposition for Solving Large-Scale Linear Equations. (Accepted) <br />
+### Tensor Train Decomposition for Solving Large-Scale Linear Equations. ([link](https://www.sciencedirect.com/science/article/pii/S0925231221012182?dgcid=coauthor)) <br />
 Hengnu Chen, **Lei Deng**, Zheng Qu, Ling Liang, Tianyi Yan, Yuan Xie, Guoqi Li. <br />
-*Neurocomputing* (2021).
+*Neurocomputing* 464, 203-217 (2021).
 
 ### Training and Inference for Integer-based Semantic Segmentation Network. ([link](https://www.sciencedirect.com/science/article/pii/S0925231221006974)) <br />
 Jiayi Yang, **Lei Deng**, Yukuan Yang, Yuan Xie. <br />
 *Neurocomputing* 454, 101-112 (2021).
-
-### Sampling Methods for Efficient Training of Graph Convolutional Networks: A Survey. (Accepted) <br />
-Xin Liu, Mingyu Yan, **Lei Deng**, Guoqi Li, Xiaochun Ye, Dongrui Fan. <br />
-*IEEE/CAA Journal of Automatica Sinica* (2021).
 
 ### Towards Efficient Full 8-bit Integer DNN Online Training on Resource-limited Devices without Batch Normalization. ([pdf](https://arxiv.org/pdf/2105.13890.pdf)) <br />
 Yukuan Yang, Xiaowei Chi, **Lei Deng**, Tianyi Yan, Feng Gao, Guoqi Li. <br />
@@ -59,6 +55,14 @@ Submitted to *Neurocomputing* (2021).
 ### PLSAV: Parallel Loop Searching and Verifying for Loop Closure Detection. ([pdf](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/itr2.12054)) <br />
 Zhe Yang, Yun Pan, **Lei Deng**, Yuan Xie, Ruohong Huan. <br />
 *IET Intelligent Transport Systems*, 1-16 (2021).
+
+### Sampling Methods for Efficient Training of Graph Convolutional Networks: A Survey. (Accepted) <br />
+Xin Liu, Mingyu Yan, **Lei Deng**, Guoqi Li, Xiaochun Ye, Dongrui Fan. <br />
+*IEEE/CAA Journal of Automatica Sinica* (2021).
+
+### QTTNet: Quantized Tensor Train Neural Networks for 3D Object and Video Recognition. ([link](https://www.sciencedirect.com/science/article/abs/pii/S0893608021002306)) <br />
+Donghyun Lee, Dingheng Wang, Yukuan Yang, **Lei Deng**, Guangshe Zhao, Guoqi Li. <br />
+*Neural Networks* (2021).
 
 ### STPAcc: Structural TI-based Pruning for Accelerating Distance-related Algorithms on CPU-FPGA Platforms. ([link](https://ieeexplore.ieee.org/abstract/document/9467295)) <br />
 Yuke Wang, Boyuan Feng, Gushu Li, **Lei Deng**, Yuan Xie, Yufei Ding. <br />
@@ -71,10 +75,6 @@ Kun Song, Guoqi Li, Xumin Chen, **Lei Deng**, Gaoxi Xiao, Fei Zeng, Jing Pei. <b
 ### Hardware Acceleration for GCNs via Bidirectional Fusion. ([link](https://ieeexplore.ieee.org/abstract/document/9425440)) <br />
 Han Li, Mingyu Yan, Xiaocheng Yang, **Lei Deng**, Wenming Li, Xiaochun Ye, Dongrui Fan, Yuan Xie. <br />
 *IEEE Computer Architecture Letters* 20, 66-69 (2021).
-
-### QTTNet: Quantized Tensor Train Neural Networks for 3D Object and Video Recognition. ([link](https://www.sciencedirect.com/science/article/abs/pii/S0893608021002306)) <br />
-Donghyun Lee, Dingheng Wang, Yukuan Yang, **Lei Deng**, Guangshe Zhao, Guoqi Li. <br />
-*Neural Networks* (2021).
 
 ### Brain-inspired Global-Local Hybrid Learning towards Human-like Intelligence. ([pdf](https://arxiv.org/ftp/arxiv/papers/2006/2006.03226.pdf)) <br />
 Yujie Wu, Rong Zhao, Jun Zhu, Feng Chen, Mingkun Xu, Guoqi Li, Sen Song, **Lei Deng**, Guanrui Wang, Hao Zheng, Jing Pei, Youhui Zhang, Mingguo Zhao, Luping Shi. <br />
