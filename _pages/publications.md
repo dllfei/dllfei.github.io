@@ -28,7 +28,7 @@ Zheng Qu, **Lei Deng** (correspondence), Bangyan Wang, Hengnu Chen, Jilan Lin, L
 Ling Liang, Jianyu Xu, **Lei Deng** (correspondence), Mingyu Yan, Xing Hu, Zheng Zhang, Guoqi Li, Yuan Xie. <br />
 *IEEE Journal of Selected Topics in Signal Processing* 15, 574-586 (2021). (**Cover Paper**)
 
-### Exploring Adversarial Attack in Spiking Neural Networks with Spike-Compatible Gradient. ([link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9527394)) <br />
+### Exploring Adversarial Attack in Spiking Neural Networks with Spike-Compatible Gradient. ([link](https://ieeexplore.ieee.org/document/9527394)) <br />
 Ling Liang, Xing Hu, **Lei Deng** (correspondence), Yujie Wu, Guoqi Li, Yufei Ding, Peng Li, Yuan Xie. <br />
 *IEEE Transactions on Neural Networks and Learning Systems* (2021).
 
