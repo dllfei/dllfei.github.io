@@ -84,7 +84,7 @@ Submitted to *Nature Communications* (2021).
 Dingheng Wang, Guangshe Zhao, Hengnu Chen, Zhexian Liu, **Lei Deng**, Guoqi Li. <br />
 *Neural Networks* (2021).
 
-### Kronecker CP Decomposition with Fast Multiplication for Compressing RNNs. (Accept) <br />
+### Kronecker CP Decomposition with Fast Multiplication for Compressing RNNs. ([link](https://ieeexplore.ieee.org/document/9540760)) <br />
 Dingheng Wang, Bijiao Wu, Guangshe Zhao, Man Yao, Hengnu Chen, **Lei Deng**, Tianyi Yan, Guoqi Li. <br />
 *IEEE Transactions on Neural Networks and Learning Systems* (2021).
 
