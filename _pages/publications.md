@@ -80,9 +80,9 @@ Han Li, Mingyu Yan, Xiaocheng Yang, **Lei Deng**, Wenming Li, Xiaochun Ye, Dongr
 Yujie Wu, Rong Zhao, Jun Zhu, Feng Chen, Mingkun Xu, Guoqi Li, Sen Song, **Lei Deng**, Guanrui Wang, Hao Zheng, Jing Pei, Youhui Zhang, Mingguo Zhao, Luping Shi. <br />
 Submitted to *Nature Communications* (2021).
 
-### Nonlinear Tensor Train Format for Deep Neural Network Compression. (Accept) <br />
+### Nonlinear Tensor Train Format for Deep Neural Network Compression. ([link](https://www.sciencedirect.com/science/article/pii/S0893608021003415)) <br />
 Dingheng Wang, Guangshe Zhao, Hengnu Chen, Zhexian Liu, **Lei Deng**, Guoqi Li. <br />
-*Neural Networks* (2021).
+*Neural Networks* 144, 320-333 (2021).
 
 ### Kronecker CP Decomposition with Fast Multiplication for Compressing RNNs. ([link](https://ieeexplore.ieee.org/document/9540760)) <br />
 Dingheng Wang, Bijiao Wu, Guangshe Zhao, Man Yao, Hengnu Chen, **Lei Deng**, Tianyi Yan, Guoqi Li. <br />
