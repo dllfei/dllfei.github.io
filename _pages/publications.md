@@ -12,7 +12,7 @@ author_profile: true
 **Lei Deng** (correspondence), Huajin Tang, Kaushik Roy. <br />
 *Frontiers in Computational Neuroscience* 15, 665662 (2021).
 
-### Comprehensive SNN Compression Using ADMM Optimization and Activity Regularization. ([pdf](https://arxiv.org/pdf/1911.00822.pdf)) <br />
+### Comprehensive SNN Compression Using ADMM Optimization and Activity Regularization. ([link](https://ieeexplore.ieee.org/document/9597482)) <br />
 **Lei Deng**, Yujie Wu, Yifan Hu, Ling Liang, Guoqi Li, Xing Hu, Yufei Ding, Peng Li, Yuan Xie. <br />
 *IEEE Transactions on Neural Networks and Learning Systems* (2021).
 
