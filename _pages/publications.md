@@ -82,7 +82,7 @@ Han Li, Mingyu Yan, Xiaocheng Yang, **Lei Deng**, Wenming Li, Xiaochun Ye, Dongr
 
 ### Brain-inspired Global-Local Hybrid Learning towards Human-like Intelligence. ([pdf](https://arxiv.org/ftp/arxiv/papers/2006/2006.03226.pdf)) <br />
 Yujie Wu, Rong Zhao, Jun Zhu, Feng Chen, Mingkun Xu, Guoqi Li, Sen Song, **Lei Deng**, Guanrui Wang, Hao Zheng, Jing Pei, Youhui Zhang, Mingguo Zhao, Luping Shi. <br />
-Submitted to *Nature Communications* (2021).
+*Nature Communications* (2021).
 
 ### Nonlinear Tensor Train Format for Deep Neural Network Compression. ([link](https://www.sciencedirect.com/science/article/pii/S0893608021003415)) <br />
 Dingheng Wang, Guangshe Zhao, Hengnu Chen, Zhexian Liu, **Lei Deng**, Guoqi Li. <br />
@@ -230,6 +230,10 @@ Guoqi Li, Wuhua Hu, Gaoxi Xiao, **Lei Deng**, Pei Tang, Jing Pei, Luping Shi. <b
 
 
 ## Conferences
+
+### A One-for-All and O(Vlog(V))-cost Solution for Parallel Merge Style Operations on Sorted Key-Value Arrays. (Accepted) <br />
+Bangyan Wang, **Lei Deng**, Fei Sun, Guohao Dai, Liu Liu, Yu Wang, Yuan Xie. <br />
+in *International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, Lausanne, Switzerland, February 2022. (acceptance rate: 20%)
 
 ### Going Deeper with Directly-Trained Larger Spiking Neural Networks. ([pdf](https://arxiv.org/pdf/2011.05280.pdf)) <br />
 Hanle Zheng, Yujie Wu, **Lei Deng**, Yifan Hu, Guoqi Li. <br />
