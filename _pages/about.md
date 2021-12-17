@@ -34,7 +34,7 @@ Research Summary
 ======
 My research interests include Brain-inspired Computing, Machine Learning, Computer Architecture, etc.
 
-Research Projects:
+Research Projects: 
 
 ### ASIC Chip for Artificial and/or Spiking Neural Networks
 
