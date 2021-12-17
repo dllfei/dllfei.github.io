@@ -8,6 +8,10 @@ author_profile: true
 
 ## Journals
 
+### A Comprehensive and Modularized Statistical Framework for Gradient Norm Equality in Deep Neural Networks. ([link](https://ieeexplore.ieee.org/abstract/document/9143512)) <br />
+Zhaodong Chen, **Lei Deng** (co-first), Bangyan Wang, Guoqi Li, Yuan Xie. <br />
+*IEEE Transactions on Pattern Analysis and Machine Intelligence* 44, 13-31 (2022).
+
 ### Understanding and Bridging the Gap between Neuromorphic Computing and Machine Learning. ([link](https://www.frontiersin.org/articles/10.3389/fncom.2021.665662/full)) <br />
 **Lei Deng** (correspondence), Huajin Tang, Kaushik Roy. <br />
 *Frontiers in Computational Neuroscience* 15, 665662 (2021).
@@ -119,10 +123,6 @@ Weihua He, Yujie Wu, **Lei Deng** (correspondence), Guoqi Li, Haoyu Wang, Yang T
 ### Core Placement Optimization for Neuromorphic Many-core Neural Network Systems with Reinforcement Learning. ([link](https://dl.acm.org/doi/10.1145/3418498)) <br />
 Nan Wu, **Lei Deng** (correspondence), Guoqi Li, Yuan Xie. <br />
 *ACM Transactions on Design Automation and Electronic Systems* 26, 1-27 (2020).
-
-### A Comprehensive and Modularized Statistical Framework for Gradient Norm Equality in Deep Neural Networks. ([link](https://ieeexplore.ieee.org/abstract/document/9143512?casa_token=1EQBAqmAkCIAAAAA:SR4gtEq656XYGCZR9eZc0ByI_gaMuJWM5oVkqrA3e_RautmRpe6McxC-zKvXEMCNCBzTlRpAdxk)) <br />
-Zhaodong Chen, **Lei Deng** (co-first), Bangyan Wang, Guoqi Li, Yuan Xie. <br />
-*IEEE Transactions on Pattern Analysis and Machine Intelligence* (2020).
 
 ### Training High-Performance and Large-Scale Deep Neural Networks with Full 8-bit Integers. ([link](https://www.sciencedirect.com/science/article/abs/pii/S0893608019304290#!)) <br />
 Yukuan Yang, **Lei Deng** (co-first), Shuang Wu, Tianyi Yan, Yuan Xie, Guoqi Li. <br />
