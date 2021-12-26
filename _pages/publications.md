@@ -12,6 +12,10 @@ author_profile: true
 Zhaodong Chen, **Lei Deng** (co-first), Bangyan Wang, Guoqi Li, Yuan Xie. <br />
 *IEEE Transactions on Pattern Analysis and Machine Intelligence* 44, 13-31 (2022).
 
+### H2Learn: High-Efficiency Learning Accelerator for High-Accuracy Spiking Neural Networks. ([link](https://ieeexplore.ieee.org/document/9662447)) <br />
+Ling Liang, Zheng Qu, Zhaodong Chen, Fengbin Tu, Yujie Wu, **Lei Deng**, Guoqi Li, Peng Li, Yuan Xie. <br />
+*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (2021).
+
 ### Understanding and Bridging the Gap between Neuromorphic Computing and Machine Learning. ([link](https://www.frontiersin.org/articles/10.3389/fncom.2021.665662/full)) <br />
 **Lei Deng** (correspondence), Huajin Tang, Kaushik Roy. <br />
 *Frontiers in Computational Neuroscience* 15, 665662 (2021).
