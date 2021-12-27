@@ -239,6 +239,10 @@ Guoqi Li, Wuhua Hu, Gaoxi Xiao, **Lei Deng**, Pei Tang, Jing Pei, Luping Shi. <b
 
 ## Conferences
 
+### Accelerating Spatiotemporal Supervised Training of Large-Scale Spiking Neural Networks on GPU. (Accepted) <br />
+Ling Liang, Zhaodong Chen, **Lei Deng** (correspondence), Fengbin Tu, Guoqi Li, Yuan Xie. <br />
+in *Design, Automation and Test in Europe (DATE)*, Virtual Event, March 2022.
+
 ### A One-for-All and O(Vlog(V))-cost Solution for Parallel Merge Style Operations on Sorted Key-Value Arrays. (Accepted) <br />
 Bangyan Wang, **Lei Deng**, Fei Sun, Guohao Dai, Liu Liu, Yu Wang, Yuan Xie. <br />
 in *International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, Lausanne, Switzerland, February 2022. (acceptance rate: 20%)
