@@ -68,7 +68,7 @@ Submitted to *Neurocomputing* (2021).
 Zhe Yang, Yun Pan, **Lei Deng**, Yuan Xie, Ruohong Huan. <br />
 *IET Intelligent Transport Systems*, 1-16 (2021).
 
-### Sampling Methods for Efficient Training of Graph Convolutional Networks: A Survey. (Accepted) <br />
+### Sampling Methods for Efficient Training of Graph Convolutional Networks: A Survey. ([link](https://www.ieee-jas.net/article/doi/10.1109/JAS.2021.1004311?pageType=en)) <br />
 Xin Liu, Mingyu Yan, **Lei Deng**, Guoqi Li, Xiaochun Ye, Dongrui Fan. <br />
 *IEEE/CAA Journal of Automatica Sinica* (2021).
 
