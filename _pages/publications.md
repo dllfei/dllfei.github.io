@@ -12,6 +12,10 @@ author_profile: true
 Zhaodong Chen, **Lei Deng** (co-first), Bangyan Wang, Guoqi Li, Yuan Xie. <br />
 *IEEE Transactions on Pattern Analysis and Machine Intelligence* 44, 13-31 (2022).
 
+### Spatiotemporal Input Control: Leveraging Temporal Variation in Network Dynamics. (Accepted) <br />
+Yihan Lin, Jiawei Sun, Guoqi Li, Gaoxi Xiao, Changyun Wen, **Lei Deng**, H. Eugene Stanley. <br />
+*IEEE/CAA Journal of Automatica Sinica* (2022).
+
 ### H2Learn: High-Efficiency Learning Accelerator for High-Accuracy Spiking Neural Networks. ([link](https://ieeexplore.ieee.org/document/9662447)) <br />
 Ling Liang, Zheng Qu, Zhaodong Chen, Fengbin Tu, Yujie Wu, **Lei Deng** (correspondence), Guoqi Li, Peng Li, Yuan Xie. <br />
 *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (2021).
