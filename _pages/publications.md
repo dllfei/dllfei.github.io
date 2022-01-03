@@ -12,6 +12,10 @@ author_profile: true
 Zhaodong Chen, **Lei Deng** (co-first), Bangyan Wang, Guoqi Li, Yuan Xie. <br />
 *IEEE Transactions on Pattern Analysis and Machine Intelligence* 44, 13-31 (2022).
 
+### A Systematic View of Model Leakage Risks in Deep Neural Network Systems. (Accepted) <br />
+Xing Hu, Ling Liang, Xiaobing Chen, **Lei Deng**, Yu Ji, Yufei Ding, Zidong Du, Qi Guo, Timothy Sherwood, Yuan Xie. <br />
+*IEEE Transactions on Computers* (2022).
+
 ### Spatiotemporal Input Control: Leveraging Temporal Variation in Network Dynamics. (Accepted) <br />
 Yihan Lin, Jiawei Sun, Guoqi Li, Gaoxi Xiao, Changyun Wen, **Lei Deng**, H. Eugene Stanley. <br />
 *IEEE/CAA Journal of Automatica Sinica* (2022).
