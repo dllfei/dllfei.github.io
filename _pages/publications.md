@@ -80,9 +80,9 @@ Xin Liu, Mingyu Yan, **Lei Deng**, Guoqi Li, Xiaochun Ye, Dongrui Fan. <br />
 Donghyun Lee, Dingheng Wang, Yukuan Yang, **Lei Deng**, Guangshe Zhao, Guoqi Li. <br />
 *Neural Networks* (2021).
 
-### ES-ImageNet: A Million Event-Stream Classification Dataset for Spiking Neural Networks. ([pdf](https://arxiv.org/pdf/2110.12211.pdf)) <br />
+### ES-ImageNet: A Million Event-Stream Classification Dataset for Spiking Neural Networks. ([link](https://www.frontiersin.org/articles/10.3389/fnins.2021.726582/full)) <br />
 Yihan Lin, Wei Ding, Shaohua Qiang, **Lei Deng**, Guoqi Li. <br />
-*Frontiers in Neuroscience* (2021).
+*Frontiers in Neuroscience* 15, 726582 (2021).
 
 ### STPAcc: Structural TI-based Pruning for Accelerating Distance-related Algorithms on CPU-FPGA Platforms. ([link](https://ieeexplore.ieee.org/abstract/document/9467295)) <br />
 Yuke Wang, Boyuan Feng, Gushu Li, **Lei Deng**, Yuan Xie, Yufei Ding. <br />
