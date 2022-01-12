@@ -20,6 +20,10 @@ Xing Hu, Ling Liang, Xiaobing Chen, **Lei Deng**, Yu Ji, Yufei Ding, Zidong Du, 
 Yihan Lin, Jiawei Sun, Guoqi Li, Gaoxi Xiao, Changyun Wen, **Lei Deng**, H. Eugene Stanley. <br />
 *IEEE/CAA Journal of Automatica Sinica* (2022).
 
+### Brain-inspired Global-Local Learning Incorporated with Neuromorphic Computing. ([pdf](https://www.nature.com/articles/s41467-021-27653-2.pdf)) <br />
+Yujie Wu, Rong Zhao, Jun Zhu, Feng Chen, Mingkun Xu, Guoqi Li, Sen Song, **Lei Deng**, Guanrui Wang, Hao Zheng, Songchen Ma, Jing Pei, Youhui Zhang, Mingguo Zhao, Luping Shi. <br />
+*Nature Communications* 13, 65 (2022).
+
 ### H2Learn: High-Efficiency Learning Accelerator for High-Accuracy Spiking Neural Networks. ([link](https://ieeexplore.ieee.org/document/9662447)) <br />
 Ling Liang, Zheng Qu, Zhaodong Chen, Fengbin Tu, Yujie Wu, **Lei Deng** (correspondence), Guoqi Li, Peng Li, Yuan Xie. <br />
 *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (2021).
@@ -95,10 +99,6 @@ Kun Song, Guoqi Li, Xumin Chen, **Lei Deng**, Gaoxi Xiao, Fei Zeng, Jing Pei. <b
 ### Hardware Acceleration for GCNs via Bidirectional Fusion. ([link](https://ieeexplore.ieee.org/abstract/document/9425440)) <br />
 Han Li, Mingyu Yan, Xiaocheng Yang, **Lei Deng**, Wenming Li, Xiaochun Ye, Dongrui Fan, Yuan Xie. <br />
 *IEEE Computer Architecture Letters* 20, 66-69 (2021).
-
-### Brain-inspired Global-Local Hybrid Learning towards Human-like Intelligence. ([pdf](https://arxiv.org/ftp/arxiv/papers/2006/2006.03226.pdf)) <br />
-Yujie Wu, Rong Zhao, Jun Zhu, Feng Chen, Mingkun Xu, Guoqi Li, Sen Song, **Lei Deng**, Guanrui Wang, Hao Zheng, Jing Pei, Youhui Zhang, Mingguo Zhao, Luping Shi. <br />
-*Nature Communications* (2021).
 
 ### Nonlinear Tensor Train Format for Deep Neural Network Compression. ([link](https://www.sciencedirect.com/science/article/pii/S0893608021003415)) <br />
 Dingheng Wang, Guangshe Zhao, Hengnu Chen, Zhexian Liu, **Lei Deng**, Guoqi Li. <br />
@@ -246,6 +246,10 @@ Guoqi Li, Wuhua Hu, Gaoxi Xiao, **Lei Deng**, Pei Tang, Jing Pei, Luping Shi. <b
 ### Accelerating Spatiotemporal Supervised Training of Large-Scale Spiking Neural Networks on GPU. (Accepted) <br />
 Ling Liang, Zhaodong Chen, **Lei Deng** (correspondence), Fengbin Tu, Guoqi Li, Yuan Xie. <br />
 in *Design, Automation and Test in Europe (DATE)*, Virtual Event, March 2022.
+
+### Spiking Neural Network Integrated Circuits: A Review of Trends and Future Directions. (Accepted) <br />
+Arindam Basu, Charlotte Frenkel, **Lei Deng**, Xueyong Zhang. <br />
+in *IEEE Custom Integrated Circuits Conference (CICC)*, Newport Beach, USA, April 2022. (Oral; all authors contribute equally)
 
 ### A One-for-All and O(Vlog(V))-cost Solution for Parallel Merge Style Operations on Sorted Key-Value Arrays. (Accepted) <br />
 Bangyan Wang, **Lei Deng**, Fei Sun, Guohao Dai, Liu Liu, Yu Wang, Yuan Xie. <br />
