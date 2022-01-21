@@ -12,6 +12,10 @@ author_profile: true
 Bangyan Wang, **Lei Deng** (correspondence), Zheng Qu, Zheng Zhang, Yuan Xie. <br />
 *IEEE Transactions on Computers* 71, 266-281 (2022).
 
+### Hardware-Enabled Efficient Data Processing with Tensor-Train Decomposition. ([link](https://ieeexplore.ieee.org/document/9351565)) <br />
+Zheng Qu, **Lei Deng** (correspondence), Bangyan Wang, Hengnu Chen, Jilan Lin, Ling Liang, Guoqi Li, Zheng Zhang, Yuan Xie. <br />
+*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* 41, 372-385 (2022).
+
 ### A Comprehensive and Modularized Statistical Framework for Gradient Norm Equality in Deep Neural Networks. ([link](https://ieeexplore.ieee.org/abstract/document/9143512)) <br />
 Zhaodong Chen, **Lei Deng** (co-first), Bangyan Wang, Guoqi Li, Yuan Xie. <br />
 *IEEE Transactions on Pattern Analysis and Machine Intelligence* 44, 13-31 (2022).
@@ -39,10 +43,6 @@ Ling Liang, Zheng Qu, Zhaodong Chen, Fengbin Tu, Yujie Wu, **Lei Deng** (corresp
 ### Comprehensive SNN Compression Using ADMM Optimization and Activity Regularization. ([link](https://ieeexplore.ieee.org/document/9597482)) <br />
 **Lei Deng**, Yujie Wu, Yifan Hu, Ling Liang, Guoqi Li, Xing Hu, Yufei Ding, Peng Li, Yuan Xie. <br />
 *IEEE Transactions on Neural Networks and Learning Systems* (2021).
-
-### Hardware-Enabled Efficient Data Processing with Tensor-Train Decomposition. ([link](https://ieeexplore.ieee.org/document/9351565)) <br />
-Zheng Qu, **Lei Deng** (correspondence), Bangyan Wang, Hengnu Chen, Jilan Lin, Ling Liang, Guoqi Li, Zheng Zhang, Yuan Xie. <br />
-*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (2021).
 
 ### Fast Search of the Optimal Contraction Sequence in Tensor Networks. ([link](https://ieeexplore.ieee.org/document/9325533)) <br />
 Ling Liang, Jianyu Xu, **Lei Deng** (correspondence), Mingyu Yan, Xing Hu, Zheng Zhang, Guoqi Li, Yuan Xie. <br />
