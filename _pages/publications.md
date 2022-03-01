@@ -251,7 +251,7 @@ in *Design, Automation and Test in Europe (DATE)*, Virtual Event, March 2022.
 Arindam Basu, Charlotte Frenkel, **Lei Deng**, Xueyong Zhang. <br />
 in *IEEE Custom Integrated Circuits Conference (CICC)*, Newport Beach, USA, April 2022. (Oral; all authors contribute equally)
 
-### A One-for-All and O(Vlog(V))-cost Solution for Parallel Merge Style Operations on Sorted Key-Value Arrays. (Accepted) <br />
+### A One-for-All and O(Vlog(V))-cost Solution for Parallel Merge Style Operations on Sorted Key-Value Arrays. ([link](https://dl.acm.org/doi/abs/10.1145/3503222.3507728)) <br />
 Bangyan Wang, **Lei Deng**, Fei Sun, Guohao Dai, Liu Liu, Yu Wang, Yuan Xie. <br />
 in *International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, Lausanne, Switzerland, February 2022. (acceptance rate: 20%)
 
