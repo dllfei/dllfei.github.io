@@ -24,7 +24,7 @@ Zhaodong Chen, **Lei Deng** (co-first), Bangyan Wang, Guoqi Li, Yuan Xie. <br />
 Xing Hu, Ling Liang, Xiaobing Chen, **Lei Deng**, Yu Ji, Yufei Ding, Zidong Du, Qi Guo, Timothy Sherwood, Yuan Xie. <br />
 *IEEE Transactions on Computers* (2022).
 
-### Spatiotemporal Input Control: Leveraging Temporal Variation in Network Dynamics. (Accepted) <br />
+### Spatiotemporal Input Control: Leveraging Temporal Variation in Network Dynamics. ([link](https://ieeexplore.ieee.org/abstract/document/9732319?casa_token=glAprU4SZi0AAAAA:d-UH0Y_QUGcktB7Y9zQHAAB-_SEpTbpSW4zANkYIxl9tC8UhkvRloGDAvPo5YEZAlL6VMHik-A)) <br />
 Yihan Lin, Jiawei Sun, Guoqi Li, Gaoxi Xiao, Changyun Wen, **Lei Deng**, H. Eugene Stanley. <br />
 *IEEE/CAA Journal of Automatica Sinica* (2022).
 
