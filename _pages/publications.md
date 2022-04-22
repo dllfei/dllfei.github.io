@@ -24,6 +24,10 @@ Zhaodong Chen, **Lei Deng** (co-first), Bangyan Wang, Guoqi Li, Yuan Xie. <br />
 Xing Hu, Ling Liang, Xiaobing Chen, **Lei Deng**, Yu Ji, Yufei Ding, Zidong Du, Qi Guo, Timothy Sherwood, Yuan Xie. <br />
 *IEEE Transactions on Computers* (2022).
 
+### STPAcc: Structural TI-based Pruning for Accelerating Distance-related Algorithms on CPU-FPGA Platforms. ([link](https://ieeexplore.ieee.org/abstract/document/9467295)) <br />
+Yuke Wang, Boyuan Feng, Gushu Li, **Lei Deng**, Yuan Xie, Yufei Ding. <br />
+*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* 41, 1358-1370 (2022).
+
 ### Spatiotemporal Input Control: Leveraging Temporal Variation in Network Dynamics. ([link](https://ieeexplore.ieee.org/abstract/document/9732319?casa_token=glAprU4SZi0AAAAA:d-UH0Y_QUGcktB7Y9zQHAAB-_SEpTbpSW4zANkYIxl9tC8UhkvRloGDAvPo5YEZAlL6VMHik-A)) <br />
 Yihan Lin, Jiawei Sun, Guoqi Li, Gaoxi Xiao, Changyun Wen, **Lei Deng**, H. Eugene Stanley. <br />
 *IEEE/CAA Journal of Automatica Sinica* 9, 635-651 (2022).
@@ -91,10 +95,6 @@ Donghyun Lee, Dingheng Wang, Yukuan Yang, **Lei Deng**, Guangshe Zhao, Guoqi Li.
 ### ES-ImageNet: A Million Event-Stream Classification Dataset for Spiking Neural Networks. ([link](https://www.frontiersin.org/articles/10.3389/fnins.2021.726582/full)) <br />
 Yihan Lin, Wei Ding, Shaohua Qiang, **Lei Deng**, Guoqi Li. <br />
 *Frontiers in Neuroscience* 15, 726582 (2021).
-
-### STPAcc: Structural TI-based Pruning for Accelerating Distance-related Algorithms on CPU-FPGA Platforms. ([link](https://ieeexplore.ieee.org/abstract/document/9467295)) <br />
-Yuke Wang, Boyuan Feng, Gushu Li, **Lei Deng**, Yuan Xie, Yufei Ding. <br />
-*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (2021).
 
 ### Target Controllability of Two-layer Multiplex Networks based on Network Flow Theory. ([link](https://ieeexplore.ieee.org/abstract/doment/8685693)) <br />
 Kun Song, Guoqi Li, Xumin Chen, **Lei Deng**, Gaoxi Xiao, Fei Zeng, Jing Pei. <br />
