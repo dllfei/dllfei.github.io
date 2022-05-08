@@ -20,6 +20,10 @@ Zheng Qu, **Lei Deng** (correspondence), Bangyan Wang, Hengnu Chen, Jilan Lin, L
 Zhaodong Chen, **Lei Deng** (co-first), Bangyan Wang, Guoqi Li, Yuan Xie. <br />
 *IEEE Transactions on Pattern Analysis and Machine Intelligence* 44, 13-31 (2022).
 
+### Toward Robust Spiking Neural Network Against Adversarial Perturbation. ([pdf](https://arxiv.org/pdf/2205.01625.pdf)) <br />
+Ling Liang, Kaidi Xu, Xing Hu, **Lei Deng**, Yuan Xie. <br />
+*arXiv: 2205.01625* (2022).
+
 ### A Systematic View of Model Leakage Risks in Deep Neural Network Systems. ([link](https://ieeexplore.ieee.org/abstract/document/9705069)) <br />
 Xing Hu, Ling Liang, Xiaobing Chen, **Lei Deng**, Yu Ji, Yufei Ding, Zidong Du, Qi Guo, Timothy Sherwood, Yuan Xie. <br />
 *IEEE Transactions on Computers* (2022).
