@@ -247,7 +247,7 @@ Guoqi Li, Wuhua Hu, Gaoxi Xiao, **Lei Deng**, Pei Tang, Jing Pei, Luping Shi. <b
 
 ## Conferences
 
-### Accelerating Spatiotemporal Supervised Training of Large-Scale Spiking Neural Networks on GPU. (Accepted) <br />
+### Accelerating Spatiotemporal Supervised Training of Large-Scale Spiking Neural Networks on GPU. ([link](https://ieeexplore.ieee.org/abstract/document/9774780)) <br />
 Ling Liang, Zhaodong Chen, **Lei Deng** (correspondence), Fengbin Tu, Guoqi Li, Yuan Xie. <br />
 in *Design, Automation and Test in Europe (DATE)*, Virtual Event, March 2022.
 
