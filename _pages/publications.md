@@ -251,7 +251,7 @@ Guoqi Li, Wuhua Hu, Gaoxi Xiao, **Lei Deng**, Pei Tang, Jing Pei, Luping Shi. <b
 Ling Liang, Zhaodong Chen, **Lei Deng** (correspondence), Fengbin Tu, Guoqi Li, Yuan Xie. <br />
 in *Design, Automation and Test in Europe (DATE)*, Virtual Event, March 2022.
 
-### Spiking Neural Network Integrated Circuits: A Review of Trends and Future Directions. (Accepted) <br />
+### Spiking Neural Network Integrated Circuits: A Review of Trends and Future Directions. ([link](https://ieeexplore.ieee.org/abstract/document/9772783)) <br />
 Arindam Basu, Charlotte Frenkel, **Lei Deng**, Xueyong Zhang. <br />
 in *IEEE Custom Integrated Circuits Conference (CICC)*, Newport Beach, USA, April 2022. (Oral; all authors contribute equally)
 
