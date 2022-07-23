@@ -16,6 +16,10 @@ Bangyan Wang, **Lei Deng** (correspondence), Zheng Qu, Zheng Zhang, Yuan Xie. <b
 Zheng Qu, **Lei Deng** (correspondence), Bangyan Wang, Hengnu Chen, Jilan Lin, Ling Liang, Guoqi Li, Zheng Zhang, Yuan Xie. <br />
 *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* 41, 372-385 (2022).
 
+### Multi-grained System Integration for Hybrid-paradigm Brain-inspired Computing. (Accepted) <br />
+Jing Pei, **Lei Deng** (co-first), Cheng Ma, Xue Liu, Luping Shi. <br />
+*Science China Information Sciences* (2022).
+
 ### A Comprehensive and Modularized Statistical Framework for Gradient Norm Equality in Deep Neural Networks. ([link](https://ieeexplore.ieee.org/abstract/document/9143512)) <br />
 Zhaodong Chen, **Lei Deng** (co-first), Bangyan Wang, Guoqi Li, Yuan Xie. <br />
 *IEEE Transactions on Pattern Analysis and Machine Intelligence* 44, 13-31 (2022).
