@@ -20,6 +20,10 @@ Zheng Qu, **Lei Deng** (correspondence), Bangyan Wang, Hengnu Chen, Jilan Lin, L
 Zhaodong Chen, **Lei Deng** (co-first), Bangyan Wang, Guoqi Li, Yuan Xie. <br />
 *IEEE Transactions on Pattern Analysis and Machine Intelligence* 44, 13-31 (2022).
 
+### Towards Efficient Full 8-bit Integer DNN Online Training on Resource-limited Devices without Batch Normalization. ([pdf](https://arxiv.org/pdf/2105.13890.pdf)) <br />
+Yukuan Yang, Xiaowei Chi, **Lei Deng**, Tianyi Yan, Feng Gao, Guoqi Li. <br />
+Submitted to *Neurocomputing* (2022).
+
 ### Toward Robust Spiking Neural Network Against Adversarial Perturbation. ([pdf](https://arxiv.org/pdf/2205.01625.pdf)) <br />
 Ling Liang, Kaidi Xu, Xing Hu, **Lei Deng**, Yuan Xie. <br />
 *arXiv: 2205.01625* (2022).
@@ -80,10 +84,6 @@ Hengnu Chen, **Lei Deng**, Zheng Qu, Ling Liang, Tianyi Yan, Yuan Xie, Guoqi Li.
 Jiayi Yang, **Lei Deng**, Yukuan Yang, Yuan Xie. <br />
 *Neurocomputing* 454, 101-112 (2021).
 
-### Towards Efficient Full 8-bit Integer DNN Online Training on Resource-limited Devices without Batch Normalization. ([pdf](https://arxiv.org/pdf/2105.13890.pdf)) <br />
-Yukuan Yang, Xiaowei Chi, **Lei Deng**, Tianyi Yan, Feng Gao, Guoqi Li. <br />
-Submitted to *Neurocomputing* (2021).
-
 ### PLSAV: Parallel Loop Searching and Verifying for Loop Closure Detection. ([pdf](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/itr2.12054)) <br />
 Zhe Yang, Yun Pan, **Lei Deng**, Yuan Xie, Ruohong Huan. <br />
 *IET Intelligent Transport Systems*, 1-16 (2021).
@@ -118,7 +118,7 @@ Dingheng Wang, Bijiao Wu, Guangshe Zhao, Man Yao, Hengnu Chen, **Lei Deng**, Tia
 
 ### Model Compression and Hardware Acceleration for Neural Networks: A Comprehensive Survey. ([link](https://ieeexplore.ieee.org/document/9043731)) <br />
 **Lei Deng**, Guoqi Li, Song Han, Luping Shi, Yuan Xie. <br />
-*Proceedings of the IEEE* 108, 485-532 (2020).
+*Proceedings of the IEEE* 108, 485-532 (2020). (**Cover Paper**)
 
 ### Tianjic: A Unified and Scalable Chip Bridging Spike-based and Continuous Neural Computation. ([link](https://ieeexplore.ieee.org/document/8998338)) <br />
 **Lei Deng**, Guanrui Wang, Guoqi Li, Shuangchen Li, Ling Liang, Maohua Zhu, Yujie Wu, Zheyu Yang, Zhe Zou, Jing Pei, Zhenzhi Wu, Xing Hu, Yufei Ding, Wei He, Yuan Xie, Luping Shi. <br />
