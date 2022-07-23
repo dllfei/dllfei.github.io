@@ -26,7 +26,7 @@ Zhaodong Chen, **Lei Deng** (co-first), Bangyan Wang, Guoqi Li, Yuan Xie. <br />
 
 ### Towards Efficient Full 8-bit Integer DNN Online Training on Resource-limited Devices without Batch Normalization. ([pdf](https://arxiv.org/pdf/2105.13890.pdf)) <br />
 Yukuan Yang, Xiaowei Chi, **Lei Deng**, Tianyi Yan, Feng Gao, Guoqi Li. <br />
-Submitted to *Neurocomputing* (2022).
+*Neurocomputing* (2022).
 
 ### Toward Robust Spiking Neural Network Against Adversarial Perturbation. ([pdf](https://arxiv.org/pdf/2205.01625.pdf)) <br />
 Ling Liang, Kaidi Xu, Xing Hu, **Lei Deng**, Yuan Xie. <br />
