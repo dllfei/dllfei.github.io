@@ -16,6 +16,10 @@ Bangyan Wang, **Lei Deng** (correspondence), Zheng Qu, Zheng Zhang, Yuan Xie. <b
 Zheng Qu, **Lei Deng** (correspondence), Bangyan Wang, Hengnu Chen, Jilan Lin, Ling Liang, Guoqi Li, Zheng Zhang, Yuan Xie. <br />
 *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* 41, 372-385 (2022).
 
+### General Spiking Neural Network Framework for Learning Trajectory from Noisy mmWave Radar. ([link](https://iopscience.iop.org/article/10.1088/2634-4386/ac889b)) <br />
+Xin Liu, Mingyu Yan, **Lei Deng** (correspondence), Yujie Wu, De Han, Guoqi Li, Xiaochun Ye, Dongrui Fan. <br />
+*Neuromorphic Computing and Engineering* (2022).
+
 ### Multi-grained System Integration for Hybrid-paradigm Brain-inspired Computing. (Accepted) <br />
 Jing Pei, **Lei Deng** (co-first), Cheng Ma, Xue Liu, Luping Shi. <br />
 *Science China Information Sciences* (2022).
