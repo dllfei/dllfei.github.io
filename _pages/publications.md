@@ -28,13 +28,9 @@ Jing Pei, **Lei Deng** (co-first), Cheng Ma, Xue Liu, Luping Shi. <br />
 Zhaodong Chen, **Lei Deng** (co-first), Bangyan Wang, Guoqi Li, Yuan Xie. <br />
 *IEEE Transactions on Pattern Analysis and Machine Intelligence* 44, 13-31 (2022).
 
-### Towards Efficient Full 8-bit Integer DNN Online Training on Resource-limited Devices without Batch Normalization. ([pdf](https://arxiv.org/pdf/2105.13890.pdf)) <br />
+### Towards Efficient Full 8-bit Integer DNN Online Training on Resource-limited Devices without Batch Normalization. ([link]([https://iopscience.iop.org/article/10.1088/2634-4386/ac889b](https://www.sciencedirect.com/science/article/pii/S0925231222010311?casa_token=I6_JrW4M9M0AAAAA:X4pgKs7pgCogxdk2eukqNp3_BZYvJWtyqYshAUKcI3fyLbMKuvNLdYcY8M71zIfJh6PgwCTr))) <br />
 Yukuan Yang, Xiaowei Chi, **Lei Deng**, Tianyi Yan, Feng Gao, Guoqi Li. <br />
 *Neurocomputing* 511, 175-186 (2022).
-
-### Toward Robust Spiking Neural Network Against Adversarial Perturbation. ([pdf](https://arxiv.org/pdf/2205.01625.pdf)) <br />
-Ling Liang, Kaidi Xu, Xing Hu, **Lei Deng**, Yuan Xie. <br />
-*arXiv: 2205.01625* (2022).
 
 ### A Systematic View of Model Leakage Risks in Deep Neural Network Systems. ([link](https://ieeexplore.ieee.org/abstract/document/9705069)) <br />
 Xing Hu, Ling Liang, Xiaobing Chen, **Lei Deng**, Yu Ji, Yufei Ding, Zidong Du, Qi Guo, Timothy Sherwood, Yuan Xie. <br />
@@ -269,7 +265,7 @@ in *International Conference on Architectural Support for Programming Languages 
 
 ### Toward Robust Spiking Neural Network against Adversarial Perturbation. (Accepted) <br />
 Ling Liang, Kaidi Xu, Xing Hu, **Lei Deng**, Yuan Xie. <br />
-in *Advances in Neural Information Processing Systems (NeurIPS)*, New Orleans, USA, November 2022. (acceptance rate: 20.8%)
+in *Advances in Neural Information Processing Systems (NeurIPS)*, New Orleans, USA, November 2022. (acceptance rate: 25.6%)
 
 ### Going Deeper with Directly-Trained Larger Spiking Neural Networks. ([pdf](https://arxiv.org/pdf/2011.05280.pdf)) <br />
 Hanle Zheng, Yujie Wu, **Lei Deng**, Yifan Hu, Guoqi Li. <br />
