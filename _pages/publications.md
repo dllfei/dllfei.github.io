@@ -18,7 +18,7 @@ Zheng Qu, **Lei Deng** (correspondence), Bangyan Wang, Hengnu Chen, Jilan Lin, L
 
 ### General Spiking Neural Network Framework for Learning Trajectory from Noisy mmWave Radar. ([link](https://iopscience.iop.org/article/10.1088/2634-4386/ac889b)) <br />
 Xin Liu, Mingyu Yan, **Lei Deng** (correspondence), Yujie Wu, De Han, Guoqi Li, Xiaochun Ye, Dongrui Fan. <br />
-*Neuromorphic Computing and Engineering* (2022).
+*Neuromorphic Computing and Engineering* 2, 034013 (2022).
 
 ### Multi-grained System Integration for Hybrid-paradigm Brain-inspired Computing. (Accepted) <br />
 Jing Pei, **Lei Deng** (co-first), Cheng Ma, Xue Liu, Luping Shi. <br />
@@ -30,7 +30,7 @@ Zhaodong Chen, **Lei Deng** (co-first), Bangyan Wang, Guoqi Li, Yuan Xie. <br />
 
 ### Towards Efficient Full 8-bit Integer DNN Online Training on Resource-limited Devices without Batch Normalization. ([pdf](https://arxiv.org/pdf/2105.13890.pdf)) <br />
 Yukuan Yang, Xiaowei Chi, **Lei Deng**, Tianyi Yan, Feng Gao, Guoqi Li. <br />
-*Neurocomputing* (2022).
+*Neurocomputing* 511, 175-186 (2022).
 
 ### Toward Robust Spiking Neural Network Against Adversarial Perturbation. ([pdf](https://arxiv.org/pdf/2205.01625.pdf)) <br />
 Ling Liang, Kaidi Xu, Xing Hu, **Lei Deng**, Yuan Xie. <br />
@@ -266,6 +266,10 @@ in *IEEE Custom Integrated Circuits Conference (CICC)*, Newport Beach, USA, Apri
 ### A One-for-All and O(Vlog(V))-cost Solution for Parallel Merge Style Operations on Sorted Key-Value Arrays. ([link](https://dl.acm.org/doi/abs/10.1145/3503222.3507728)) <br />
 Bangyan Wang, **Lei Deng**, Fei Sun, Guohao Dai, Liu Liu, Yu Wang, Yuan Xie. <br />
 in *International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, Lausanne, Switzerland, February 2022. (acceptance rate: 20%)
+
+### Toward Robust Spiking Neural Network against Adversarial Perturbation. (Accepted) <br />
+Ling Liang, Kaidi Xu, Xing Hu, **Lei Deng**, Yuan Xie. <br />
+in *Advances in Neural Information Processing Systems (NeurIPS)*, New Orleans, USA, November 2022. (acceptance rate: 20.8%)
 
 ### Going Deeper with Directly-Trained Larger Spiking Neural Networks. ([pdf](https://arxiv.org/pdf/2011.05280.pdf)) <br />
 Hanle Zheng, Yujie Wu, **Lei Deng**, Yifan Hu, Guoqi Li. <br />
