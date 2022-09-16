@@ -28,7 +28,7 @@ Jing Pei, **Lei Deng** (co-first), Cheng Ma, Xue Liu, Luping Shi. <br />
 Zhaodong Chen, **Lei Deng** (co-first), Bangyan Wang, Guoqi Li, Yuan Xie. <br />
 *IEEE Transactions on Pattern Analysis and Machine Intelligence* 44, 13-31 (2022).
 
-### Towards Efficient Full 8-bit Integer DNN Online Training on Resource-limited Devices without Batch Normalization. ([link]([https://iopscience.iop.org/article/10.1088/2634-4386/ac889b](https://www.sciencedirect.com/science/article/pii/S0925231222010311?casa_token=I6_JrW4M9M0AAAAA:X4pgKs7pgCogxdk2eukqNp3_BZYvJWtyqYshAUKcI3fyLbMKuvNLdYcY8M71zIfJh6PgwCTr))) <br />
+### Towards Efficient Full 8-bit Integer DNN Online Training on Resource-limited Devices without Batch Normalization. ([link](https://www.sciencedirect.com/science/article/pii/S0925231222010311?casa_token=I6_JrW4M9M0AAAAA:X4pgKs7pgCogxdk2eukqNp3_BZYvJWtyqYshAUKcI3fyLbMKuvNLdYcY8M71zIfJh6PgwCTr)) <br />
 Yukuan Yang, Xiaowei Chi, **Lei Deng**, Tianyi Yan, Feng Gao, Guoqi Li. <br />
 *Neurocomputing* 511, 175-186 (2022).
 
