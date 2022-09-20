@@ -32,6 +32,10 @@ Zhaodong Chen, **Lei Deng** (co-first), Bangyan Wang, Guoqi Li, Yuan Xie. <br />
 Yukuan Yang, Xiaowei Chi, **Lei Deng**, Tianyi Yan, Feng Gao, Guoqi Li. <br />
 *Neurocomputing* 511, 175-186 (2022).
 
+### Multi-layer Rotation Memory Model-based Correlation Filter for Visual Tracking. ([link](https://www.frontiersin.org/articles/10.3389/fphy.2022.1003517/full)) <br />
+Yufei Zhao, Yong Song, Guoqi Li, **Lei Deng**, Yashuo Bai, Xiyan Wu. <br />
+*Frontiers in Physics* 10, 1003517 (2022).
+
 ### A Systematic View of Model Leakage Risks in Deep Neural Network Systems. ([link](https://ieeexplore.ieee.org/abstract/document/9705069)) <br />
 Xing Hu, Ling Liang, Xiaobing Chen, **Lei Deng**, Yu Ji, Yufei Ding, Zidong Du, Qi Guo, Timothy Sherwood, Yuan Xie. <br />
 *IEEE Transactions on Computers* (2022).
