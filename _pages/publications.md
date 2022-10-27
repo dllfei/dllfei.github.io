@@ -20,6 +20,10 @@ Zheng Qu, **Lei Deng** (correspondence), Bangyan Wang, Hengnu Chen, Jilan Lin, L
 Xin Liu, Mingyu Yan, **Lei Deng** (correspondence), Yujie Wu, De Han, Guoqi Li, Xiaochun Ye, Dongrui Fan. <br />
 *Neuromorphic Computing and Engineering* 2, 034013 (2022).
 
+### H2Learn: High-Efficiency Learning Accelerator for High-Accuracy Spiking Neural Networks. ([link](https://ieeexplore.ieee.org/document/9662447)) <br />
+Ling Liang, Zheng Qu, Zhaodong Chen, Fengbin Tu, Yujie Wu, **Lei Deng** (correspondence), Guoqi Li, Peng Li, Yuan Xie. <br />
+*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* 41, 4782-4796 (2022).
+
 ### Multi-grained System Integration for Hybrid-paradigm Brain-inspired Computing. (Accepted) <br />
 Jing Pei, **Lei Deng** (co-first), Cheng Ma, Xue Liu, Luping Shi. <br />
 *Science China Information Sciences* (2022).
@@ -55,10 +59,6 @@ Yujie Wu, Rong Zhao, Jun Zhu, Feng Chen, Mingkun Xu, Guoqi Li, Sen Song, **Lei D
 ### Rubik: A Hierarchical Architecture for Efficient Graph Neural Network Training. ([link](https://ieeexplore.ieee.org/abstract/document/9428002)) <br />
 Xiaobing Chen, Yuke Wang, Xinfeng Xie, Xing Hu, Abanti Basak, Ling Liang, Mingyu Yan, **Lei Deng**, Yufei Ding, Zidong Du, Yuan Xie. <br />
 *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* 41, 936-949 (2022).
-
-### H2Learn: High-Efficiency Learning Accelerator for High-Accuracy Spiking Neural Networks. ([link](https://ieeexplore.ieee.org/document/9662447)) <br />
-Ling Liang, Zheng Qu, Zhaodong Chen, Fengbin Tu, Yujie Wu, **Lei Deng** (correspondence), Guoqi Li, Peng Li, Yuan Xie. <br />
-*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (2021).
 
 ### Understanding and Bridging the Gap between Neuromorphic Computing and Machine Learning. ([link](https://www.frontiersin.org/articles/10.3389/fncom.2021.665662/full)) <br />
 **Lei Deng** (correspondence), Huajin Tang, Kaushik Roy. <br />
