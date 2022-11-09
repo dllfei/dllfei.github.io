@@ -36,6 +36,10 @@ Zhaodong Chen, **Lei Deng** (co-first), Bangyan Wang, Guoqi Li, Yuan Xie. <br />
 Yukuan Yang, Xiaowei Chi, **Lei Deng**, Tianyi Yan, Feng Gao, Guoqi Li. <br />
 *Neurocomputing* 511, 175-186 (2022).
 
+### Sampling Methods for Efficient Training of Graph Convolutional Networks: A Survey. ([link](https://www.ieee-jas.net/article/doi/10.1109/JAS.2021.1004311?pageType=en)) <br />
+Xin Liu, Mingyu Yan, **Lei Deng**, Guoqi Li, Xiaochun Ye, Dongrui Fan. <br />
+*IEEE/CAA Journal of Automatica Sinica* 9, 205-234 (2022).
+
 ### Multi-layer Rotation Memory Model-based Correlation Filter for Visual Tracking. ([link](https://www.frontiersin.org/articles/10.3389/fphy.2022.1003517/full)) <br />
 Yufei Zhao, Yong Song, Guoqi Li, **Lei Deng**, Yashuo Bai, Xiyan Wu. <br />
 *Frontiers in Physics* 10, 1003517 (2022).
@@ -95,10 +99,6 @@ Jiayi Yang, **Lei Deng**, Yukuan Yang, Yuan Xie. <br />
 ### PLSAV: Parallel Loop Searching and Verifying for Loop Closure Detection. ([pdf](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/itr2.12054)) <br />
 Zhe Yang, Yun Pan, **Lei Deng**, Yuan Xie, Ruohong Huan. <br />
 *IET Intelligent Transport Systems*, 1-16 (2021).
-
-### Sampling Methods for Efficient Training of Graph Convolutional Networks: A Survey. ([link](https://www.ieee-jas.net/article/doi/10.1109/JAS.2021.1004311?pageType=en)) <br />
-Xin Liu, Mingyu Yan, **Lei Deng**, Guoqi Li, Xiaochun Ye, Dongrui Fan. <br />
-*IEEE/CAA Journal of Automatica Sinica* (2021).
 
 ### QTTNet: Quantized Tensor Train Neural Networks for 3D Object and Video Recognition. ([link](https://www.sciencedirect.com/science/article/abs/pii/S0893608021002306)) <br />
 Donghyun Lee, Dingheng Wang, Yukuan Yang, **Lei Deng**, Guangshe Zhao, Guoqi Li. <br />
