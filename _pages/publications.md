@@ -16,7 +16,7 @@ Bangyan Wang, **Lei Deng** (correspondence), Zheng Qu, Zheng Zhang, Yuan Xie. <b
 Zheng Qu, **Lei Deng** (correspondence), Bangyan Wang, Hengnu Chen, Jilan Lin, Ling Liang, Guoqi Li, Zheng Zhang, Yuan Xie. <br />
 *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* 41, 372-385 (2022).
 
-### General Spiking Neural Network Framework for Learning Trajectory from Noisy mmWave Radar. ([link](https://iopscience.iop.org/article/10.1088/2634-4386/ac889b)) <br />
+### General Spiking Neural Network Framework for the Learning Trajectory from A Noisy mmWave Radar. ([link](https://iopscience.iop.org/article/10.1088/2634-4386/ac889b)) <br />
 Xin Liu, Mingyu Yan, **Lei Deng** (correspondence), Yujie Wu, De Han, Guoqi Li, Xiaochun Ye, Dongrui Fan. <br />
 *Neuromorphic Computing and Engineering* 2, 034013 (2022).
 
