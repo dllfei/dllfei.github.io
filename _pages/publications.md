@@ -8,6 +8,10 @@ author_profile: true
 
 ## Journals
 
+### Attention Spiking Neural Networks. ([link](https://ieeexplore.ieee.org/abstract/document/10032591)) <br />
+Man Yao, Guangshe Zhao, Hengyu Zhang, Yifan Hu, **Lei Deng**, Yonghong Tian, Bo Xu, Guoqi Li. <br />
+*IEEE Transactions on Pattern Analysis and Machine Intelligence* (2023).
+
 ### Efficient Processing of Sparse Tensor Decomposition via Unified Abstraction and PE-interactive Architecture. ([link](https://ieeexplore.ieee.org/document/9314209)) <br />
 Bangyan Wang, **Lei Deng** (correspondence), Zheng Qu, Zheng Zhang, Yuan Xie. <br />
 *IEEE Transactions on Computers* 71, 266-281 (2022).
@@ -46,7 +50,7 @@ Yufei Zhao, Yong Song, Guoqi Li, **Lei Deng**, Yashuo Bai, Xiyan Wu. <br />
 
 ### A Systematic View of Model Leakage Risks in Deep Neural Network Systems. ([link](https://ieeexplore.ieee.org/abstract/document/9705069)) <br />
 Xing Hu, Ling Liang, Xiaobing Chen, **Lei Deng**, Yu Ji, Yufei Ding, Zidong Du, Qi Guo, Timothy Sherwood, Yuan Xie. <br />
-*IEEE Transactions on Computers* (2022).
+*IEEE Transactions on Computers* 71, 3254-3267 (2022).
 
 ### STPAcc: Structural TI-based Pruning for Accelerating Distance-related Algorithms on CPU-FPGA Platforms. ([link](https://ieeexplore.ieee.org/abstract/document/9467295)) <br />
 Yuke Wang, Boyuan Feng, Gushu Li, **Lei Deng**, Yuan Xie, Yufei Ding. <br />
@@ -267,7 +271,7 @@ in *IEEE Custom Integrated Circuits Conference (CICC)*, Newport Beach, USA, Apri
 Bangyan Wang, **Lei Deng**, Fei Sun, Guohao Dai, Liu Liu, Yu Wang, Yuan Xie. <br />
 in *International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, Lausanne, Switzerland, February 2022. (acceptance rate: 20%)
 
-### Toward Robust Spiking Neural Network against Adversarial Perturbation. (Accepted) <br />
+### Toward Robust Spiking Neural Network against Adversarial Perturbation. ([pdf](https://arxiv.org/pdf/2205.01625.pdf)) <br />
 Ling Liang, Kaidi Xu, Xing Hu, **Lei Deng**, Yuan Xie. <br />
 in *Advances in Neural Information Processing Systems (NeurIPS)*, New Orleans, USA, November 2022. (acceptance rate: 25.6%)
 
