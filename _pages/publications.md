@@ -8,9 +8,17 @@ author_profile: true
 
 ## Journals
 
+### Exploring Adversarial Attack in Spiking Neural Networks with Spike-Compatible Gradient. ([link](https://ieeexplore.ieee.org/document/9527394)) <br />
+Ling Liang, Xing Hu, **Lei Deng** (correspondence), Yujie Wu, Guoqi Li, Yufei Ding, Peng Li, Yuan Xie. <br />
+*IEEE Transactions on Neural Networks and Learning Systems* 34, 2569-2583 (2023).
+
 ### Attention Spiking Neural Networks. ([link](https://ieeexplore.ieee.org/abstract/document/10032591)) <br />
 Man Yao, Guangshe Zhao, Hengyu Zhang, Yifan Hu, **Lei Deng**, Yonghong Tian, Bo Xu, Guoqi Li. <br />
 *IEEE Transactions on Pattern Analysis and Machine Intelligence* (2023).
+
+### Kronecker CP Decomposition with Fast Multiplication for Compressing RNNs. ([link](https://ieeexplore.ieee.org/document/9540760)) <br />
+Dingheng Wang, Bijiao Wu, Guangshe Zhao, Man Yao, Hengnu Chen, **Lei Deng**, Tianyi Yan, Guoqi Li. <br />
+*IEEE Transactions on Neural Networks and Learning Systems* 34, 2205-2219 (2023).
 
 ### Efficient Processing of Sparse Tensor Decomposition via Unified Abstraction and PE-interactive Architecture. ([link](https://ieeexplore.ieee.org/document/9314209)) <br />
 Bangyan Wang, **Lei Deng** (correspondence), Zheng Qu, Zheng Zhang, Yuan Xie. <br />
@@ -80,10 +88,6 @@ Xiaobing Chen, Yuke Wang, Xinfeng Xie, Xing Hu, Abanti Basak, Ling Liang, Mingyu
 Ling Liang, Jianyu Xu, **Lei Deng** (correspondence), Mingyu Yan, Xing Hu, Zheng Zhang, Guoqi Li, Yuan Xie. <br />
 *IEEE Journal of Selected Topics in Signal Processing* 15, 574-586 (2021). (**Cover Paper**)
 
-### Exploring Adversarial Attack in Spiking Neural Networks with Spike-Compatible Gradient. ([link](https://ieeexplore.ieee.org/document/9527394)) <br />
-Ling Liang, Xing Hu, **Lei Deng** (correspondence), Yujie Wu, Guoqi Li, Yufei Ding, Peng Li, Yuan Xie. <br />
-*IEEE Transactions on Neural Networks and Learning Systems* (2021).
-
 ### Practical Deep Neural Network Attacks through Memory Trojaning. ([link](https://ieeexplore.ieee.org/document/9096397)) <br />
 Xing Hu, Yang Zhao, **Lei Deng** (correspondence), Ling Liang, Pengfei Zuo, Jing Ye, Yingyan Lin, Yuan Xie. <br />
 *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* 40, 1230-1243 (2021).
@@ -123,10 +127,6 @@ Han Li, Mingyu Yan, Xiaocheng Yang, **Lei Deng**, Wenming Li, Xiaochun Ye, Dongr
 ### Nonlinear Tensor Train Format for Deep Neural Network Compression. ([link](https://www.sciencedirect.com/science/article/pii/S0893608021003415)) <br />
 Dingheng Wang, Guangshe Zhao, Hengnu Chen, Zhexian Liu, **Lei Deng**, Guoqi Li. <br />
 *Neural Networks* 144, 320-333 (2021).
-
-### Kronecker CP Decomposition with Fast Multiplication for Compressing RNNs. ([link](https://ieeexplore.ieee.org/document/9540760)) <br />
-Dingheng Wang, Bijiao Wu, Guangshe Zhao, Man Yao, Hengnu Chen, **Lei Deng**, Tianyi Yan, Guoqi Li. <br />
-*IEEE Transactions on Neural Networks and Learning Systems* (2021).
 
 ### Model Compression and Hardware Acceleration for Neural Networks: A Comprehensive Survey. ([link](https://ieeexplore.ieee.org/document/9043731)) <br />
 **Lei Deng**, Guoqi Li, Song Han, Luping Shi, Yuan Xie. <br />
