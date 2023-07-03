@@ -8,9 +8,17 @@ author_profile: true
 
 ## Journals
 
+### Comprehensive SNN Compression Using ADMM Optimization and Activity Regularization. ([link](https://ieeexplore.ieee.org/document/9597482)) <br />
+**Lei Deng**, Yujie Wu, Yifan Hu, Ling Liang, Guoqi Li, Xing Hu, Yufei Ding, Peng Li, Yuan Xie. <br />
+*IEEE Transactions on Neural Networks and Learning Systems* 34, 2791-2805 (2023).
+
 ### Exploring Adversarial Attack in Spiking Neural Networks with Spike-Compatible Gradient. ([link](https://ieeexplore.ieee.org/document/9527394)) <br />
 Ling Liang, Xing Hu, **Lei Deng** (correspondence), Yujie Wu, Guoqi Li, Yufei Ding, Peng Li, Yuan Xie. <br />
 *IEEE Transactions on Neural Networks and Learning Systems* 34, 2569-2583 (2023).
+
+### Multi-grained System Integration for Hybrid-paradigm Brain-inspired Computing. (Accepted) <br />
+Jing Pei, **Lei Deng** (co-first), Cheng Ma, Xue Liu, Luping Shi. <br />
+*Science China Information Sciences* 66, 142403 (2023).
 
 ### Attention Spiking Neural Networks. ([link](https://ieeexplore.ieee.org/abstract/document/10032591)) <br />
 Man Yao, Guangshe Zhao, Hengyu Zhang, Yifan Hu, **Lei Deng**, Yonghong Tian, Bo Xu, Guoqi Li. <br />
@@ -35,10 +43,6 @@ Xin Liu, Mingyu Yan, **Lei Deng** (correspondence), Yujie Wu, De Han, Guoqi Li, 
 ### H2Learn: High-Efficiency Learning Accelerator for High-Accuracy Spiking Neural Networks. ([link](https://ieeexplore.ieee.org/document/9662447)) <br />
 Ling Liang, Zheng Qu, Zhaodong Chen, Fengbin Tu, Yujie Wu, **Lei Deng** (correspondence), Guoqi Li, Peng Li, Yuan Xie. <br />
 *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* 41, 4782-4796 (2022).
-
-### Multi-grained System Integration for Hybrid-paradigm Brain-inspired Computing. (Accepted) <br />
-Jing Pei, **Lei Deng** (co-first), Cheng Ma, Xue Liu, Luping Shi. <br />
-*Science China Information Sciences* (2022).
 
 ### A Comprehensive and Modularized Statistical Framework for Gradient Norm Equality in Deep Neural Networks. ([link](https://ieeexplore.ieee.org/abstract/document/9143512)) <br />
 Zhaodong Chen, **Lei Deng** (co-first), Bangyan Wang, Guoqi Li, Yuan Xie. <br />
@@ -79,10 +83,6 @@ Xiaobing Chen, Yuke Wang, Xinfeng Xie, Xing Hu, Abanti Basak, Ling Liang, Mingyu
 ### Understanding and Bridging the Gap between Neuromorphic Computing and Machine Learning. ([link](https://www.frontiersin.org/articles/10.3389/fncom.2021.665662/full)) <br />
 **Lei Deng** (correspondence), Huajin Tang, Kaushik Roy. <br />
 *Frontiers in Computational Neuroscience* 15, 665662 (2021).
-
-### Comprehensive SNN Compression Using ADMM Optimization and Activity Regularization. ([link](https://ieeexplore.ieee.org/document/9597482)) <br />
-**Lei Deng**, Yujie Wu, Yifan Hu, Ling Liang, Guoqi Li, Xing Hu, Yufei Ding, Peng Li, Yuan Xie. <br />
-*IEEE Transactions on Neural Networks and Learning Systems* (2021).
 
 ### Fast Search of the Optimal Contraction Sequence in Tensor Networks. ([link](https://ieeexplore.ieee.org/document/9325533)) <br />
 Ling Liang, Jianyu Xu, **Lei Deng** (correspondence), Mingyu Yan, Xing Hu, Zheng Zhang, Guoqi Li, Yuan Xie. <br />
