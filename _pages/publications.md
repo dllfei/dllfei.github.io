@@ -12,6 +12,10 @@ author_profile: true
 **Lei Deng**, Yujie Wu, Yifan Hu, Ling Liang, Guoqi Li, Xing Hu, Yufei Ding, Peng Li, Yuan Xie. <br />
 *IEEE Transactions on Neural Networks and Learning Systems* 34, 2791-2805 (2023).
 
+### Spike Attention Coding for Spiking Neural Networks. (Accepted) <br />
+Jiawen Liu, Yifan Hu, Guoqi Li, Jing Pei, **Lei Deng** (correspondence). <br />
+*IEEE Transactions on Neural Networks and Learning Systems* (2023).
+
 ### Exploring Adversarial Attack in Spiking Neural Networks with Spike-Compatible Gradient. ([link](https://ieeexplore.ieee.org/document/9527394)) <br />
 Ling Liang, Xing Hu, **Lei Deng** (correspondence), Yujie Wu, Guoqi Li, Yufei Ding, Peng Li, Yuan Xie. <br />
 *IEEE Transactions on Neural Networks and Learning Systems* 34, 2569-2583 (2023).
