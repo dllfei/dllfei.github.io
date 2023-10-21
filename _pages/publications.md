@@ -20,7 +20,7 @@ Jiawen Liu, Yifan Hu, Guoqi Li, Jing Pei, **Lei Deng** (correspondence). <br />
 Ling Liang, Xing Hu, **Lei Deng** (correspondence), Yujie Wu, Guoqi Li, Yufei Ding, Peng Li, Yuan Xie. <br />
 *IEEE Transactions on Neural Networks and Learning Systems* 34, 2569-2583 (2023).
 
-### Multi-grained System Integration for Hybrid-paradigm Brain-inspired Computing. (Accepted) <br />
+### Multi-grained System Integration for Hybrid-paradigm Brain-inspired Computing. ([link](https://link.springer.com/article/10.1007/s11432-021-3510-6)) <br />
 Jing Pei, **Lei Deng** (co-first), Cheng Ma, Xue Liu, Luping Shi. <br />
 *Science China Information Sciences* 66, 142403 (2023).
 
