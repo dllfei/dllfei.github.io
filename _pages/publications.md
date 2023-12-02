@@ -265,7 +265,7 @@ Guoqi Li, Wuhua Hu, Gaoxi Xiao, **Lei Deng**, Pei Tang, Jing Pei, Luping Shi. <b
 
 ### A Unified Structured Framework for AGI: Bridging Cognition and Neuromorphic Computing. ([link](https://link.springer.com/chapter/10.1007/978-3-031-33469-6_35)) <br />
 Mingkun Xu, Hao Zheng, Jing Pei, **Lei Deng** (correspondence). <br />
-in *nternational Conference on Artificial General Intelligence (AGI)*, Stockholm, Sweden, June 2023.
+in *International Conference on Artificial General Intelligence (AGI)*, Stockholm, Sweden, June 2023.
 
 ### Accelerating Spatiotemporal Supervised Training of Large-Scale Spiking Neural Networks on GPU. ([link](https://ieeexplore.ieee.org/abstract/document/9774780)) <br />
 Ling Liang, Zhaodong Chen, **Lei Deng** (correspondence), Fengbin Tu, Guoqi Li, Yuan Xie. <br />
