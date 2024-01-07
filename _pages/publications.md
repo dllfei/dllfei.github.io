@@ -8,6 +8,10 @@ author_profile: true
 
 ## Journals
 
+### Temporal Dendritic Heterogeneity Incorporated with Spiking Neural Networks for Learning Multi-timescale Dynamics. ([link](https://www.nature.com/articles/s41467-023-44614-z)) <br />
+Hanle Zheng, Zhong Zheng, Rui Hu, Bo Xiao, Yujie Wu, Fangwen Yu, Xue Liu, Guoqi Li, **Lei Deng**. <br />
+*Nature Communications* 15, 277 (2024).
+
 ### Comprehensive SNN Compression Using ADMM Optimization and Activity Regularization. ([link](https://ieeexplore.ieee.org/document/9597482)) <br />
 **Lei Deng**, Yujie Wu, Yifan Hu, Ling Liang, Guoqi Li, Xing Hu, Yufei Ding, Peng Li, Yuan Xie. <br />
 *IEEE Transactions on Neural Networks and Learning Systems* 34, 2791-2805 (2023).
