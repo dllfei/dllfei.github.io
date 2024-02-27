@@ -12,7 +12,7 @@ author_profile: true
 Hanle Zheng, Zhong Zheng, Rui Hu, Bo Xiao, Yujie Wu, Fangwen Yu, Xue Liu, Guoqi Li, **Lei Deng**. <br />
 *Nature Communications* 15, 277 (2024).
 
-### Adaptive Synaptic Scaling in Spiking Networks forContinual Learning and Enhanced Robustness. (Accepted) <br />
+### Adaptive Synaptic Scaling in Spiking Networks for Continual Learning and Enhanced Robustness. (Accepted) <br />
 Mingkun Xu, Faqiang Liu, Yifan Hu, Jing Pei, **Lei Deng** (correspondence). <br />
 *IEEE Transactions on Neural Networks and Learning Systems* (2024).
 
